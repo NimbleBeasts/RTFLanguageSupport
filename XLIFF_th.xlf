@@ -1,0 +1,3880 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="th" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="71f82e795746b374994c8e8cf5f1ced2" original="Assets/Localization/UI_th.asset">
+    <group id="0c76bbff638ab0c4d8f51c6185db31e5" name="UI">
+      <unit id="1660000006" name="text_menu_label_sell" xml:space="preserve">
+        <segment>
+          <source>SELL</source>
+          <target>ขาย</target>
+        </segment>
+      </unit>
+      <unit id="1660000007" name="text_menu_label_buy" xml:space="preserve">
+        <segment>
+          <source>BUY</source>
+          <target>ซื้อ</target>
+        </segment>
+      </unit>
+      <unit id="1660000040" name="text_help_press_to_collect_open_or_use" xml:space="preserve">
+        <segment>
+          <source>PRESS TO ACCESS, COLLECT, OR USE</source>
+          <target>กดเพื่อเข้าถึง, สะสม, หรือใช้งาน</target>
+        </segment>
+      </unit>
+      <unit id="1660000041" name="text_help_press_to_open_inventory" xml:space="preserve">
+        <segment>
+          <source>PRESS TO OPEN INVENTORY</source>
+          <target>กดเพื่อเปิดสินค้าคงคลัง</target>
+        </segment>
+      </unit>
+      <unit id="1660000042" name="text_menu_42" xml:space="preserve">
+        <segment>
+          <source>Low</source>
+          <target>ต่ำ</target>
+        </segment>
+      </unit>
+      <unit id="1660000043" name="text_menu_label_players" xml:space="preserve">
+        <segment>
+          <source>PLAYERS:</source>
+          <target>ผู้เล่น:</target>
+        </segment>
+      </unit>
+      <unit id="1660000044" name="text_menu_button_join_selected_server" xml:space="preserve">
+        <segment>
+          <source>JOIN SELECTED SERVER</source>
+          <target>เข้าร่วมเซิร์ฟเวอร์ที่เลือก</target>
+        </segment>
+      </unit>
+      <unit id="1660000045" name="text_help_turn_left_or_right" xml:space="preserve">
+        <segment>
+          <source>TURN LEFT OR RIGHT</source>
+          <target>เลี้ยวซ้ายหรือเลี้ยวขวา</target>
+        </segment>
+      </unit>
+      <unit id="1660000046" name="text_menu_button_graphic_settings" xml:space="preserve">
+        <segment>
+          <source>GRAPHIC SETTINGS</source>
+          <target>การตั้งค่ากราฟิก</target>
+        </segment>
+      </unit>
+      <unit id="1660000047" name="text_menu_label_set_graphics_quality" xml:space="preserve">
+        <segment>
+          <source>SET GRAPHICS QUALITY:</source>
+          <target>ตั้งค่าคุณภาพกราฟิก:</target>
+        </segment>
+      </unit>
+      <unit id="1660000048" name="text_menu_label_connect_to_server" xml:space="preserve">
+        <segment>
+          <source>CONNECT TO SERVER</source>
+          <target>เชื่อมต่อกับเซิร์ฟเวอร์</target>
+        </segment>
+      </unit>
+      <unit id="1660000049" name="text_menu_label_show" xml:space="preserve">
+        <segment>
+          <source>SHOW:</source>
+          <target>แสดง:</target>
+        </segment>
+      </unit>
+      <unit id="1660000050" name="text_help_comfort_zone" xml:space="preserve">
+        <segment>
+          <source>COMFORT ZONE</source>
+          <target>เขตความสะดวกสบาย</target>
+        </segment>
+      </unit>
+      <unit id="1660000051" name="text_menu_label_limit_fps" xml:space="preserve">
+        <segment>
+          <source>LIMIT FRAMES PER SECOND:</source>
+          <target>จำกัดเฟรมต่อวินาที:</target>
+        </segment>
+      </unit>
+      <unit id="1660000052" name="text_menu_52" xml:space="preserve">
+        <segment>
+          <source>NEW GAME</source>
+          <target>เกมใหม่</target>
+        </segment>
+      </unit>
+      <unit id="1660000053" name="text_help_near_workbench" xml:space="preserve">
+        <segment>
+          <source>Near a workbench, you can craft items. You can also upgrade the workbench using a hammer tool</source>
+          <target>ใกล้กับโต๊ะทำงาน คุณสามารถสร้างไอเท็มได้ คุณยังสามารถอัปเกรดโต๊ะทำงานโดยใช้เครื่องมือค้อน</target>
+        </segment>
+      </unit>
+      <unit id="1660000054" name="text_menu_label_ping" xml:space="preserve">
+        <segment>
+          <source>PING:</source>
+          <target>ปิง:</target>
+        </segment>
+      </unit>
+      <unit id="1660000055" name="text_menu_55" xml:space="preserve">
+        <segment>
+          <source>This server is password protected, please enter password!</source>
+          <target>เซิร์ฟเวอร์นี้ถูกป้องกันด้วยรหัสผ่าน กรุณาใส่รหัสผ่าน!</target>
+        </segment>
+      </unit>
+      <unit id="1660000056" name="text_menu_label_item" xml:space="preserve">
+        <segment>
+          <source>ITEM</source>
+          <target>รายการ</target>
+        </segment>
+      </unit>
+      <unit id="1660000057" name="text_menu_button_close" xml:space="preserve">
+        <segment>
+          <source>CLOSE</source>
+          <target>ปิด</target>
+        </segment>
+      </unit>
+      <unit id="1660000058" name="text_help_click_or_double_click" xml:space="preserve">
+        <segment>
+          <source>CLICK OR DOUBLE CLICK</source>
+          <target>คลิกหรือดับเบิลคลิก</target>
+        </segment>
+      </unit>
+      <unit id="1660000059" name="text_menu_button_invite_friends" xml:space="preserve">
+        <segment>
+          <source>INVITE FRIENDS</source>
+          <target>เชิญเพื่อน</target>
+        </segment>
+      </unit>
+      <unit id="1660000060" name="text_help_unload_ammo" xml:space="preserve">
+        <segment>
+          <source>UNLOAD AMMO</source>
+          <target>ขนถ่ายกระสุน</target>
+        </segment>
+      </unit>
+      <unit id="1660000061" name="text_menu_label_fuel" xml:space="preserve">
+        <segment>
+          <source>FUEL</source>
+          <target>เชื้อเพลิง</target>
+        </segment>
+      </unit>
+      <unit id="1660000062" name="text_menu_label_set_resolution" xml:space="preserve">
+        <segment>
+          <source>SET RESOLUTION:</source>
+          <target>ตั้งค่าความละเอียด:</target>
+        </segment>
+      </unit>
+      <unit id="1660000063" name="text_help_move_climb" xml:space="preserve">
+        <segment>
+          <source>PRESS TO MOVE AND CLIMB LADDERS UP AND DOWN</source>
+          <target>กดเพื่อเคลื่อนที่และปีนบันไดขึ้นลง</target>
+        </segment>
+      </unit>
+      <unit id="1660000064" name="text_help_repair_building" xml:space="preserve">
+        <segment>
+          <source>PRESS TO REPAIR BUILDING</source>
+          <target>กดเพื่อซ่อมอาคาร</target>
+        </segment>
+      </unit>
+      <unit id="1660000065" name="text_menu_label_set_sfx_volume" xml:space="preserve">
+        <segment>
+          <source>SET SFX VOLUME:</source>
+          <target>ตั้งค่าระดับเสียงเอฟเฟกต์:</target>
+        </segment>
+      </unit>
+      <unit id="1660000066" name="text_menu_label_inventory" xml:space="preserve">
+        <segment>
+          <source>INVENTORY</source>
+          <target>สินค้าคงคลัง</target>
+        </segment>
+      </unit>
+      <unit id="1660000067" name="text_menu_button_refresh_serverlist" xml:space="preserve">
+        <segment>
+          <source>REFRESH SERVER LIST</source>
+          <target>รีเฟรชรายการเซิร์ฟเวอร์</target>
+        </segment>
+      </unit>
+      <unit id="1660000068" name="text_help_double_click_to_craft" xml:space="preserve">
+        <segment>
+          <source>DOUBLE CLICK TO CRAFT</source>
+          <target>ดับเบิลคลิกเพื่อสร้าง</target>
+        </segment>
+      </unit>
+      <unit id="1660000069" name="text_menu_placeholder_set_maximum_players" xml:space="preserve">
+        <segment>
+          <source>SET MAXIMUM PLAYERS...</source>
+          <target>ตั้งค่าจำนวนผู้เล่นสูงสุด...</target>
+        </segment>
+      </unit>
+      <unit id="1660000070" name="text_menu_label_equipment" xml:space="preserve">
+        <segment>
+          <source>EQUIPMENT</source>
+          <target>อุปกรณ์</target>
+        </segment>
+      </unit>
+      <unit id="1660000071" name="text_menu_label_search" xml:space="preserve">
+        <segment>
+          <source>SEARCH:</source>
+          <target>ค้นหา:</target>
+        </segment>
+      </unit>
+      <unit id="1660000072" name="text_help_close_inventory" xml:space="preserve">
+        <segment>
+          <source>CLOSE INVENTORY</source>
+          <target>ปิดสินค้าคงคลัง</target>
+        </segment>
+      </unit>
+      <unit id="1660000073" name="text_help_navigation_no_bed" xml:space="preserve">
+        <segment>
+          <source>NAVIGATION UNAVAILABLE: YOU MUST DIE OR HAVE A BED FIRST</source>
+          <target>ไม่สามารถใช้งานการนำทาง: คุณต้องตายหรือมีเตียงก่อน</target>
+        </segment>
+      </unit>
+      <unit id="1660000074" name="text_menu_label_server_browser" xml:space="preserve">
+        <segment>
+          <source>SERVER BROWSER</source>
+          <target>เบราว์เซอร์เซิร์ฟเวอร์</target>
+        </segment>
+      </unit>
+      <unit id="1660000075" name="text_menu_label_camera_shake" xml:space="preserve">
+        <segment>
+          <source>TOGGLE CAMERA SHAKE:</source>
+          <target>สลับการสั่นของกล้อง:</target>
+        </segment>
+      </unit>
+      <unit id="1660000077" name="text_menu_77" xml:space="preserve">
+        <segment>
+          <source>ENTER PASSWORD HERE...</source>
+          <target>ใส่รหัสผ่านที่นี่...</target>
+        </segment>
+      </unit>
+      <unit id="1660000079" name="text_help_reload_weapon" xml:space="preserve">
+        <segment>
+          <source>PRESS TO RELOAD</source>
+          <target>กดเพื่อโหลดใหม่</target>
+        </segment>
+      </unit>
+      <unit id="1660000080" name="text_menu_80" xml:space="preserve">
+        <segment>
+          <source>FIND GAME</source>
+          <target>ค้นหาเกม</target>
+        </segment>
+      </unit>
+      <unit id="1660000081" name="text_menu_placeholder_enter_game_name" xml:space="preserve">
+        <segment>
+          <source>ENTER GAME NAME HERE...</source>
+          <target>ใส่ชื่อเกมที่นี่...</target>
+        </segment>
+      </unit>
+      <unit id="1660000082" name="text_menu_label_options" xml:space="preserve">
+        <segment>
+          <source>OPTIONS</source>
+          <target>ตัวเลือก</target>
+        </segment>
+      </unit>
+      <unit id="1660000083" name="text_menu_83" xml:space="preserve">
+        <segment>
+          <source>MENU</source>
+          <target>เมนู</target>
+        </segment>
+      </unit>
+      <unit id="1660000084" name="text_help_select_or_drag_item" xml:space="preserve">
+        <segment>
+          <source>SELECT OR DRAG ITEM</source>
+          <target>เลือกหรือลากไอเทม</target>
+        </segment>
+      </unit>
+      <unit id="1660000087" name="text_menu_label_manage_clan_on_current_server" xml:space="preserve">
+        <segment>
+          <source>MANAGE CLAN ON CURRENT SERVER</source>
+          <target>จัดการกลุ่มเผ่าบนเซิร์ฟเวอร์ปัจจุบัน</target>
+        </segment>
+      </unit>
+      <unit id="1660000088" name="text_menu_label_enter_password" xml:space="preserve">
+        <segment>
+          <source>ENTER PASSWORD</source>
+          <target>ใส่รหัสผ่าน</target>
+        </segment>
+      </unit>
+      <unit id="1660000089" name="text_menu_label_ambient_volume" xml:space="preserve">
+        <segment>
+          <source>SET AMBIENT VOLUME:</source>
+          <target>ตั้งค่าระดับเสียงแวดล้อม:</target>
+        </segment>
+      </unit>
+      <unit id="1660000090" name="text_help_scout_for_an_location" xml:space="preserve">
+        <segment>
+          <source>Find a spot packed with loot, with no animals or players around!</source>
+          <target>ค้นหาจุดที่เต็มไปด้วยของขวัญ โดยไม่มีสัตว์หรือผู้เล่นอื่นอยู่ใกล้!</target>
+        </segment>
+      </unit>
+      <unit id="1660000091" name="text_menu_91" xml:space="preserve">
+        <segment>
+          <source>ITEM</source>
+          <target>รายการ</target>
+        </segment>
+      </unit>
+      <unit id="1660000092" name="text_help_field_is_frowing_wait" xml:space="preserve">
+        <segment>
+          <source>CROPS GROWING, WAIT TO HARVEST</source>
+          <target>พืชกำลังเติบโต, รอการเก็บเกี่ยว</target>
+        </segment>
+      </unit>
+      <unit id="1660000093" name="text_help_split_items" xml:space="preserve">
+        <segment>
+          <source>SPLIT ITEMS</source>
+          <target>แยกสินค้า</target>
+        </segment>
+      </unit>
+      <unit id="1660000095" name="text_menu_label_toggle_vsync" xml:space="preserve">
+        <segment>
+          <source>TOGGLE VSYNC:</source>
+          <target>สลับ VSYNC:</target>
+        </segment>
+      </unit>
+      <unit id="1660000096" name="text_menu_label_something_wrong" xml:space="preserve">
+        <segment>
+          <source>OOOPS SOMETHING WRONG</source>
+          <target>อุ๊ปส์ เกิดข้อผิดพลาด</target>
+        </segment>
+      </unit>
+      <unit id="1660000097" name="text_menu_label_oven" xml:space="preserve">
+        <segment>
+          <source>OVEN</source>
+          <target>เตาอบ</target>
+        </segment>
+      </unit>
+      <unit id="1660000098" name="text_menu_label_output" xml:space="preserve">
+        <segment>
+          <source>OUTPUT</source>
+          <target>ผลลัพธ์</target>
+        </segment>
+      </unit>
+      <unit id="1660000100" name="text_menu_label_storage" xml:space="preserve">
+        <segment>
+          <source>STORAGE</source>
+          <target>การเก็บข้อมูล</target>
+        </segment>
+      </unit>
+      <unit id="1660000101" name="text_help_start_your_journey_now" xml:space="preserve">
+        <segment>
+          <source>It’s not the strength of the body that counts, but the strength of the spirit.</source>
+          <target>ไม่ใช่ความแข็งแรงของร่างกายที่สำคัญ แต่เป็นความแข็งแรงของจิตใจ</target>
+        </segment>
+      </unit>
+      <unit id="1660000102" name="text_menu_label_input" xml:space="preserve">
+        <segment>
+          <source>INPUT</source>
+          <target>ป้อนข้อมูล</target>
+        </segment>
+      </unit>
+      <unit id="1660000103" name="text_help_craft_axe" xml:space="preserve">
+        <segment>
+          <source>CRAFT AN AXE TO CHOP TREES.</source>
+          <target>ทำขวานเพื่อตัดไม้</target>
+        </segment>
+      </unit>
+      <unit id="1660000105" name="text_menu_label_master_volume" xml:space="preserve">
+        <segment>
+          <source>SET MASTER VOLUME:</source>
+          <target>ตั้งค่าระดับเสียงหลัก:</target>
+        </segment>
+      </unit>
+      <unit id="1660000107" name="text_menu_label_all_servers" xml:space="preserve">
+        <segment>
+          <source>ALL SERVERS</source>
+          <target>ทุกเซิร์ฟเวอร์</target>
+        </segment>
+      </unit>
+      <unit id="1660000108" name="text_menu_label_campfire" xml:space="preserve">
+        <segment>
+          <source>CAMPFIRE</source>
+          <target>กองไฟ</target>
+        </segment>
+      </unit>
+      <unit id="1660000109" name="text_help_legend" xml:space="preserve">
+        <segment>
+          <source>WOOOWWWW. YOU ARE A LEGEND!</source>
+          <target>ว้าววว. คุณเป็นตำนาน!</target>
+        </segment>
+      </unit>
+      <unit id="1660000110" name="text_menu_label_servername" xml:space="preserve">
+        <segment>
+          <source>SERVERNAME:</source>
+          <target>ชื่อเซิร์ฟเวอร์:</target>
+        </segment>
+      </unit>
+      <unit id="1660000113" name="text_help_fast_select" xml:space="preserve">
+        <segment>
+          <source>Press to select a tool and then use it to cut down a tree or mine ore</source>
+          <target>กดเพื่อเลือกเครื่องมือแล้วใช้มันในการโค่นต้นไม้หรือตัดแร่</target>
+        </segment>
+      </unit>
+      <unit id="1660000114" name="text_menu_label_set_game" xml:space="preserve">
+        <segment>
+          <source>SET GAME NAME:</source>
+          <target>ตั้งชื่อเกม:</target>
+        </segment>
+      </unit>
+      <unit id="1660000115" name="text_menu_115" xml:space="preserve">
+        <segment>
+          <source>OFF</source>
+          <target>ปิด</target>
+        </segment>
+      </unit>
+      <unit id="1660000116" name="text_help_skip_tutorial" xml:space="preserve">
+        <segment>
+          <source>PRESS TO DISABLE TOOLTIPS</source>
+          <target>กดเพื่อปิดการใช้งานคำแนะนำเครื่องมือ</target>
+        </segment>
+      </unit>
+      <unit id="1660000117" name="text_help_double_click_drop" xml:space="preserve">
+        <segment>
+          <source>DOUBLE CLICK, DROP ITEM</source>
+          <target>ดับเบิลคลิก, วางไอเทม</target>
+        </segment>
+      </unit>
+      <unit id="1660000118" name="text_help_press_to_open_build_menu" xml:space="preserve">
+        <segment>
+          <source>PRESS TO OPEN BUILD MENU</source>
+          <target>กดเพื่อเปิดเมนูการสร้าง</target>
+        </segment>
+      </unit>
+      <unit id="1660000120" name="text_help_toggle_flashlight" xml:space="preserve">
+        <segment>
+          <source>PRESS TO ACTIVATE FLASHLIGHT</source>
+          <target>กดเพื่อเปิดไฟฉาย</target>
+        </segment>
+      </unit>
+      <unit id="1660000121" name="text_menu_label_enable_password" xml:space="preserve">
+        <segment>
+          <source>ENABLE PASSWORD:</source>
+          <target>เปิดใช้งานรหัสผ่าน:</target>
+        </segment>
+      </unit>
+      <unit id="1660000122" name="text_menu_label_construction" xml:space="preserve">
+        <segment>
+          <source>Construction Menu</source>
+          <target>เมนูการก่อสร้าง</target>
+        </segment>
+      </unit>
+      <unit id="1660000123" name="text_menu_label_items_in_storage" xml:space="preserve">
+        <segment>
+          <source>ITEMS IN STORAGE: {0}</source>
+          <target>รายการในคลัง: {0}</target>
+        </segment>
+      </unit>
+      <unit id="1660000124" name="text_menu_label_enter_server_name_here" xml:space="preserve">
+        <segment>
+          <source>ENTER SERVER NAME HERE...</source>
+          <target>ใส่ชื่อเซิร์ฟเวอร์ที่นี่...</target>
+        </segment>
+      </unit>
+      <unit id="1660000125" name="text_menu_label_load_game" xml:space="preserve">
+        <segment>
+          <source>LOAD GAME</source>
+          <target>โหลดเกม</target>
+        </segment>
+      </unit>
+      <unit id="1660000126" name="text_menu_label_pw" xml:space="preserve">
+        <segment>
+          <source>PW:</source>
+          <target>รหัสผ่าน:</target>
+        </segment>
+      </unit>
+      <unit id="1660000127" name="text_help_press_to_use" xml:space="preserve">
+        <segment>
+          <source>PRESS TO USE</source>
+          <target>กดเพื่อใช้งาน</target>
+        </segment>
+      </unit>
+      <unit id="1660000128" name="text_menu_label_toggle_fullscreen" xml:space="preserve">
+        <segment>
+          <source>TOGGLE FULLSCREEN:</source>
+          <target>สลับเต็มหน้าจอ</target>
+        </segment>
+      </unit>
+      <unit id="1660000129" name="text_menu_label_toggle_tutorial" xml:space="preserve">
+        <segment>
+          <source>TOGGLE TUTORIAL AND TOOLTIPS:</source>
+          <target>สลับการสอนและเคล็ดลับเครื่องมือ:</target>
+        </segment>
+      </unit>
+      <unit id="1660000131" name="text_menu_button_members" xml:space="preserve">
+        <segment>
+          <source>MEMBERS</source>
+          <target>สมาชิก</target>
+        </segment>
+      </unit>
+      <unit id="1660000132" name="text_help_press_to_harvest" xml:space="preserve">
+        <segment>
+          <source>TAP TO HARVEST</source>
+          <target>แตะเพื่อเก็บเกี่ยว</target>
+        </segment>
+      </unit>
+      <unit id="1660000133" name="text_menu_label_steamp2p" xml:space="preserve">
+        <segment>
+          <source>STEAM P2P:</source>
+          <target>STEAM P2P:</target>
+        </segment>
+      </unit>
+      <unit id="1660000134" name="text_menu_label_manage_clan" xml:space="preserve">
+        <segment>
+          <source>MANAGE CLAN</source>
+          <target>จัดการกลุ่ม</target>
+        </segment>
+      </unit>
+      <unit id="1660000135" name="text_help_close_build_menu" xml:space="preserve">
+        <segment>
+          <source>CLOSE BUILD MENU</source>
+          <target>ปิดเมนูการสร้าง</target>
+        </segment>
+      </unit>
+      <unit id="1660000136" name="text_help_upgrade_item" xml:space="preserve">
+        <segment>
+          <source>PRESS TO UPGRADE BUILDING OR ITEM</source>
+          <target>กดเพื่ออัพเกรดอาคารหรือสิ่งของ</target>
+        </segment>
+      </unit>
+      <unit id="1660000137" name="text_help_press_to_respawn" xml:space="preserve">
+        <segment>
+          <source>PRESS TO RESPAWN</source>
+          <target>กดเพื่อเกิดใหม่</target>
+        </segment>
+      </unit>
+      <unit id="1660000138" name="text_menu_label_music_volume" xml:space="preserve">
+        <segment>
+          <source>SET MUSIC VOLUME:</source>
+          <target>ตั้งค่าระดับเสียงเพลง:</target>
+        </segment>
+      </unit>
+      <unit id="1660000139" name="text_menu_139" xml:space="preserve">
+        <segment>
+          <source>Discussions</source>
+          <target>การสนทนา</target>
+        </segment>
+      </unit>
+      <unit id="1660000140" name="text_menu_label_toggle_lights" xml:space="preserve">
+        <segment>
+          <source>TOGGLE 2D LIGHTS:</source>
+          <target>สลับไฟ 2D:</target>
+        </segment>
+      </unit>
+      <unit id="1660000141" name="text_help_press_to_jump" xml:space="preserve">
+        <segment>
+          <source>Press to Jump Over Obstacles or Destroy Them with a Tool</source>
+          <target>กดเพื่อกระโดดข้ามสิ่งกีดขวางหรือล้มพวกมันด้วยเครื่องมือ</target>
+        </segment>
+      </unit>
+      <unit id="1660000143" name="text_menu_143" xml:space="preserve">
+        <segment>
+          <source>HEY THERE!</source>
+          <target>เฮ้ ที่นั่น</target>
+        </segment>
+      </unit>
+      <unit id="1660000144" name="text_menu_label_paint_selection" xml:space="preserve">
+        <segment>
+          <source>PAINT SELECTION</source>
+          <target>การเลือกสีทา</target>
+        </segment>
+      </unit>
+      <unit id="1660000145" name="text_menu_help_enter_boat" xml:space="preserve">
+        <segment>
+          <source>PRESS TO ENTER BOAT</source>
+          <target>กดเพื่อเข้าเรือ</target>
+        </segment>
+      </unit>
+      <unit id="1660000147" name="text_menu_label_address" xml:space="preserve">
+        <segment>
+          <source>ADDRESS:</source>
+          <target>ที่อยู่:</target>
+        </segment>
+      </unit>
+      <unit id="1660000148" name="text_menu_label_cost" xml:space="preserve">
+        <segment>
+          <source>COST</source>
+          <target>ต้นทุน</target>
+        </segment>
+      </unit>
+      <unit id="1660000149" name="text_menu_label_custom_skins" xml:space="preserve">
+        <segment>
+          <source>CUSTOM SKINS</source>
+          <target>สกินที่ปรับแต่งได้</target>
+        </segment>
+      </unit>
+      <unit id="1660000150" name="text_help_drop_item" xml:space="preserve">
+        <segment>
+          <source>PRESS TO DROP ITEM</source>
+          <target>กดเพื่อทิ้งไอเทม</target>
+        </segment>
+      </unit>
+      <unit id="1660000152" name="text_help_quick_swap" xml:space="preserve">
+        <segment>
+          <source>QUICK SWAP</source>
+          <target>สลับเร็ว</target>
+        </segment>
+      </unit>
+      <unit id="1660000153" name="text_help_tap_to_land_drone" xml:space="preserve">
+        <segment>
+          <source>PRESS TO LAND</source>
+          <target>กดเพื่อลงจอด</target>
+        </segment>
+      </unit>
+      <unit id="1660000154" name="text_menu_label_toggle_show_ping" xml:space="preserve">
+        <segment>
+          <source>TOGGLE SHOW PING:</source>
+          <target>สลับแสดงค่าปิง:</target>
+        </segment>
+      </unit>
+      <unit id="1660000155" name="text_menu_label_smelter" xml:space="preserve">
+        <segment>
+          <source>SMELTER</source>
+          <target>โรงหลอม</target>
+        </segment>
+      </unit>
+      <unit id="1660000157" name="text_menu_label_start_game" xml:space="preserve">
+        <segment>
+          <source>START GAME</source>
+          <target>เริ่มเกม</target>
+        </segment>
+      </unit>
+      <unit id="1660000158" name="text_help_place_foundation" xml:space="preserve">
+        <segment>
+          <source>TRY TO PLACE A FOUNDATION FOR YOUR FORTRESS.</source>
+          <target>พยายามวางรากฐานสำหรับป้อมปราการของคุณ</target>
+        </segment>
+      </unit>
+      <unit id="1660000159" name="text_menu_label_set_maximum_player" xml:space="preserve">
+        <segment>
+          <source>SET MAXIMUM PLAYERS:</source>
+          <target>ตั้งค่าจำนวนผู้เล่นสูงสุด:</target>
+        </segment>
+      </unit>
+      <unit id="1660000160" name="text_menu_button_controls" xml:space="preserve">
+        <segment>
+          <source>CONTROLS</source>
+          <target>การควบคุม</target>
+        </segment>
+      </unit>
+      <unit id="1660000161" name="text_menu_button_general_settings" xml:space="preserve">
+        <segment>
+          <source>GENERAL SETTINGS</source>
+          <target>การตั้งค่าทั่วไป</target>
+        </segment>
+      </unit>
+      <unit id="1660000162" name="text_menu_button_invitations" xml:space="preserve">
+        <segment>
+          <source>INVITATIONS</source>
+          <target>คำเชิญ</target>
+        </segment>
+      </unit>
+      <unit id="1660000163" name="text_menu_label_building" xml:space="preserve">
+        <segment>
+          <source>BUILDING:</source>
+          <target>อาคาร</target>
+        </segment>
+      </unit>
+      <unit id="1660000165" name="text_menu_label_toggle_display_fps" xml:space="preserve">
+        <segment>
+          <source>SHOW FRAMES PER SECONDS:</source>
+          <target>แสดงเฟรมต่อวินาที:</target>
+        </segment>
+      </unit>
+      <unit id="1660000166" name="text_menu_166" xml:space="preserve">
+        <segment>
+          <source>SERVER: Current server player count: 1</source>
+          <target>เซิร์ฟเวอร์: จำนวนผู้เล่นในเซิร์ฟเวอร์ปัจจุบัน: 1</target>
+        </segment>
+      </unit>
+      <unit id="1660000167" name="text_menu_button_apply_settings" xml:space="preserve">
+        <segment>
+          <source>APPLY SETTINGS</source>
+          <target>ปรับใช้การตั้งค่า</target>
+        </segment>
+      </unit>
+      <unit id="1660000168" name="text_help_open_or_close" xml:space="preserve">
+        <segment>
+          <source>OPEN OR CLOSE</source>
+          <target>เปิดหรือปิด</target>
+        </segment>
+      </unit>
+      <unit id="1660000169" name="text_menu_button_disconnect" xml:space="preserve">
+        <segment>
+          <source>LEAVE SERVER</source>
+          <target>ออกจากเซิร์ฟเวอร์</target>
+        </segment>
+      </unit>
+      <unit id="1660000170" name="" xml:space="preserve">
+        <segment>
+          <source>NIMBLEBEASTS 2024 - VERSION</source>
+        </segment>
+      </unit>
+      <unit id="1660000171" name="text_menu_button_reset_to_defaults" xml:space="preserve">
+        <segment>
+          <source>RESET TO DEFAULTS</source>
+          <target>รีเซ็ตเป็นค่าเริ่มต้น</target>
+        </segment>
+      </unit>
+      <unit id="1660000172" name="text_menu_label_vendingmachine" xml:space="preserve">
+        <segment>
+          <source>Vending Machine</source>
+          <target>ตู้ขายสินค้าอัตโนมัติ</target>
+        </segment>
+      </unit>
+      <unit id="163828340000001" name="item_Wood" xml:space="preserve">
+        <segment>
+          <source>Wood</source>
+          <target>ไม้</target>
+        </segment>
+      </unit>
+      <unit id="163828340000002" name="item_Stone" xml:space="preserve">
+        <segment>
+          <source>Stone</source>
+          <target>หิน</target>
+        </segment>
+      </unit>
+      <unit id="163828340000003" name="item_Axe" xml:space="preserve">
+        <segment>
+          <source>Axe</source>
+          <target>ขวาน</target>
+        </segment>
+      </unit>
+      <unit id="163828340000004" name="item_Bow" xml:space="preserve">
+        <segment>
+          <source>Bow</source>
+          <target>คันธนู</target>
+        </segment>
+      </unit>
+      <unit id="163828340000005" name="item_Arrow" xml:space="preserve">
+        <segment>
+          <source>Arrow</source>
+          <target>ลูกศร</target>
+        </segment>
+      </unit>
+      <unit id="163828340000006" name="item_Campfire" xml:space="preserve">
+        <segment>
+          <source>Campfire</source>
+          <target>กองไฟ</target>
+        </segment>
+      </unit>
+      <unit id="163828340000007" name="item_Bed" xml:space="preserve">
+        <segment>
+          <source>Bed</source>
+          <target>เตียง</target>
+        </segment>
+      </unit>
+      <unit id="163828340000008" name="item_Pick Axe" xml:space="preserve">
+        <segment>
+          <source>Pick Axe</source>
+          <target>จอบ</target>
+        </segment>
+      </unit>
+      <unit id="163828340000009" name="item_Coal" xml:space="preserve">
+        <segment>
+          <source>Coal</source>
+          <target>ถ่านหิน</target>
+        </segment>
+      </unit>
+      <unit id="163828340000010" name="item_Metal Fragments" xml:space="preserve">
+        <segment>
+          <source>Metal Fragments</source>
+          <target>เศษโลหะ</target>
+        </segment>
+      </unit>
+      <unit id="163828340000011" name="item_Raw Meat" xml:space="preserve">
+        <segment>
+          <source>Raw Meat</source>
+          <target>เนื้อดิบ</target>
+        </segment>
+      </unit>
+      <unit id="163828340000012" name="item_Pistol" xml:space="preserve">
+        <segment>
+          <source>Pistol</source>
+          <target>ปืนพก</target>
+        </segment>
+      </unit>
+      <unit id="163828340000013" name="item_Grenade" xml:space="preserve">
+        <segment>
+          <source>Grenade</source>
+          <target>ระเบิดมือ</target>
+        </segment>
+      </unit>
+      <unit id="163828340000014" name="item_Bear Rug" xml:space="preserve">
+        <segment>
+          <source>Bear Rug</source>
+          <target>พรมหนังหมี</target>
+        </segment>
+      </unit>
+      <unit id="163828340000015" name="item_Deer Skull" xml:space="preserve">
+        <segment>
+          <source>Deer Skull</source>
+          <target>กะโหลกกวาง</target>
+        </segment>
+      </unit>
+      <unit id="163828340000016" name="item_Wall Rug" xml:space="preserve">
+        <segment>
+          <source>Wall Rug</source>
+          <target>พรมแขวนผนัง</target>
+        </segment>
+      </unit>
+      <unit id="163828340000017" name="item_Pistol Bullet" xml:space="preserve">
+        <segment>
+          <source>Pistol Bullet</source>
+          <target>กระสุนปืนพก</target>
+        </segment>
+      </unit>
+      <unit id="163828340000018" name="item_Hammer" xml:space="preserve">
+        <segment>
+          <source>Hammer</source>
+          <target>ค้อน</target>
+        </segment>
+      </unit>
+      <unit id="163828340000019" name="item_Large Wood Box" xml:space="preserve">
+        <segment>
+          <source>Large Wood Box</source>
+          <target>กล่องไม้ขนาดใหญ่</target>
+        </segment>
+      </unit>
+      <unit id="163828340000020" name="item_Vending Machine" xml:space="preserve">
+        <segment>
+          <source>Vending Machine</source>
+          <target>ตู้ขายสินค้าอัตโนมัติ</target>
+        </segment>
+      </unit>
+      <unit id="163828340000021" name="item_Satoshi" xml:space="preserve">
+        <segment>
+          <source>Satoshi</source>
+          <target>ซาโตชิ</target>
+        </segment>
+      </unit>
+      <unit id="163828340000022" name="item_Backpack" xml:space="preserve">
+        <segment>
+          <source>Backpack</source>
+          <target>กระเป๋าเป้</target>
+        </segment>
+      </unit>
+      <unit id="163828340000023" name="item_Iron" xml:space="preserve">
+        <segment>
+          <source>Iron</source>
+          <target>เหล็ก</target>
+        </segment>
+      </unit>
+      <unit id="163828340000024" name="item_Grilled Meat" xml:space="preserve">
+        <segment>
+          <source>Grilled Meat</source>
+          <target>เนื้อย่าง</target>
+        </segment>
+      </unit>
+      <unit id="163828340000025" name="item_Workbench 1" xml:space="preserve">
+        <segment>
+          <source>Workbench 1</source>
+          <target>โต๊ะทำงาน 1</target>
+        </segment>
+      </unit>
+      <unit id="163828340000026" name="item_Workbench 2" xml:space="preserve">
+        <segment>
+          <source>Workbench 2</source>
+          <target>เวิร์กเบนช์ 2</target>
+        </segment>
+      </unit>
+      <unit id="163828340000027" name="item_Workbench 3" xml:space="preserve">
+        <segment>
+          <source>Workbench 3</source>
+          <target>เวิร์กเบนช์ 3</target>
+        </segment>
+      </unit>
+      <unit id="163828340000028" name="item_Sulfur" xml:space="preserve">
+        <segment>
+          <source>Sulfur</source>
+          <target>กำมะถัน</target>
+        </segment>
+      </unit>
+      <unit id="163828340000029" name="item_Sulfur Powder" xml:space="preserve">
+        <segment>
+          <source>Sulfur Powder</source>
+          <target>ผงกำมะถัน</target>
+        </segment>
+      </unit>
+      <unit id="163828340000030" name="item_Hoe" xml:space="preserve">
+        <segment>
+          <source>Hoe</source>
+          <target>เสียม</target>
+        </segment>
+      </unit>
+      <unit id="163828340000031" name="item_Flax" xml:space="preserve">
+        <segment>
+          <source>Flax</source>
+          <target>ป่าน</target>
+        </segment>
+      </unit>
+      <unit id="163828340000032" name="item_Wheat" xml:space="preserve">
+        <segment>
+          <source>Wheat</source>
+          <target>ข้าวสาลี</target>
+        </segment>
+      </unit>
+      <unit id="163828340000033" name="item_Carrot" xml:space="preserve">
+        <segment>
+          <source>Carrot</source>
+          <target>แครอท</target>
+        </segment>
+      </unit>
+      <unit id="163828340000034" name="item_Potato" xml:space="preserve">
+        <segment>
+          <source>Potato</source>
+          <target>มันฝรั่ง</target>
+        </segment>
+      </unit>
+      <unit id="163828340000035" name="item_Flax Seed" xml:space="preserve">
+        <segment>
+          <source>Flax Seed</source>
+          <target>เมล็ดแฟลกซ์</target>
+        </segment>
+      </unit>
+      <unit id="163828340000036" name="item_Wheat Seed" xml:space="preserve">
+        <segment>
+          <source>Wheat Seed</source>
+          <target>เมล็ดข้าวสาลี</target>
+        </segment>
+      </unit>
+      <unit id="163828340000037" name="item_Carrot Seed" xml:space="preserve">
+        <segment>
+          <source>Carrot Seed</source>
+          <target>เมล็ดแครอท</target>
+        </segment>
+      </unit>
+      <unit id="163828340000038" name="item_Potato Seed" xml:space="preserve">
+        <segment>
+          <source>Potato Seed</source>
+          <target>เมล็ดพันธุ์มันฝรั่ง</target>
+        </segment>
+      </unit>
+      <unit id="163828340000039" name="item_Linen" xml:space="preserve">
+        <segment>
+          <source>Linen</source>
+          <target>ผ้าลินิน</target>
+        </segment>
+      </unit>
+      <unit id="163828340000040" name="item_Leather" xml:space="preserve">
+        <segment>
+          <source>Leather</source>
+          <target>หนัง</target>
+        </segment>
+      </unit>
+      <unit id="163828340000041" name="item_Bread" xml:space="preserve">
+        <segment>
+          <source>Bread</source>
+          <target>ขนมปัง</target>
+        </segment>
+      </unit>
+      <unit id="163828340000042" name="item_Baked Potato" xml:space="preserve">
+        <segment>
+          <source>Baked Potato</source>
+          <target>มันฝรั่งอบ</target>
+        </segment>
+      </unit>
+      <unit id="163828340000043" name="item_Fish" xml:space="preserve">
+        <segment>
+          <source>Fish</source>
+          <target>ปลา</target>
+        </segment>
+      </unit>
+      <unit id="163828340000044" name="item_Fish Dish" xml:space="preserve">
+        <segment>
+          <source>Fish Dish</source>
+          <target>จานปลา</target>
+        </segment>
+      </unit>
+      <unit id="163828340000045" name="item_Ham Sandwich" xml:space="preserve">
+        <segment>
+          <source>Ham Sandwich</source>
+          <target>แซนด์วิชแฮม</target>
+        </segment>
+      </unit>
+      <unit id="163828340000046" name="item_Stew" xml:space="preserve">
+        <segment>
+          <source>Stew</source>
+          <target>แกง</target>
+        </segment>
+      </unit>
+      <unit id="163828340000047" name="item_Carrot Soup" xml:space="preserve">
+        <segment>
+          <source>Carrot Soup</source>
+          <target>ซุปแครอท</target>
+        </segment>
+      </unit>
+      <unit id="163828340000048" name="item_Oven" xml:space="preserve">
+        <segment>
+          <source>Oven</source>
+          <target>เตาอบ</target>
+        </segment>
+      </unit>
+      <unit id="163828340000049" name="item_Smelter" xml:space="preserve">
+        <segment>
+          <source>Smelter</source>
+          <target>โรงหลอม</target>
+        </segment>
+      </unit>
+      <unit id="163828340000050" name="item_C4" xml:space="preserve">
+        <segment>
+          <source>C4</source>
+          <target>C4</target>
+        </segment>
+      </unit>
+      <unit id="163828340000051" name="item_Bush Shirt" xml:space="preserve">
+        <segment>
+          <source>Bush Shirt</source>
+          <target>เสื้อบุช</target>
+        </segment>
+      </unit>
+      <unit id="163828340000052" name="item_Bush Pants" xml:space="preserve">
+        <segment>
+          <source>Bush Pants</source>
+          <target>กางเกงพุ่มไม้</target>
+        </segment>
+      </unit>
+      <unit id="163828340000053" name="item_Leather Pants" xml:space="preserve">
+        <segment>
+          <source>Leather Pants</source>
+          <target>กางเกงหนัง</target>
+        </segment>
+      </unit>
+      <unit id="163828340000054" name="item_Leather Shoes" xml:space="preserve">
+        <segment>
+          <source>Leather Shoes</source>
+          <target>รองเท้าหนัง</target>
+        </segment>
+      </unit>
+      <unit id="163828340000055" name="item_Military Shoes" xml:space="preserve">
+        <segment>
+          <source>Military Shoes</source>
+          <target>รองเท้าทหาร</target>
+        </segment>
+      </unit>
+      <unit id="163828340000056" name="item_Leather Shirt" xml:space="preserve">
+        <segment>
+          <source>Leather Shirt</source>
+          <target>เสื้อหนัง</target>
+        </segment>
+      </unit>
+      <unit id="163828340000057" name="item_Torch Light" xml:space="preserve">
+        <segment>
+          <source>Torch Light</source>
+          <target>ไฟฉาย</target>
+        </segment>
+      </unit>
+      <unit id="163828340000058" name="item_Wooden Cover" xml:space="preserve">
+        <segment>
+          <source>Wooden Cover</source>
+          <target>ปกไม้</target>
+        </segment>
+      </unit>
+      <unit id="163828340000059" name="item_Red Keycard" xml:space="preserve">
+        <segment>
+          <source>Red Keycard</source>
+          <target>บัตรคีย์การ์ดสีแดง</target>
+        </segment>
+      </unit>
+      <unit id="163828340000060" name="item_Blue Keycard" xml:space="preserve">
+        <segment>
+          <source>Blue Keycard</source>
+          <target>บัตรคีย์การ์ดสีฟ้า</target>
+        </segment>
+      </unit>
+      <unit id="163828340000061" name="item_Green Keycard" xml:space="preserve">
+        <segment>
+          <source>Green Keycard</source>
+          <target>บัตรกุญแจสีเขียว</target>
+        </segment>
+      </unit>
+      <unit id="163828340000062" name="item_Ak47" xml:space="preserve">
+        <segment>
+          <source>Ak47</source>
+          <target>เอเค47</target>
+        </segment>
+      </unit>
+      <unit id="163828340000063" name="item_Uzi" xml:space="preserve">
+        <segment>
+          <source>Uzi</source>
+          <target>อูซี่</target>
+        </segment>
+      </unit>
+      <unit id="163828340000064" name="item_Shotgun" xml:space="preserve">
+        <segment>
+          <source>Shotgun</source>
+          <target>ปืนลูกซอง</target>
+        </segment>
+      </unit>
+      <unit id="163828340000065" name="item_Rifle Bullet" xml:space="preserve">
+        <segment>
+          <source>Rifle Bullet</source>
+          <target>กระสุนปืนไรเฟิล</target>
+        </segment>
+      </unit>
+      <unit id="163828340000066" name="item_Shotgun Bullet" xml:space="preserve">
+        <segment>
+          <source>Shotgun Bullet</source>
+          <target>กระสุนปืนลูกซอง</target>
+        </segment>
+      </unit>
+      <unit id="163828340000067" name="item_Ak47 Body" xml:space="preserve">
+        <segment>
+          <source>Ak47 Body</source>
+          <target>ตัวปืน AK47</target>
+        </segment>
+      </unit>
+      <unit id="163828340000068" name="item_Uzi Body" xml:space="preserve">
+        <segment>
+          <source>Uzi Body</source>
+          <target>ร่างกายอูซี่</target>
+        </segment>
+      </unit>
+      <unit id="163828340000069" name="item_Shotgun Body" xml:space="preserve">
+        <segment>
+          <source>Shotgun Body</source>
+          <target>ตัวปืนลูกซอง</target>
+        </segment>
+      </unit>
+      <unit id="163828340000070" name="item_Pistol Body" xml:space="preserve">
+        <segment>
+          <source>Pistol Body</source>
+          <target>ตัวปืนพก</target>
+        </segment>
+      </unit>
+      <unit id="163828340000071" name="item_Gun Powder" xml:space="preserve">
+        <segment>
+          <source>Gun Powder</source>
+          <target>ดินปืน</target>
+        </segment>
+      </unit>
+      <unit id="163828340000072" name="item_Lantern" xml:space="preserve">
+        <segment>
+          <source>Lantern</source>
+          <target>โคมไฟ</target>
+        </segment>
+      </unit>
+      <unit id="163828340000073" name="item_Beanie" xml:space="preserve">
+        <segment>
+          <source>Beanie</source>
+          <target>หมวกถัก</target>
+        </segment>
+      </unit>
+      <unit id="163828340000074" name="item_Emerald Beanie" xml:space="preserve">
+        <segment>
+          <source>Emerald Beanie</source>
+          <target>บีนนี่สีเขียวมรกต</target>
+        </segment>
+      </unit>
+      <unit id="163828340000075" name="item_Charcoal Beanie" xml:space="preserve">
+        <segment>
+          <source>Charcoal Beanie</source>
+          <target>บีนี่สีถ่าน</target>
+        </segment>
+      </unit>
+      <unit id="163828340000076" name="item_Beret" xml:space="preserve">
+        <segment>
+          <source>Beret</source>
+          <target>หมวกเบเร่ต์</target>
+        </segment>
+      </unit>
+      <unit id="163828340000077" name="item_Olive Beret" xml:space="preserve">
+        <segment>
+          <source>Olive Beret</source>
+          <target>หมวกเบเร่ต์สีมะกอก</target>
+        </segment>
+      </unit>
+      <unit id="163828340000078" name="item_Base Cap" xml:space="preserve">
+        <segment>
+          <source>Base Cap</source>
+          <target>หมวกแก๊ป</target>
+        </segment>
+      </unit>
+      <unit id="163828340000079" name="item_Obsidian Cap" xml:space="preserve">
+        <segment>
+          <source>Obsidian Cap</source>
+          <target>หมวกโอบซิเดียน</target>
+        </segment>
+      </unit>
+      <unit id="163828340000080" name="item_Hat" xml:space="preserve">
+        <segment>
+          <source>Hat</source>
+          <target>หมวก</target>
+        </segment>
+      </unit>
+      <unit id="163828340000081" name="item_Vintage Hat" xml:space="preserve">
+        <segment>
+          <source>Vintage Hat</source>
+          <target>หมวกวินเทจ</target>
+        </segment>
+      </unit>
+      <unit id="163828340000082" name="item_Military Pants" xml:space="preserve">
+        <segment>
+          <source>Military Pants</source>
+          <target>กางเกงทหาร</target>
+        </segment>
+      </unit>
+      <unit id="163828340000083" name="item_Military Gloves" xml:space="preserve">
+        <segment>
+          <source>Military Gloves</source>
+          <target>ถุงมือทหาร</target>
+        </segment>
+      </unit>
+      <unit id="163828340000084" name="item_Military Helmet" xml:space="preserve">
+        <segment>
+          <source>Military Helmet</source>
+          <target>หมวกนิรภัยทางทหาร</target>
+        </segment>
+      </unit>
+      <unit id="163828340000085" name="item_Military Shirt" xml:space="preserve">
+        <segment>
+          <source>Military Shirt</source>
+          <target>เสื้อเชิ้ตทหาร</target>
+        </segment>
+      </unit>
+      <unit id="163828340000086" name="item_Camouflage Pants" xml:space="preserve">
+        <segment>
+          <source>Camouflage Pants</source>
+          <target>กางเกงพราง</target>
+        </segment>
+      </unit>
+      <unit id="163828340000087" name="item_Camouflage Shirt" xml:space="preserve">
+        <segment>
+          <source>Camouflage Shirt</source>
+          <target>เสื้อลายพราง</target>
+        </segment>
+      </unit>
+      <unit id="163828340000088" name="item_Scavenger Vest" xml:space="preserve">
+        <segment>
+          <source>Scavenger Vest</source>
+          <target>เสื้อกั๊กของคนเก็บของเก่า</target>
+        </segment>
+      </unit>
+      <unit id="163828340000089" name="item_Rusty Combat Vest" xml:space="preserve">
+        <segment>
+          <source>Rusty Combat Vest</source>
+          <target>เสื้อเกราะประจำการเก่า</target>
+        </segment>
+      </unit>
+      <unit id="163828340000090" name="item_Urban Guerrilla Vest" xml:space="preserve">
+        <segment>
+          <source>Urban Guerrilla Vest</source>
+          <target>เสื้อกั๊กกองโจรเมือง</target>
+        </segment>
+      </unit>
+      <unit id="163828340000091" name="item_Durable Jeans" xml:space="preserve">
+        <segment>
+          <source>Durable Jeans</source>
+          <target>ยีนส์ทนทาน</target>
+        </segment>
+      </unit>
+      <unit id="163828340000092" name="item_Rugged Shirt" xml:space="preserve">
+        <segment>
+          <source>Rugged Shirt</source>
+          <target>เสื้อทนทาน</target>
+        </segment>
+      </unit>
+      <unit id="163828340000093" name="item_Tactical Gloves" xml:space="preserve">
+        <segment>
+          <source>Tactical Gloves</source>
+          <target>ถุงมือทางยุทธวิธี</target>
+        </segment>
+      </unit>
+      <unit id="163828340000094" name="item_Leather Gloves" xml:space="preserve">
+        <segment>
+          <source>Leather Gloves</source>
+          <target>ถุงมือหนัง</target>
+        </segment>
+      </unit>
+      <unit id="163828340000095" name="item_Nuke Blueprint" xml:space="preserve">
+        <segment>
+          <source>Nuke Blueprint</source>
+          <target>แบบแปลนอาวุธนิวเคลียร์</target>
+        </segment>
+      </unit>
+      <unit id="163828340000096" name="item_Nuke Frame" xml:space="preserve">
+        <segment>
+          <source>Nuke Frame</source>
+          <target>เฟรมนิวเคลียร์</target>
+        </segment>
+      </unit>
+      <unit id="163828340000097" name="item_Nuke Case" xml:space="preserve">
+        <segment>
+          <source>Nuke Case</source>
+          <target>กระเป๋านิวเคลียร์</target>
+        </segment>
+      </unit>
+      <unit id="163828340000098" name="item_Nuke Reflector" xml:space="preserve">
+        <segment>
+          <source>Nuke Reflector</source>
+          <target>ตัวสะท้อนนิวเคียร์</target>
+        </segment>
+      </unit>
+      <unit id="163828340000099" name="item_Nuke Trigger" xml:space="preserve">
+        <segment>
+          <source>Nuke Trigger</source>
+          <target>ตัวชนวนนิวเคลียร์</target>
+        </segment>
+      </unit>
+      <unit id="163828340000100" name="item_Nuke Timer" xml:space="preserve">
+        <segment>
+          <source>Nuke Timer</source>
+          <target>ตัวจับเวลานิวเคลียร์</target>
+        </segment>
+      </unit>
+      <unit id="163828340000101" name="item_Nuke Core" xml:space="preserve">
+        <segment>
+          <source>Nuke Core</source>
+          <target>แกนนิวเคลียร์</target>
+        </segment>
+      </unit>
+      <unit id="163834090000001" name="item_Wood_info" xml:space="preserve">
+        <segment>
+          <source>A basic building material gathered from trees. Essential for crafting and construction.</source>
+          <target>วัสดุก่อสร้างพื้นฐานที่ได้มาจากต้นไม้ จำเป็นสำหรับการสร้างและก่อสร้าง</target>
+        </segment>
+      </unit>
+      <unit id="163834090000002" name="item_Stone_info" xml:space="preserve">
+        <segment>
+          <source>Commonly found resource, useful for crafting tools and building sturdy structures.</source>
+          <target>ทรัพยากรที่พบได้ทั่วไป มีประโยชน์สำหรับการสร้างเครื่องมือและสิ่งปลูกสร้างที่แข็งแรง</target>
+        </segment>
+      </unit>
+      <unit id="163834090000003" name="item_Axe_info" xml:space="preserve">
+        <segment>
+          <source>A tool for chopping wood. Essential for gathering and can be used as a weapon.</source>
+          <target>เครื่องมือสำหรับตัดไม้ จำเป็นสำหรับการเก็บเกี่ยวและสามารถใช้เป็นอาวุธได้</target>
+        </segment>
+      </unit>
+      <unit id="163834090000004" name="item_Bow_info" xml:space="preserve">
+        <segment>
+          <source>A ranged weapon used for hunting wildlife and defending against threats. Requires arrows to use.</source>
+          <target>อาวุธระยะไกลที่ใช้สำหรับล่าสัตว์ป่าและป้องกันภัยคุกคาม ต้องใช้ลูกศรเพื่อใช้งาน</target>
+        </segment>
+      </unit>
+      <unit id="163834090000005" name="item_Arrow_info" xml:space="preserve">
+        <segment>
+          <source>Ammunition for bows. Crafted from wood and stone, essential for hunting and combat.</source>
+          <target>กระสุนสำหรับธนู ทำจากไม้และหิน จำเป็นสำหรับการล่าสัตว์และการต่อสู้</target>
+        </segment>
+      </unit>
+      <unit id="163834090000006" name="item_Campfire_info" xml:space="preserve">
+        <segment>
+          <source>Fundamental source for cooking and smelting. Crucial for enduring survival in extreme conditions.</source>
+          <target>แหล่งที่มาพื้นฐานสำหรับการทำอาหารและการหลอมเหลว สำคัญสำหรับการอยู่รอดในสภาพแวดล้อมที่รุนแรง</target>
+        </segment>
+      </unit>
+      <unit id="163834090000007" name="item_Bed_info" xml:space="preserve">
+        <segment>
+          <source>A place to rest and respawn.</source>
+          <target>สถานที่พักผ่อนและเกิดใหม่</target>
+        </segment>
+      </unit>
+      <unit id="163834090000008" name="item_Pick Axe_info" xml:space="preserve">
+        <segment>
+          <source>Tool used for mining resources like stone, sulfur and metal. </source>
+          <target>เครื่องมือที่ใช้สำหรับการขุดแร่ทรัพยากรเช่นหิน กำมะถัน และโลหะ</target>
+        </segment>
+      </unit>
+      <unit id="163834090000009" name="item_Coal_info" xml:space="preserve">
+        <segment>
+          <source>A valuable resource for crafting. </source>
+          <target>ทรัพยากรที่มีค่าสำหรับการสร้างสรรค์งานฝีมือ</target>
+        </segment>
+      </unit>
+      <unit id="163834090000010" name="item_Metal Fragments_info" xml:space="preserve">
+        <segment>
+          <source>Refined metal for crafting and building, made by smelting ore.</source>
+          <target>โลหะที่ผ่านการกลั่นสำหรับงานฝีมือและการก่อสร้าง ทำจากการหลอมแร่</target>
+        </segment>
+      </unit>
+      <unit id="163834090000011" name="item_Raw Meat_info" xml:space="preserve">
+        <segment>
+          <source>Basic food from hunting wildlife. Needs cooking for safe eating.</source>
+          <target>อาหารพื้นฐานจากการล่าสัตว์ป่า ต้องการการปรุงสุกเพื่อการรับประทานที่ปลอดภัย</target>
+        </segment>
+      </unit>
+      <unit id="163834090000012" name="item_Pistol_info" xml:space="preserve">
+        <segment>
+          <source>Handheld firearm, useful for self-defense and hunting. Requires bullets.</source>
+          <target>อาวุธปืนพกพา มีประโยชน์สำหรับการป้องกันตัวเองและการล่าสัตว์ ต้องใช้กระสุน.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000013" name="item_Grenade_info" xml:space="preserve">
+        <segment>
+          <source>Explosive device used for enemy damage.</source>
+          <target>อุปกรณ์ระเบิดที่ใช้สำหรับทำลายศัตรู</target>
+        </segment>
+      </unit>
+      <unit id="163834090000014" name="item_Bear Rug_info" xml:space="preserve">
+        <segment>
+          <source>Decorative item crafted from leather. Charges health when placed in your home.</source>
+          <target>ของตกแต่งทำจากหนัง ชาร์จพลังชีวิตเมื่อวางไว้ในบ้านของคุณ</target>
+        </segment>
+      </unit>
+      <unit id="163834090000015" name="item_Deer Skull_info" xml:space="preserve">
+        <segment>
+          <source>Decorative item crafted from leather. Charges health when placed in your home.</source>
+          <target>ของตกแต่งทำจากหนัง ชาร์จพลังงานสุขภาพเมื่อวางไว้ในบ้านของคุณ</target>
+        </segment>
+      </unit>
+      <unit id="163834090000016" name="item_Wall Rug_info" xml:space="preserve">
+        <segment>
+          <source>Decorative item crafted from leather. Charges health when placed in your home.</source>
+          <target>ของตกแต่งทำจากหนัง ชาร์จพลังงานสุขภาพเมื่อวางในบ้านของคุณ</target>
+        </segment>
+      </unit>
+      <unit id="163834090000017" name="item_Pistol Bullet_info" xml:space="preserve">
+        <segment>
+          <source>Ammunition for pistols.</source>
+          <target>กระสุนปืนพก</target>
+        </segment>
+      </unit>
+      <unit id="163834090000018" name="item_Hammer_info" xml:space="preserve">
+        <segment>
+          <source>Used for upgrading and repairing structures. Essential for base maintenance and upgrading the workbench.</source>
+          <target>ใช้สำหรับการอัพเกรดและการซ่อมแซมโครงสร้าง จำเป็นสำหรับการบำรุงรักษาฐานและการอัพเกรดเวิร์กเบนช์</target>
+        </segment>
+      </unit>
+      <unit id="163834090000019" name="item_Large Wood Box_info" xml:space="preserve">
+        <segment>
+          <source>Storage unit for holding items. Crucial for organizing and protecting resources.</source>
+          <target>หน่วยจัดเก็บสำหรับการเก็บรักษาสิ่งของ สำคัญสำหรับการจัดระเบียบและปกป้องทรัพยากร</target>
+        </segment>
+      </unit>
+      <unit id="163834090000020" name="item_Vending Machine_info" xml:space="preserve">
+        <segment>
+          <source>Automated trade unit. Can be used to buy and sell items with other players.</source>
+          <target>หน่วยการค้าอัตโนมัติ สามารถใช้เพื่อซื้อและขายสินค้ากับผู้เล่นคนอื่นได้</target>
+        </segment>
+      </unit>
+      <unit id="163834090000021" name="item_Satoshi_info" xml:space="preserve">
+        <segment>
+          <source>In-game currency for trading and purchasing items. Acquired through various means.</source>
+          <target>สกุลเงินในเกมสำหรับการซื้อขายและซื้อของ ได้มาโดยวิธีต่างๆ</target>
+        </segment>
+      </unit>
+      <unit id="163834090000022" name="item_Backpack_info" xml:space="preserve">
+        <segment>
+          <source>Item storage of deceased player.</source>
+          <target>การเก็บรักษาไอเทมของผู้เล่นที่เสียชีวิต</target>
+        </segment>
+      </unit>
+      <unit id="163834090000023" name="item_Iron_info" xml:space="preserve">
+        <segment>
+          <source>A raw metal resource, used in crafting and building. Requires smelting to purify.</source>
+          <target>ทรัพยากรโลหะดิบที่ใช้ในการสร้างและก่อสร้าง ต้องการการหลอมเพื่อทำให้บริสุทธิ์</target>
+        </segment>
+      </unit>
+      <unit id="163834090000024" name="item_Grilled Meat_info" xml:space="preserve">
+        <segment>
+          <source>Cooked meat, safe to eat. Provides better nourishment than raw meat.</source>
+          <target>เนื้อสุก ปลอดภัยเมื่อรับประทาน ให้คุณค่าทางโภชนาการที่ดีกว่าเนื้อดิบ</target>
+        </segment>
+      </unit>
+      <unit id="163834090000025" name="item_Workbench 1_info" xml:space="preserve">
+        <segment>
+          <source>Basic workbench for crafting items. It helps prevent building decay and can be upgraded using a Hammer.</source>
+          <target>โต๊ะทำงานพื้นฐานสำหรับประกอบไอเท็ม ช่วยป้องกันการเสื่อมสภาพของอาคาร และสามารถอัพเกรดได้โดยใช้ค้อน</target>
+        </segment>
+      </unit>
+      <unit id="163834090000026" name="item_Workbench 2_info" xml:space="preserve">
+        <segment>
+          <source>Upgraded workbench for crafting items. It helps prevent building decay and can be upgraded using a Hammer.</source>
+          <target>โต๊ะทำงานที่ได้รับการอัพเกรดสำหรับการสร้างไอเท็ม ช่วยป้องกันการเสื่อมโทรมของอาคารและสามารถอัพเกรดได้โดยใช้ค้อน</target>
+        </segment>
+      </unit>
+      <unit id="163834090000027" name="item_Workbench 3_info" xml:space="preserve">
+        <segment>
+          <source>Advanced workbench for crafting items. It helps prevent building decay and can be upgraded using a Hammer.</source>
+          <target>เวิร์กเบนช์ขั้นสูงสำหรับการสร้างไอเทม ช่วยป้องกันการเสื่อมสภาพของอาคารและสามารถอัพเกรดได้โดยใช้ค้อน</target>
+        </segment>
+      </unit>
+      <unit id="163834090000028" name="item_Sulfur_info" xml:space="preserve">
+        <segment>
+          <source>Resource for crafting gunpowder and explosives. Gathered from mining.</source>
+          <target>ทรัพยากรสำหรับการสร้างดินปืนและวัตถุระเบิด ได้มาจากการทำเหมือง</target>
+        </segment>
+      </unit>
+      <unit id="163834090000029" name="item_Sulfur Powder_info" xml:space="preserve">
+        <segment>
+          <source>Refined sulfur, a key ingredient in making gunpowder. Obtained by processing sulfur.</source>
+          <target>กำมะถันที่ผ่านการกลั่น ซึ่งเป็นส่วนผสมหลักในการทำดินปืน ได้มาโดยการแปรรูปกำมะถัน</target>
+        </segment>
+      </unit>
+      <unit id="163834090000030" name="item_Hoe_info" xml:space="preserve">
+        <segment>
+          <source>Farming tool used for planting and harvesting crops. Essential for sustainable food production.</source>
+          <target>เครื่องมือทางการเกษตรที่ใช้สำหรับการปลูกและเก็บเกี่ยวพืชผล จำเป็นสำหรับการผลิตอาหารอย่างยั่งยืน.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000031" name="item_Flax_info" xml:space="preserve">
+        <segment>
+          <source>A plant resource. Used in crafting textiles and other items.</source>
+          <target>ทรัพยากรจากพืช ใช้ในการทำผ้าและสิ่งของอื่นๆ</target>
+        </segment>
+      </unit>
+      <unit id="163834090000032" name="item_Wheat_info" xml:space="preserve">
+        <segment>
+          <source>A crop used for making food items like bread. Grown from seeds.</source>
+          <target>พืชที่ใช้สำหรับทำอาหารเช่นขนมปัง ปลูกจากเมล็ดพันธุ์</target>
+        </segment>
+      </unit>
+      <unit id="163834090000033" name="item_Carrot_info" xml:space="preserve">
+        <segment>
+          <source>A nutritious vegetable, can be eaten raw or cooked. Grown from seeds.</source>
+          <target>ผักที่มีคุณค่าทางโภชนาการ สามารถรับประทานเป็นอาหารสดหรือปรุงสุกได้ ปลูกจากเมล็ดพันธุ์</target>
+        </segment>
+      </unit>
+      <unit id="163834090000034" name="item_Potato_info" xml:space="preserve">
+        <segment>
+          <source>Versatile crop, can be eaten raw, cooked, or used to make other food items. Grown from seeds.</source>
+          <target>พืชที่ใช้ประโยชน์ได้หลากหลาย สามารถรับประทานเป็นดิบ ปรุงสุก หรือใช้ทำอาหารชนิดอื่น ปลูกจากเมล็ดพันธุ์</target>
+        </segment>
+      </unit>
+      <unit id="163834090000035" name="item_Flax Seed_info" xml:space="preserve">
+        <segment>
+          <source>Seeds for growing flax plants. Used in sustainable resource farming.</source>
+          <target>เมล็ดพันธุ์สำหรับการปลูกพืชป่าน ใช้ในการเกษตรทรัพยากรยั่งยืน</target>
+        </segment>
+      </unit>
+      <unit id="163834090000036" name="item_Wheat Seed_info" xml:space="preserve">
+        <segment>
+          <source>Seeds for growing wheat. Essential for farming and food production.</source>
+          <target>เมล็ดพันธุ์สำหรับการปลูกข้าวสาลี สำคัญสำหรับการเกษตรและการผลิตอาหาร</target>
+        </segment>
+      </unit>
+      <unit id="163834090000037" name="item_Carrot Seed_info" xml:space="preserve">
+        <segment>
+          <source>Seeds for growing carrots. Essential for farming and food production.</source>
+          <target>เมล็ดพันธุ์สำหรับปลูกข้าวสาลี จำเป็นสำหรับการเกษตรและการผลิตอาหาร</target>
+        </segment>
+      </unit>
+      <unit id="163834090000038" name="item_Potato Seed_info" xml:space="preserve">
+        <segment>
+          <source>Seeds for growing potatoes. Vital for diverse crop production.</source>
+          <target>เมล็ดพันธุ์สำหรับปลูกมันฝรั่ง สำคัญสำหรับการผลิตพืชผลหลากหลาย</target>
+        </segment>
+      </unit>
+      <unit id="163834090000039" name="item_Linen_info" xml:space="preserve">
+        <segment>
+          <source>Textile made from flax. Used in crafting clothing and other fabric items.</source>
+          <target>ผ้าที่ทำจากป่าน ใช้ในการทำเสื้อผ้าและสิ่งของทอผ้าอื่นๆ</target>
+        </segment>
+      </unit>
+      <unit id="163834090000040" name="item_Leather_info" xml:space="preserve">
+        <segment>
+          <source>Durable material obtained from animal hides. Used in crafting armor and clothing.</source>
+          <target>วัสดุที่ทนทานได้มาจากหนังสัตว์ ใช้ในการทำเกราะและเสื้อผ้า</target>
+        </segment>
+      </unit>
+      <unit id="163834090000041" name="item_Bread_info" xml:space="preserve">
+        <segment>
+          <source>Food item made from wheat. Good source of nourishment.</source>
+          <target>อาหารที่ทำจากข้าวสาลี แหล่งอาหารที่ดี</target>
+        </segment>
+      </unit>
+      <unit id="163834090000042" name="item_Baked Potato_info" xml:space="preserve">
+        <segment>
+          <source>Cooked potato. A simple and filling food item.</source>
+          <target>มันฝรั่งที่ปรุงสุก อาหารที่เรียบง่ายและทำให้อิ่ม</target>
+        </segment>
+      </unit>
+      <unit id="163834090000043" name="item_Fish_info" xml:space="preserve">
+        <segment>
+          <source>Source of food obtained from loot container. Can be cooked for better nourishment.</source>
+          <target>แหล่งอาหารที่ได้มาจากภาชนะของขวัญ สามารถปรุงอาหารเพื่อให้ได้คุณค่าทางโภชนาการที่ดีขึ้น</target>
+        </segment>
+      </unit>
+      <unit id="163834090000044" name="item_Fish Dish_info" xml:space="preserve">
+        <segment>
+          <source>Provides high nourishment and health recovery.</source>
+          <target>ให้สารอาหารสูงและการฟื้นฟูสุขภาพ</target>
+        </segment>
+      </unit>
+      <unit id="163834090000045" name="item_Ham Sandwich_info" xml:space="preserve">
+        <segment>
+          <source>Tasty food item combining bread and meat. Good for quick nourishment.</source>
+          <target>อาหารที่อร่อย ผสมผสานระหว่างขนมปังและเนื้อสัตว์ เหมาะสำหรับบำรุงร่างกายอย่างรวดเร็ว</target>
+        </segment>
+      </unit>
+      <unit id="163834090000046" name="item_Stew_info" xml:space="preserve">
+        <segment>
+          <source>Hearty meal made from various ingredients. Excellent for health and hunger recovery.</source>
+          <target>อาหารอร่อยที่ทำจากส่วนผสมหลากหลายชนิด ดีเยี่ยมสำหรับสุขภาพและการฟื้นฟูความหิว</target>
+        </segment>
+      </unit>
+      <unit id="163834090000047" name="item_Carrot Soup_info" xml:space="preserve">
+        <segment>
+          <source>Nutritious soup made from carrots. Good for health and hydration.</source>
+          <target>ซุปที่มีคุณค่าทางโภชนาการทำจากแครอท ดีต่อสุขภาพและช่วยในการคงความชุ่มชื้น</target>
+        </segment>
+      </unit>
+      <unit id="163834090000048" name="item_Oven_info" xml:space="preserve">
+        <segment>
+          <source>Advanced cooking appliance. Allows for the preparation of complex meals.</source>
+          <target>เครื่องใช้ในครัวขั้นสูง ช่วยในการเตรียมอาหารที่ซับซ้อน</target>
+        </segment>
+      </unit>
+      <unit id="163834090000049" name="item_Smelter_info" xml:space="preserve">
+        <segment>
+          <source>Used for refining raw ores into usable metals. Essential for advanced crafting.</source>
+          <target>ใช้สำหรับการกลั่นแร่ดิบเป็นโลหะที่ใช้งานได้ จำเป็นสำหรับการสร้างขั้นสูง</target>
+        </segment>
+      </unit>
+      <unit id="163834090000050" name="item_C4_info" xml:space="preserve">
+        <segment>
+          <source>High-powered explosive. Used for breaching and demolition. Handle with extreme caution.</source>
+          <target>วัตถุระเบิดแรงดันสูง ใช้สำหรับการเจาะและการทำลาย จัดการด้วยความระมัดระวังอย่างยิ่ง</target>
+        </segment>
+      </unit>
+      <unit id="163834090000051" name="item_Bush Shirt_info" xml:space="preserve">
+        <segment>
+          <source>Camouflage clothing, useful for stealth and protection in wilderness.</source>
+          <target>เสื้อผ้าพรางตัว มีประโยชน์สำหรับการซ่อนตัวและการป้องกันในพื้นที่ป่า</target>
+        </segment>
+      </unit>
+      <unit id="163834090000052" name="item_Bush Pants_info" xml:space="preserve">
+        <segment>
+          <source>Camouflage pants, pairs with bush shirt for complete stealth outfit.</source>
+          <target>กางเกงพรางตัว จับคู่กับเสื้อพุ่มไม้เพื่อชุดสเตลท์ที่สมบูรณ์แบบ</target>
+        </segment>
+      </unit>
+      <unit id="163834090000053" name="item_Leather Pants_info" xml:space="preserve">
+        <segment>
+          <source>Durable clothing made from leather. Offers protection.</source>
+          <target>เสื้อผ้าทนทานทำจากหนัง ให้การป้องกัน</target>
+        </segment>
+      </unit>
+      <unit id="163834090000054" name="item_Leather Shoes_info" xml:space="preserve">
+        <segment>
+          <source>Sturdy footwear made from leather. Essential for travel and protection.</source>
+          <target>รองเท้าที่ทำจากหนังแข็งแรง จำเป็นสำหรับการเดินทางและการป้องกัน</target>
+        </segment>
+      </unit>
+      <unit id="163834090000055" name="item_Military Shoes_info" xml:space="preserve">
+        <segment>
+          <source>High-quality tactical footwear. Provides enhanced mobility and protection in rough terrain.</source>
+          <target>รองเท้าทางยุทธวิธีคุณภาพสูง มอบการเคลื่อนไหวที่ดีขึ้นและการป้องกันในพื้นที่เป็นหิน</target>
+        </segment>
+      </unit>
+      <unit id="163834090000056" name="item_Leather Shirt_info" xml:space="preserve">
+        <segment>
+          <source>Tough upper body clothing made from leather. Offers good protection and durability.</source>
+          <target>เสื้อผ้าชั้นบนที่ทำจากหนัง มีความทนทานและความคงทนสูง</target>
+        </segment>
+      </unit>
+      <unit id="163834090000057" name="item_Torch Light_info" xml:space="preserve">
+        <segment>
+          <source>Portable light source. Essential for visibility during nighttime. Can be turned on and off.</source>
+          <target>แหล่งกำเนิดแสงพกพา จำเป็นสำหรับการมองเห็นในเวลากลางคืน สามารถเปิดและปิดได้</target>
+        </segment>
+      </unit>
+      <unit id="163834090000058" name="item_Wooden Cover_info" xml:space="preserve">
+        <segment>
+          <source>Basic defensive structure component. Used for fortifying against enemies while gathering resources.</source>
+          <target>ส่วนประกอบพื้นฐานของโครงสร้างป้องกัน ใช้สำหรับการเสริมป้องกันจากศัตรูขณะที่กำลังรวบรวมทรัพยากร</target>
+        </segment>
+      </unit>
+      <unit id="163834090000059" name="item_Red Keycard_info" xml:space="preserve">
+        <segment>
+          <source>Used to unlock high-security areas.</source>
+          <target>ใช้เพื่อปลดล็อคพื้นที่ความปลอดภัยสูง</target>
+        </segment>
+      </unit>
+      <unit id="163834090000060" name="item_Blue Keycard_info" xml:space="preserve">
+        <segment>
+          <source>Grants entry to restricted areas with valuable resources.</source>
+          <target>อนุญาตให้เข้าไปในพื้นที่ที่จำกัดที่มีทรัพยากรมีค่า</target>
+        </segment>
+      </unit>
+      <unit id="163834090000061" name="item_Green Keycard_info" xml:space="preserve">
+        <segment>
+          <source>Opens specific doors and containers in the game world.</source>
+          <target>เปิดประตูและภาชนะที่กำหนดในโลกเกม</target>
+        </segment>
+      </unit>
+      <unit id="163834090000062" name="item_Ak47_info" xml:space="preserve">
+        <segment>
+          <source>Powerful automatic rifle. Effective in combat situations. Requires rifle bullets.</source>
+          <target>ปืนไรเฟิลอัตโนมัติที่มีพลัง มีประสิทธิภาพในสถานการณ์การต่อสู้ ต้องการกระสุนปืนไรเฟิล</target>
+        </segment>
+      </unit>
+      <unit id="163834090000063" name="item_Uzi_info" xml:space="preserve">
+        <segment>
+          <source>Compact submachine gun. Good for close-quarters combat. Uses pistol bullets.</source>
+          <target>ปืนกลเบาแบบกระทัดรัด ดีสำหรับการต่อสู้ระยะประชิด ใช้กระสุนปืนพก</target>
+        </segment>
+      </unit>
+      <unit id="163834090000064" name="item_Shotgun_info" xml:space="preserve">
+        <segment>
+          <source>Short-range firearm. Highly effective for defense and hunting. Uses shotgun bullets.</source>
+          <target>อาวุธปืนระยะใกล้ มีประสิทธิภาพสูงสำหรับการป้องกันและล่าสัตว์ ใช้กระสุนปืนลูกซอง</target>
+        </segment>
+      </unit>
+      <unit id="163834090000065" name="item_Rifle Bullet_info" xml:space="preserve">
+        <segment>
+          <source>Ammunition for rifles. Crafted from metal fragments and gunpowder.</source>
+          <target>กระสุนปืนไรเฟิล ทำจากเศษโลหะและดินปืน.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000066" name="item_Shotgun Bullet_info" xml:space="preserve">
+        <segment>
+          <source>Ammunition for shotguns. Effective for close-range combat.</source>
+          <target>กระสุนปืนลูกซอง มีประสิทธิภาพสำหรับการต่อสู้ระยะประชิด</target>
+        </segment>
+      </unit>
+      <unit id="163834090000067" name="item_Ak47 Body_info" xml:space="preserve">
+        <segment>
+          <source>Main component for crafting an Ak47. Requires additional parts and materials.</source>
+          <target>ส่วนประกอบหลักสำหรับการสร้าง AK47 ต้องการชิ้นส่วนเสริมและวัสดุเพิ่มเติม</target>
+        </segment>
+      </unit>
+      <unit id="163834090000068" name="item_Uzi Body_info" xml:space="preserve">
+        <segment>
+          <source>Essential part for assembling an Uzi. Combine with other components for a complete weapon.</source>
+          <target>ส่วนสำคัญสำหรับประกอบอูซี รวมกับส่วนประกอบอื่นๆ เพื่อเป็นอาวุธที่สมบูรณ์</target>
+        </segment>
+      </unit>
+      <unit id="163834090000069" name="item_Shotgun Body_info" xml:space="preserve">
+        <segment>
+          <source>Base component for building a shotgun. Necessary for weapon crafting.</source>
+          <target>ส่วนประกอบพื้นฐานในการสร้างปืนลูกซอง จำเป็นสำหรับการสร้างอาวุธ</target>
+        </segment>
+      </unit>
+      <unit id="163834090000070" name="item_Pistol Body_info" xml:space="preserve">
+        <segment>
+          <source>Fundamental part of a pistol. Combine with other parts to craft a handgun.</source>
+          <target>ส่วนพื้นฐานของปืนพก รวมกับส่วนอื่นๆ เพื่อประกอบเป็นปืนพก</target>
+        </segment>
+      </unit>
+      <unit id="163834090000071" name="item_Gun Powder_info" xml:space="preserve">
+        <segment>
+          <source>Essential ingredient for crafting ammunition. Made from sulfur and charcoal.</source>
+          <target>ส่วนผสมที่จำเป็นสำหรับการทำกระสุน. ทำมาจากกำมะถันและถ่านไม้</target>
+        </segment>
+      </unit>
+      <unit id="163834090000072" name="item_Lantern_info" xml:space="preserve">
+        <segment>
+          <source>Steady light source. Useful for illuminating areas.</source>
+          <target>แหล่งกำเนิดแสงที่มั่นคง มีประโยชน์สำหรับการส่องสว่างพื้นที่</target>
+        </segment>
+      </unit>
+      <unit id="163834090000073" name="item_Beanie_info" xml:space="preserve">
+        <segment>
+          <source>Stylish headwear. Offers minimal protection.</source>
+          <target>หมวกที่มีสไตล์ ให้การป้องกันเพียงเล็กน้อย</target>
+        </segment>
+      </unit>
+      <unit id="163834090000074" name="item_Emerald Beanie_info" xml:space="preserve">
+        <segment>
+          <source>Stylish headwear. Offers minimal protection.</source>
+          <target>หมวกทรงสวย ให้การป้องกันเพียงเล็กน้อย</target>
+        </segment>
+      </unit>
+      <unit id="163834090000075" name="item_Charcoal Beanie_info" xml:space="preserve">
+        <segment>
+          <source>Cozy and trendy beanie. Offers minimal protection.</source>
+          <target>หมวกบีนนี่ที่ทั้งสบายและทันสมัย ให้การป้องกันเพียงเล็กน้อย</target>
+        </segment>
+      </unit>
+      <unit id="163834090000076" name="item_Beret_info" xml:space="preserve">
+        <segment>
+          <source>Military-style headgear. Offers a blend of style and a bit of protection.</source>
+          <target>หมวกแบบทหาร ให้ทั้งสไตล์และการป้องกันเล็กน้อย</target>
+        </segment>
+      </unit>
+      <unit id="163834090000077" name="item_Olive Beret_info" xml:space="preserve">
+        <segment>
+          <source>Durable and stylish military beret. Suitable for various environments.</source>
+          <target>เบเร่ต์ทหารที่ทนทานและมีสไตล์ สามารถใช้ได้ในสภาพแวดล้อมต่างๆ</target>
+        </segment>
+      </unit>
+      <unit id="163834090000078" name="item_Base Cap_info" xml:space="preserve">
+        <segment>
+          <source>Casual headwear. Offers minimal protection for your head.</source>
+          <target>หมวกแฟชั่นสบายๆ ให้การป้องกันศีรษะเพียงเล็กน้อย</target>
+        </segment>
+      </unit>
+      <unit id="163834090000079" name="item_Obsidian Cap_info" xml:space="preserve">
+        <segment>
+          <source>Dark-colored cap. Offers minimal protection for your head.</source>
+          <target>หมวกสีเข้ม ให้การป้องกันศีรษะเพียงเล็กน้อย</target>
+        </segment>
+      </unit>
+      <unit id="163834090000080" name="item_Hat_info" xml:space="preserve">
+        <segment>
+          <source>Stylish headwear. Offers minimal protection for your head.</source>
+          <target>หมวกทรงสวย. ให้การป้องกันศีรษะเพียงเล็กน้อย</target>
+        </segment>
+      </unit>
+      <unit id="163834090000081" name="item_Vintage Hat_info" xml:space="preserve">
+        <segment>
+          <source>Stylish headwear. Offers minimal protection for your head.</source>
+          <target>หมวกที่มีสไตล์ ให้การป้องกันศีรษะในระดับต่ำสุด</target>
+        </segment>
+      </unit>
+      <unit id="163834090000082" name="item_Military Pants_info" xml:space="preserve">
+        <segment>
+          <source>Durable trousers with good protection. Suitable for combat situations.</source>
+          <target>กางเกงทนทานพร้อมการป้องกันที่ดี เหมาะสำหรับสถานการณ์การต่อสู้</target>
+        </segment>
+      </unit>
+      <unit id="163834090000083" name="item_Military Gloves_info" xml:space="preserve">
+        <segment>
+          <source>Protective handwear. Essential for handling weapons and tools safely.</source>
+          <target>ถุงมือป้องกัน. จำเป็นสำหรับการจัดการอาวุธและเครื่องมืออย่างปลอดภัย.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000084" name="item_Military Helmet_info" xml:space="preserve">
+        <segment>
+          <source>Offers head protection in combat scenarios. Essential for safety in battle.</source>
+          <target>ให้การป้องกันศีรษะในสถานการณ์การต่อสู้ สำคัญสำหรับความปลอดภัยในการรบ</target>
+        </segment>
+      </unit>
+      <unit id="163834090000085" name="item_Military Shirt_info" xml:space="preserve">
+        <segment>
+          <source>Tough upper body clothing. Provides protection in combat situations.</source>
+          <target>เสื้อผ้าชั้นบนที่แข็งแกร่ง ให้การป้องกันในสถานการณ์การต่อสู้</target>
+        </segment>
+      </unit>
+      <unit id="163834090000086" name="item_Camouflage Pants_info" xml:space="preserve">
+        <segment>
+          <source>Durable trousers with good protection. Suitable for combat situations.</source>
+          <target>กางเกงทนทานพร้อมการป้องกันที่ดี เหมาะสำหรับสถานการณ์การต่อสู้</target>
+        </segment>
+      </unit>
+      <unit id="163834090000087" name="item_Camouflage Shirt_info" xml:space="preserve">
+        <segment>
+          <source>Durable shirt with good protection. Suitable for combat situations.</source>
+          <target>เสื้อทนทานพร้อมการป้องกันที่ดี เหมาะสำหรับสถานการณ์การต่อสู้</target>
+        </segment>
+      </unit>
+      <unit id="163834090000088" name="item_Scavenger Vest_info" xml:space="preserve">
+        <segment>
+          <source>Upper body armor. Provides decent protection in combat situations.</source>
+          <target>เสื้อเกราะช่วงบนของร่างกาย ให้การป้องกันที่ดีในสถานการณ์การต่อสู้</target>
+        </segment>
+      </unit>
+      <unit id="163834090000089" name="item_Rusty Combat Vest_info" xml:space="preserve">
+        <segment>
+          <source>Durable upper body armor. Provides good protection in combat situations.</source>
+          <target>เกราะช่วงบนที่ทนทาน ให้การป้องกันที่ดีในสถานการณ์การต่อสู้</target>
+        </segment>
+      </unit>
+      <unit id="163834090000090" name="item_Urban Guerrilla Vest_info" xml:space="preserve">
+        <segment>
+          <source>Ultra-durable armor for superior combat defense</source>
+          <target>เกราะทนทานสูงสุดเพื่อการป้องกันการต่อสู้ที่เหนือกว่า</target>
+        </segment>
+      </unit>
+      <unit id="163834090000091" name="item_Durable Jeans_info" xml:space="preserve">
+        <segment>
+          <source>Durable trousers with good protection.</source>
+          <target>กางเกงทนทานพร้อมการป้องกันที่ดี</target>
+        </segment>
+      </unit>
+      <unit id="163834090000092" name="item_Rugged Shirt_info" xml:space="preserve">
+        <segment>
+          <source>Durable shirt with good protection.</source>
+          <target>เสื้อที่ทนทานพร้อมการป้องกันที่ดี</target>
+        </segment>
+      </unit>
+      <unit id="163834090000093" name="item_Tactical Gloves_info" xml:space="preserve">
+        <segment>
+          <source>Protective handwear. Essential for handling weapons and tools safely. Less recoil and better accuracy.</source>
+          <target>ถุงมือป้องกัน. จำเป็นสำหรับการจัดการอาวุธและเครื่องมืออย่างปลอดภัย ลดแรงดีดและความแม่นยำที่ดีขึ้น.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000094" name="item_Leather Gloves_info" xml:space="preserve">
+        <segment>
+          <source>Protective handwear. Essential for handling weapons and tools safely. Less recoil and better accuracy.</source>
+          <target>ถุงมือป้องกัน. สำคัญสำหรับการจัดการอาวุธและเครื่องมืออย่างปลอดภัย ลดแรงถอยและเพิ่มความแม่นยำ.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000095" name="item_Nuke Blueprint_info" xml:space="preserve">
+        <segment>
+          <source>Main component for crafting the frame of a nuke. Requires additional parts and materials.</source>
+          <target>ส่วนประกอบหลักสำหรับการสร้างกรอบของนิวเคลียร์ ต้องการชิ้นส่วนและวัสดุเพิ่มเติม</target>
+        </segment>
+      </unit>
+      <unit id="163834090000096" name="item_Nuke Frame_info" xml:space="preserve">
+        <segment>
+          <source>The nuke's framework securely contains the core, case, reflector, trigger, and timer, forming its essential architecture.</source>
+          <target>โครงสร้างของหัวรบนิวเคลียร์ประกอบด้วยแกนกลาง, ปลอก, ตัวสะท้อน, ตัวชนวน, และตัวจับเวลาอย่างมั่นคง ซึ่งเป็นสถาปัตยกรรมหลัก</target>
+        </segment>
+      </unit>
+      <unit id="163834090000097" name="item_Nuke Case_info" xml:space="preserve">
+        <segment>
+          <source>The heart of the nuke, generating the explosive energy.</source>
+          <target>แก่นของนิวเคลียร์ที่สร้างพลังงานระเบิด</target>
+        </segment>
+      </unit>
+      <unit id="163834090000098" name="item_Nuke Reflector_info" xml:space="preserve">
+        <segment>
+          <source>Enhances the explosion's efficiency by reflecting neutrons back into the core.</source>
+          <target>เพิ่มประสิทธิภาพของการระเบิดโดยการสะท้อนนิวตรอนกลับเข้าสู่แกนกลาง</target>
+        </segment>
+      </unit>
+      <unit id="163834090000099" name="item_Nuke Trigger_info" xml:space="preserve">
+        <segment>
+          <source>Initiates the nuclear reaction at the precise moment needed.</source>
+          <target>เริ่มปฏิกิริยานิวเคลียร์ในช่วงเวลาที่ต้องการอย่างแม่นยำ</target>
+        </segment>
+      </unit>
+      <unit id="163834090000100" name="item_Nuke Timer_info" xml:space="preserve">
+        <segment>
+          <source>Controls the detonation timing, ensuring precise activation.</source>
+          <target>ควบคุมเวลาการทำลายล้าง ให้มั่นใจในการเปิดใช้งานอย่างแม่นยำ</target>
+        </segment>
+      </unit>
+      <unit id="163834090000101" name="item_Nuke Core_info" xml:space="preserve">
+        <segment>
+          <source>The protective shell that encases the nuke's vital components.</source>
+          <target>เปลือกป้องกันที่หุ้มส่วนประกอบสำคัญของหัวรบนิวเคลียร์</target>
+        </segment>
+      </unit>
+      <unit id="164000000000001" name="info_message_1" xml:space="preserve">
+        <segment>
+          <source>Insufficient resources for construction.</source>
+          <target>ทรัพยากรไม่เพียงพอสำหรับการก่อสร้าง</target>
+        </segment>
+      </unit>
+      <unit id="164000000000002" name="info_message_2" xml:space="preserve">
+        <segment>
+          <source>This item is limited to one placement per player.</source>
+          <target>ไอเทมนี้จำกัดไว้ที่หนึ่งชิ้นต่อผู้เล่น</target>
+        </segment>
+      </unit>
+      <unit id="164000000000003" name="info_message_3" xml:space="preserve">
+        <segment>
+          <source>Crafting queue is currently full.</source>
+          <target>คิวการสร้างของเต็มในขณะนี้</target>
+        </segment>
+      </unit>
+      <unit id="164000000000004" name="info_message_4" xml:space="preserve">
+        <segment>
+          <source>Lacking resources to craft this item.</source>
+          <target>ขาดทรัพยากรในการสร้างไอเทมนี้</target>
+        </segment>
+      </unit>
+      <unit id="164000000000005" name="info_message_5" xml:space="preserve">
+        <segment>
+          <source>Exit from this location is not possible.</source>
+          <target>ไม่สามารถออกจากที่นี้ได้</target>
+        </segment>
+      </unit>
+      <unit id="164000000000006" name="info_message_6" xml:space="preserve">
+        <segment>
+          <source>Inventory full. Please manage your items.</source>
+          <target>พื้นที่เก็บของเต็มแล้ว กรุณาจัดการสินค้าของคุณ</target>
+        </segment>
+      </unit>
+      <unit id="164000000000007" name="info_message_7" xml:space="preserve">
+        <segment>
+          <source>A Workbench 1 is required for crafting.</source>
+          <target>ต้องการเวิร์กเบนช์ 1 สำหรับการคราฟต์</target>
+        </segment>
+      </unit>
+      <unit id="164000000000008" name="info_message_8" xml:space="preserve">
+        <segment>
+          <source>Crafting in progress. Item cannot be removed from the queue.</source>
+          <target>กำลังทำการคราฟต์ ไม่สามารถนำไอเทมออกจากคิวได้</target>
+        </segment>
+      </unit>
+      <unit id="164000000000009" name="info_message_9" xml:space="preserve">
+        <segment>
+          <source>Storage capacity reached. Please organize.</source>
+          <target>ความจุเก็บข้อมูลเต็มแล้ว กรุณาจัดระเบียบ</target>
+        </segment>
+      </unit>
+      <unit id="164000000000010" name="info_message_10" xml:space="preserve">
+        <segment>
+          <source>This item is temporarily out of stock. Please check again later.</source>
+          <target>สินค้าชิ้นนี้หมดสต็อกชั่วคราว กรุณาตรวจสอบอีกครั้งในภายหลัง</target>
+        </segment>
+      </unit>
+      <unit id="164000000000011" name="info_message_11" xml:space="preserve">
+        <segment>
+          <source>You do not have enough funds to buy this item.</source>
+          <target>คุณไม่มีเงินทุนเพียงพอที่จะซื้อสินค้าชิ้นนี้</target>
+        </segment>
+      </unit>
+      <unit id="164000000000012" name="info_message_12" xml:space="preserve">
+        <segment>
+          <source>This item is not in your possession.</source>
+          <target>คุณไม่มีสิ่งของนี้อยู่ในครอบครอง</target>
+        </segment>
+      </unit>
+      <unit id="164000000000013" name="info_message_13" xml:space="preserve">
+        <segment>
+          <source>Current server player count: </source>
+          <target>จำนวนผู้เล่นในเซิร์ฟเวอร์ปัจจุบัน:</target>
+        </segment>
+      </unit>
+      <unit id="164000000000014" name="info_message_14" xml:space="preserve">
+        <segment>
+          <source>This field is already sown with seeds.</source>
+          <target>ทุ่งนี้ได้รับการหว่านเมล็ดพันธุ์แล้ว</target>
+        </segment>
+      </unit>
+      <unit id="164000000000015" name="info_message_15" xml:space="preserve">
+        <segment>
+          <source>Plowing is necessary before planting.</source>
+          <target>จำเป็นต้องไถ่ดินก่อนการปลูก.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000016" name="info_message_16" xml:space="preserve">
+        <segment>
+          <source>Harvest is not yet ready. Patience is required.</source>
+          <target>ยังไม่ถึงเวลาเก็บเกี่ยว ต้องใช้ความอดทน</target>
+        </segment>
+      </unit>
+      <unit id="164000000000017" name="info_message_17" xml:space="preserve">
+        <segment>
+          <source>Insufficient resources to upgrade the building.</source>
+          <target>ทรัพยากรไม่เพียงพอที่จะอัพเกรดอาคาร</target>
+        </segment>
+      </unit>
+      <unit id="164000000000018" name="info_message_18" xml:space="preserve">
+        <segment>
+          <source>Insufficient resources for item upgrade.</source>
+          <target>ทรัพยากรไม่เพียงพอสำหรับการอัพเกรดไอเทม</target>
+        </segment>
+      </unit>
+      <unit id="164000000000019" name="info_message_19" xml:space="preserve">
+        <segment>
+          <source>Hungry! Search for something to eat.</source>
+          <target>หิว! หาอะไรกินสักอย่าง.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000020" name="info_message_20" xml:space="preserve">
+        <segment>
+          <source>Landing at this location is prohibited.</source>
+          <target>ห้ามลงจอดที่สถานที่นี้</target>
+        </segment>
+      </unit>
+      <unit id="164000000000021" name="info_message_21" xml:space="preserve">
+        <segment>
+          <source>This container is currently in use.</source>
+          <target>ตู้คอนเทนเนอร์นี้กำลังถูกใช้งานอยู่ในขณะนี้</target>
+        </segment>
+      </unit>
+      <unit id="164000000000022" name="info_message_22" xml:space="preserve">
+        <segment>
+          <source>Lack a torch light? Consider crafting one.</source>
+          <target>ไม่มีไฟฉายหรือ? ลองทำดูสิ</target>
+        </segment>
+      </unit>
+      <unit id="164000000000023" name="info_message_23" xml:space="preserve">
+        <segment>
+          <source>A Workbench 2 is needed for crafting.</source>
+          <target>ต้องการม้านั่งงาน 2 สำหรับการคราฟต์</target>
+        </segment>
+      </unit>
+      <unit id="164000000000024" name="info_message_24" xml:space="preserve">
+        <segment>
+          <source>Crafting requires the presence of a Workbench 3.</source>
+          <target>การสร้างต้องมีโต๊ะทำงานระดับ 3 อยู่ด้วย</target>
+        </segment>
+      </unit>
+      <unit id="164000000000025" name="info_message_25" xml:space="preserve">
+        <segment>
+          <source>Plowing cannot be done here.</source>
+          <target>ไม่สามารถไถนาที่นี่ได้</target>
+        </segment>
+      </unit>
+      <unit id="164000000000026" name="info_message_26" xml:space="preserve">
+        <segment>
+          <source>A Workbench is necessary to build further.</source>
+          <target>จำเป็นต้องใช้ม้านั่งงานเพื่อสร้างต่อไป</target>
+        </segment>
+      </unit>
+      <unit id="164000000000027" name="info_message_27" xml:space="preserve">
+        <segment>
+          <source>The nuke is not ready yet, parts are missing.</source>
+          <target>ระเบิดนิวเคลียร์ยังไม่พร้อม ยังขาดชิ้นส่วน</target>
+        </segment>
+      </unit>
+      <unit id="164000000000028" name="info_message_28" xml:space="preserve">
+        <segment>
+          <source>Unable to place here as it intersects with another building or item.</source>
+          <target>ไม่สามารถวางไว้ที่นี่เนื่องจากมันตัดกับอาคารหรือสิ่งของอื่น</target>
+        </segment>
+      </unit>
+      <unit id="164000000000029" name="info_message_29" xml:space="preserve">
+        <segment>
+          <source>You are too far away to place this.</source>
+          <target>คุณอยู่ไกลเกินไปที่จะวางสิ่งนี้</target>
+        </segment>
+      </unit>
+      <unit id="164000000000030" name="info_message_30" xml:space="preserve">
+        <segment>
+          <source>Placement not possible: too close to another building component.</source>
+          <target>ไม่สามารถวางได้: ใกล้กับส่วนประกอบอาคารอื่นเกินไป</target>
+        </segment>
+      </unit>
+      <unit id="164000000000031" name="info_message_31" xml:space="preserve">
+        <segment>
+          <source>Item has to be placed on a back wall, you can paint one.</source>
+          <target>สิ่งของต้องวางไว้ที่ผนังด้านหลัง คุณสามารถทาสีผนังได้</target>
+        </segment>
+      </unit>
+      <unit id="164000000000032" name="info_message_32" xml:space="preserve">
+        <segment>
+          <source>Placement not possible in this location.</source>
+          <target>ไม่สามารถวางได้ในตำแหน่งนี้</target>
+        </segment>
+      </unit>
+      <unit id="164000000000033" name="info_message_33" xml:space="preserve">
+        <segment>
+          <source>Placement not possible. Adjust the vertical position up or down.</source>
+          <target>ไม่สามารถวางได้ ปรับตำแหน่งแนวตั้งขึ้นหรือลง</target>
+        </segment>
+      </unit>
+      <unit id="164000000000034" name="info_message_34" xml:space="preserve">
+        <segment>
+          <source>Placement failed, too close to another building or item.</source>
+          <target>วางไม่สำเร็จ เนื่องจากใกล้กับอาคารหรือสิ่งของอื่นเกินไป</target>
+        </segment>
+      </unit>
+      <unit id="164000000000035" name="info_message_35" xml:space="preserve">
+        <segment>
+          <source>Upgrade unavailable: You must be the item or building's owner to proceed.</source>
+          <target>ไม่สามารถอัพเกรดได้: คุณต้องเป็นเจ้าของสิ่งของหรืออาคารนั้นเพื่อดำเนินการต่อ</target>
+        </segment>
+      </unit>
+      <unit id="265061569675264" name="text_menu_173" xml:space="preserve">
+        <segment>
+          <source>EXIT GAME</source>
+          <target>ออกจากเกม</target>
+        </segment>
+      </unit>
+      <unit id="358491402551296" name="text_menu_label_set_language" xml:space="preserve">
+        <segment>
+          <source>SET LANGUAGE:</source>
+          <target>ตั้งค่าภาษา:</target>
+        </segment>
+      </unit>
+      <unit id="358690959147008" name="language_en" xml:space="preserve">
+        <segment>
+          <source>English (en)</source>
+          <target>อังกฤษ (en)</target>
+        </segment>
+      </unit>
+      <unit id="358889949511680" name="language_fr" xml:space="preserve">
+        <segment>
+          <source>French (fr)</source>
+          <target>ภาษาฝรั่งเศส (fr)</target>
+        </segment>
+      </unit>
+      <unit id="358962922012672" name="language_de" xml:space="preserve">
+        <segment>
+          <source>German (de)</source>
+          <target>ภาษาเยอรมัน (de)</target>
+        </segment>
+      </unit>
+      <unit id="359067049803776" name="language_ja" xml:space="preserve">
+        <segment>
+          <source>Japanese (ja)</source>
+          <target>ญี่ปุ่น (ja)</target>
+        </segment>
+      </unit>
+      <unit id="359109034786816" name="language_pt" xml:space="preserve">
+        <segment>
+          <source>Portuguese (pt)</source>
+          <target>โปรตุเกส (pt)</target>
+        </segment>
+      </unit>
+      <unit id="359198805475328" name="language_ru" xml:space="preserve">
+        <segment>
+          <source>Russian (ru)</source>
+          <target>รัสเซีย (ru)</target>
+        </segment>
+      </unit>
+      <unit id="359245697794048" name="language_es" xml:space="preserve">
+        <segment>
+          <source>Spanish (es)</source>
+          <target>ภาษาสเปน (es)</target>
+        </segment>
+      </unit>
+      <unit id="359295509348352" name="language_th" xml:space="preserve">
+        <segment>
+          <source>Thai (th)</source>
+          <target>ภาษาไทย (th)</target>
+        </segment>
+      </unit>
+      <unit id="359347606798336" name="language_zh-hans" xml:space="preserve">
+        <segment>
+          <source>Chinese (zh-Hans)</source>
+          <target>จีน (ตัวย่อ)</target>
+        </segment>
+      </unit>
+      <unit id="546689911111680" name="text_menu_label_information" xml:space="preserve">
+        <segment>
+          <source>INFORMATION</source>
+          <target>ข้อมูล</target>
+        </segment>
+      </unit>
+      <unit id="557511341260800" name="text_menu_label_set_password" xml:space="preserve">
+        <segment>
+          <source>PASSWORD:</source>
+          <target>รหัสผ่าน:</target>
+        </segment>
+      </unit>
+      <unit id="562978763325440" name="text_menu_label_crafting_queue" xml:space="preserve">
+        <segment>
+          <source>CRAFTING QUEUE</source>
+          <target>คิวการคราฟต์</target>
+        </segment>
+      </unit>
+      <unit id="707852871417856" name="text_menu_label_command_console" xml:space="preserve">
+        <segment>
+          <source>CONSOLE</source>
+          <target>คอนโซล</target>
+        </segment>
+      </unit>
+      <unit id="892555641503744" name="text_menu_information_demo" xml:space="preserve">
+        <segment>
+          <source>The demo's more than a sneak peek. 
+It's our way to tweak improve and
+ensuring everything from gameplay 
+to performance is top-notch. 
+Plus, we're continuously adding 
+cool new items. 
+
+Your support means the world
+to us as we gear up for 
+the big launch. 
+
+By adding our game to your 
+wishlist, you're providing 
+immense support. </source>
+          <target>ตัวอย่างการเล่นไม่ได้เป็นเพียงแค่การชมเล็กน้อยเท่านั้น
+แต่เป็นวิธีของเราในการปรับปรุงและร
+ัประกันว่าทุกอย่างตั้งแต่การเล่นเกม
+ไปจนถึงประสิทธิภาพนั้นอยู่ในระดับที่ดีที่สุด
+นอกจากนี้เรายังคงเพิ่มสิ่งของใหม่ๆ ที่เจ๋งๆ เข้าไปอย่างต่อเนื่อง
+การสนับสนุนจากคุณมีความหมายม
+ากมายกับเราขณะที่เราเตรียมตัวสำหร
+ับการเปิดตัวครั้งใหญ่
+การเพิ่มเกมของเราไปยังรายการสิ่งที
+่คุณอยากได้ของคุณ
+ก็คือการให้การสนับสนุนที่ยิ่งใหญ่
+</target>
+        </segment>
+      </unit>
+      <unit id="893352798339072" name="text_menu_loading" xml:space="preserve">
+        <segment>
+          <source>LOADING...</source>
+          <target>กำลังโหลด...</target>
+        </segment>
+      </unit>
+      <unit id="904954956234752" name="text_menu_button_add_to_wishlist" xml:space="preserve">
+        <segment>
+          <source>ADD TO WISHLIST</source>
+          <target>รายการที่อยากได้</target>
+        </segment>
+      </unit>
+      <unit id="963162844446720" name="text_menu_dropdown_graphic_quality_low" xml:space="preserve">
+        <segment>
+          <source>Low</source>
+          <target>ต่ำ</target>
+        </segment>
+      </unit>
+      <unit id="963356008923136" name="text_menu_dropdown_graphic_quality_medium" xml:space="preserve">
+        <segment>
+          <source>Medium</source>
+          <target>ปานกลาง</target>
+        </segment>
+      </unit>
+      <unit id="963380692402176" name="text_menu_dropdown_graphic_quality_high" xml:space="preserve">
+        <segment>
+          <source>High</source>
+          <target>สูง</target>
+        </segment>
+      </unit>
+      <unit id="979348080574464" name="input_moveup" xml:space="preserve">
+        <segment>
+          <source>Move Up</source>
+          <target>เลื่อนขึ้น</target>
+        </segment>
+      </unit>
+      <unit id="979416841994240" name="input_movedown" xml:space="preserve">
+        <segment>
+          <source>Move Down</source>
+          <target>เลื่อนลง</target>
+        </segment>
+      </unit>
+      <unit id="979759076229120" name="input_moveleft" xml:space="preserve">
+        <segment>
+          <source>Move Left</source>
+          <target>เลื่อนไปทางซ้าย</target>
+        </segment>
+      </unit>
+      <unit id="980416986365952" name="input_moveright" xml:space="preserve">
+        <segment>
+          <source>Move Right</source>
+          <target>เลื่อนไปทางขวา</target>
+        </segment>
+      </unit>
+      <unit id="981182211964928" name="input_jump" xml:space="preserve">
+        <segment>
+          <source>Jump</source>
+          <target>กระโดด</target>
+        </segment>
+      </unit>
+      <unit id="981186897002496" name="input_attackandselect" xml:space="preserve">
+        <segment>
+          <source>Attack And Select</source>
+          <target>โจมตีและเลือก</target>
+        </segment>
+      </unit>
+      <unit id="981191141638144" name="input_fastmoveiventoryordeselect" xml:space="preserve">
+        <segment>
+          <source>Fast Move Iventory Or Deselect</source>
+          <target>ย้ายสินค้าในคลังเร็วหรือยกเลิกการเลือก</target>
+        </segment>
+      </unit>
+      <unit id="981194899734528" name="input_splitorunload" xml:space="preserve">
+        <segment>
+          <source>Split Or Unload</source>
+          <target>แยกหรือปลด</target>
+        </segment>
+      </unit>
+      <unit id="981197470842880" name="input_dropitem" xml:space="preserve">
+        <segment>
+          <source>Drop Item</source>
+          <target>ทิ้งไอเทม</target>
+        </segment>
+      </unit>
+      <unit id="981199601549312" name="input_inventory" xml:space="preserve">
+        <segment>
+          <source>Inventory</source>
+          <target>สินค้าคงคลัง</target>
+        </segment>
+      </unit>
+      <unit id="981201627398144" name="input_build" xml:space="preserve">
+        <segment>
+          <source>Build</source>
+          <target>สร้าง</target>
+        </segment>
+      </unit>
+      <unit id="981203732938752" name="input_rotatebuilding" xml:space="preserve">
+        <segment>
+          <source>Rotate Building</source>
+          <target>หมุนอาคาร</target>
+        </segment>
+      </unit>
+      <unit id="981205825896448" name="input_use" xml:space="preserve">
+        <segment>
+          <source>Use</source>
+          <target>ใช้</target>
+        </segment>
+      </unit>
+      <unit id="981207818190848" name="input_reload" xml:space="preserve">
+        <segment>
+          <source>Reload</source>
+          <target>รีโหลด</target>
+        </segment>
+      </unit>
+      <unit id="981494662447104" name="input_torchlight" xml:space="preserve">
+        <segment>
+          <source>Torchlight</source>
+          <target>ไฟฉาย</target>
+        </segment>
+      </unit>
+      <unit id="981496877039616" name="input_chatorconfirm" xml:space="preserve">
+        <segment>
+          <source>Chat Or Confirm</source>
+          <target>แชทหรือยืนยัน</target>
+        </segment>
+      </unit>
+      <unit id="981499007746048" name="input_navigation" xml:space="preserve">
+        <segment>
+          <source>Navigation</source>
+          <target>การนำทาง</target>
+        </segment>
+      </unit>
+      <unit id="981501260087296" name="input_displayusernames" xml:space="preserve">
+        <segment>
+          <source>Display Usernames</source>
+          <target>แสดงชื่อผู้ใช้</target>
+        </segment>
+      </unit>
+      <unit id="981560374607872" name="input_canceltutorial" xml:space="preserve">
+        <segment>
+          <source>Cancel Tutorial</source>
+          <target>ยกเลิกการสอน</target>
+        </segment>
+      </unit>
+      <unit id="981562882801664" name="input_console" xml:space="preserve">
+        <segment>
+          <source>Console</source>
+          <target>คอนโซล</target>
+        </segment>
+      </unit>
+      <unit id="981565240000512" name="input_fastselectslot1" xml:space="preserve">
+        <segment>
+          <source>Fast Select Slot 1</source>
+          <target>เลือกสล็อต 1 อย่างรวดเร็ว</target>
+        </segment>
+      </unit>
+      <unit id="981629119250432" name="input_fastselectslot2" xml:space="preserve">
+        <segment>
+          <source>Fast Select Slot 2</source>
+          <target>เลือกสล็อต 2 อย่างรวดเร็ว</target>
+        </segment>
+      </unit>
+      <unit id="981631417729024" name="input_fastselectslot3" xml:space="preserve">
+        <segment>
+          <source>Fast Select Slot 3</source>
+          <target>เลือกสล็อต 3 อย่างรวดเร็ว</target>
+        </segment>
+      </unit>
+      <unit id="981707489820672" name="input_fastselectslot4" xml:space="preserve">
+        <segment>
+          <source>Fast Select Slot 4</source>
+          <target>เลือกช่องที่ 4 อย่างรวดเร็ว</target>
+        </segment>
+      </unit>
+      <unit id="981715442221056" name="input_fastselectslot5" xml:space="preserve">
+        <segment>
+          <source>Fast Select Slot 5</source>
+          <target>เลือกสล็อต 5 อย่างรวดเร็ว</target>
+        </segment>
+      </unit>
+      <unit id="981719644913664" name="input_fastselectslot6" xml:space="preserve">
+        <segment>
+          <source>Fast Select Slot 6</source>
+          <target>เลือกช่องที่ 6 อย่างรวดเร็ว</target>
+        </segment>
+      </unit>
+      <unit id="981724686467072" name="input_exitorclose" xml:space="preserve">
+        <segment>
+          <source>Exit Or Close</source>
+          <target>ออกหรือปิด</target>
+        </segment>
+      </unit>
+      <unit id="1000843901157376" name="text_menu_label_community_servers" xml:space="preserve">
+        <segment>
+          <source>COMMUNITY SERVERS</source>
+          <target>เซิร์ฟเวอร์ชุมชน</target>
+        </segment>
+      </unit>
+      <unit id="1000924318547968" name="text_menu_label_official_servers" xml:space="preserve">
+        <segment>
+          <source>OFFICIAL SERVERS</source>
+          <target>เซิร์ฟเวอร์อย่างเป็นทางการ</target>
+        </segment>
+      </unit>
+      <unit id="1098921429712896" name="text_menu_label_cloth_slot_body" xml:space="preserve">
+        <segment>
+          <source>Body</source>
+          <target>ร่างกาย</target>
+        </segment>
+      </unit>
+      <unit id="1099124522106880" name="text_menu_label_cloth_slot_head" xml:space="preserve">
+        <segment>
+          <source>Head</source>
+          <target>หัว</target>
+        </segment>
+      </unit>
+      <unit id="1099129467191296" name="text_menu_label_cloth_slot_armor" xml:space="preserve">
+        <segment>
+          <source>Armor</source>
+          <target>เกราะ</target>
+        </segment>
+      </unit>
+      <unit id="1099132260597760" name="text_menu_label_cloth_slot_pants" xml:space="preserve">
+        <segment>
+          <source>Pants</source>
+          <target>กางเกง</target>
+        </segment>
+      </unit>
+      <unit id="1099134772985856" name="text_menu_label_cloth_slot_gloves" xml:space="preserve">
+        <segment>
+          <source>Gloves</source>
+          <target>ถุงมือ</target>
+        </segment>
+      </unit>
+      <unit id="1099463946158080" name="text_menu_label_cloth_slot_shoes" xml:space="preserve">
+        <segment>
+          <source>Shoes</source>
+          <target>รองเท้า</target>
+        </segment>
+      </unit>
+      <unit id="1106784034242560" name="text_menu_label_active_build" xml:space="preserve">
+        <segment>
+          <source>Time</source>
+          <target>เวลา</target>
+        </segment>
+      </unit>
+      <unit id="1107606986047488" name="text_menu_label_total_queue_time" xml:space="preserve">
+        <segment>
+          <source>TOTAL QUEUE TIME</source>
+          <target>เวลารอคิวรวม</target>
+        </segment>
+      </unit>
+      <unit id="1107656562720768" name="text_menu_label_no_item_crafting" xml:space="preserve">
+        <segment>
+          <source>NOT ACTIVE</source>
+          <target>ไม่ใช้งาน</target>
+        </segment>
+      </unit>
+      <unit id="1107682663874560" name="text_menu_label_no_queue" xml:space="preserve">
+        <segment>
+          <source>NO QUEUE</source>
+          <target>ไม่มีคิว</target>
+        </segment>
+      </unit>
+      <unit id="1110308348510208" name="text_menu_label_time_left" xml:space="preserve">
+        <segment>
+          <source>TIME LEFT:</source>
+          <target>เวลาที่เหลือ:</target>
+        </segment>
+      </unit>
+      <unit id="1110347833688064" name="text_menu_label_total_time_left" xml:space="preserve">
+        <segment>
+          <source>TOTAL TIME:</source>
+          <target>เวลารวม:</target>
+        </segment>
+      </unit>
+      <unit id="1266377322414080" name="text_menu_welcome" xml:space="preserve">
+        <segment>
+          <source>Welcome to Ruins To Fortress!</source>
+          <target>ยินดีต้อนรับสู่ Ruins To Fortress!</target>
+        </segment>
+      </unit>
+      <unit id="1275135633145856" name="text_menu_message_player" xml:space="preserve">
+        <segment>
+          <source>Player</source>
+          <target>ผู้เล่น</target>
+        </segment>
+      </unit>
+      <unit id="1275201328529408" name="text_menu_message_joined_the_game" xml:space="preserve">
+        <segment>
+          <source>joined the game.</source>
+          <target>เข้าร่วมเกมแล้ว</target>
+        </segment>
+      </unit>
+      <unit id="1275325672865792" name="text_menu_message_left_the_game" xml:space="preserve">
+        <segment>
+          <source>left the game.</source>
+          <target>ออกจากเกมแล้ว.</target>
+        </segment>
+      </unit>
+      <unit id="1278509078298624" name="text_menu_label_master" xml:space="preserve">
+        <segment>
+          <source>Captain</source>
+          <target>กัปตัน</target>
+        </segment>
+      </unit>
+      <unit id="1278574689796096" name="text_menu_label_member" xml:space="preserve">
+        <segment>
+          <source>Member</source>
+          <target>สมาชิก</target>
+        </segment>
+      </unit>
+      <unit id="1279688558526464" name="text_menu_label_invite_to_clan" xml:space="preserve">
+        <segment>
+          <source>INVITE</source>
+          <target>เชิญ</target>
+        </segment>
+      </unit>
+      <unit id="1280056126357504" name="text_menu_label_remove_from_clan" xml:space="preserve">
+        <segment>
+          <source>REMOVE</source>
+          <target>ลบ</target>
+        </segment>
+      </unit>
+      <unit id="1280169175433216" name="text_menu_label_leave_from_clan" xml:space="preserve">
+        <segment>
+          <source>LEAVE</source>
+          <target>ออกไป</target>
+        </segment>
+      </unit>
+      <unit id="1280655362375680" name="text_menu_label_accept_clan" xml:space="preserve">
+        <segment>
+          <source>ACCEPT</source>
+          <target>ยอมรับ</target>
+        </segment>
+      </unit>
+      <unit id="1283324105736192" name="text_menu_label_amount" xml:space="preserve">
+        <segment>
+          <source>AMOUNT</source>
+          <target>จำนวนเงิน</target>
+        </segment>
+      </unit>
+      <unit id="1283384742789120" name="text_menu_label_item_type" xml:space="preserve">
+        <segment>
+          <source>TYPE</source>
+          <target>ประเภท</target>
+        </segment>
+      </unit>
+      <unit id="1287330546860032" name="text_menu_label_crafting" xml:space="preserve">
+        <segment>
+          <source>CRAFTING</source>
+          <target>การผลิต</target>
+        </segment>
+      </unit>
+      <unit id="1312326472187904" name="text_menu_label_enter_message" xml:space="preserve">
+        <segment>
+          <source>Enter Message...</source>
+          <target>ป้อนข้อความ...</target>
+        </segment>
+      </unit>
+      <unit id="1314322436603904" name="text_menu_label_reloading" xml:space="preserve">
+        <segment>
+          <source>RELOADING...</source>
+          <target>กำลังโหลดใหม่...</target>
+        </segment>
+      </unit>
+      <unit id="1314393983041536" name="text_menu_label_bullets" xml:space="preserve">
+        <segment>
+          <source>BULLETS</source>
+          <target>กระสุน</target>
+        </segment>
+      </unit>
+      <unit id="1314531010953216" name="text_menu_label_drawing" xml:space="preserve">
+        <segment>
+          <source>DRAWING...</source>
+          <target>ดึงคันธนู...</target>
+        </segment>
+      </unit>
+      <unit id="1314625529593856" name="text_menu_label_arrows" xml:space="preserve">
+        <segment>
+          <source>ARROWS</source>
+          <target>ลูกศร</target>
+        </segment>
+      </unit>
+      <unit id="1316707317858304" name="text_menu_label_pick_up_placed_item" xml:space="preserve">
+        <segment>
+          <source>PICKUP PLACED ITEM</source>
+          <target>หยิบสิ่งของที่วางไว้</target>
+        </segment>
+      </unit>
+      <unit id="1320823402283008" name="text_menu_label_items_in_nuke_frame" xml:space="preserve">
+        <segment>
+          <source>ITEMS PLACED: {0}</source>
+          <target>วางไอเท็มแล้ว: {0}</target>
+        </segment>
+      </unit>
+      <unit id="1321510802571264" name="text_menu_label_items_nuclear_bomb" xml:space="preserve">
+        <segment>
+          <source>NUCLEAR BOMB</source>
+          <target>ระเบิดนิวเคลียร์</target>
+        </segment>
+      </unit>
+      <unit id="1321578834182144" name="text_menu_label_items_loot_storage" xml:space="preserve">
+        <segment>
+          <source>LOOT</source>
+          <target>ของที่ปล้นมา</target>
+        </segment>
+      </unit>
+      <unit id="1321993625681920" name="text_menu_label_items_storage" xml:space="preserve">
+        <segment>
+          <source>STORAGE</source>
+          <target>การเก็บ</target>
+        </segment>
+      </unit>
+      <unit id="1323568939155456" name="text_menu_label_3d_printer" xml:space="preserve">
+        <segment>
+          <source>3D PRINTER</source>
+          <target>เครื่องพิมพ์ 3 มิติ</target>
+        </segment>
+      </unit>
+      <unit id="1324791457136640" name="text_menu_label_open_door" xml:space="preserve">
+        <segment>
+          <source>OPEN DOOR</source>
+          <target>เปิดประตู</target>
+        </segment>
+      </unit>
+      <unit id="1324823224795136" name="text_menu_label_close_door" xml:space="preserve">
+        <segment>
+          <source>CLOSE DOOR</source>
+          <target>ปิดประตู</target>
+        </segment>
+      </unit>
+      <unit id="1325252285317120" name="text_menu_label_help_plant_seed" xml:space="preserve">
+        <segment>
+          <source>CLICK TO PLANT SEED</source>
+          <target>คลิกเพื่อปลูกเมล็ดพันธุ์</target>
+        </segment>
+      </unit>
+      <unit id="1325594863484928" name="text_menu_label_help_field_is_growing_with_plant" xml:space="preserve">
+        <segment>
+          <source>FIELD IS GROWING </source>
+          <target>สาขากำลังเติบโต</target>
+        </segment>
+      </unit>
+      <unit id="1325956005642240" name="text_menu_label_help_press_to_harvest" xml:space="preserve">
+        <segment>
+          <source>PRESS USE TO HARVEST</source>
+          <target>กดใช้เพื่อเก็บเกี่ยว</target>
+        </segment>
+      </unit>
+      <unit id="1326285992509440" name="text_menu_label_help_press_to_craft_item" xml:space="preserve">
+        <segment>
+          <source>PRESS TO CRAFT ITEMS</source>
+          <target>กดเพื่อสร้างไอเทม</target>
+        </segment>
+      </unit>
+      <unit id="1328565047279616" name="text_menu_label_upgrade_costs" xml:space="preserve">
+        <segment>
+          <source>UPGRADE COSTS:</source>
+          <target>ค่าใช้จ่ายการอัพเกรด:</target>
+        </segment>
+      </unit>
+      <unit id="1329206180200448" name="text_menu_label_repair_costs" xml:space="preserve">
+        <segment>
+          <source>REPAIR COSTS:</source>
+          <target>ค่าซ่อมแซม:</target>
+        </segment>
+      </unit>
+      <unit id="1334279346077696" name="text_menu_label_respawn_in" xml:space="preserve">
+        <segment>
+          <source>You will respawn in</source>
+          <target>คุณจะเกิดใหม่ใน</target>
+        </segment>
+      </unit>
+      <unit id="1334289575985152" name="text_menu_label_you_will_respawn_now" xml:space="preserve">
+        <segment>
+          <source>You will respawn now!</source>
+          <target>คุณจะเกิดใหม่ตอนนี้!</target>
+        </segment>
+      </unit>
+      <unit id="1334414264254464" name="text_menu_label_current_survival_time" xml:space="preserve">
+        <segment>
+          <source>Current survival time</source>
+          <target>ระยะเวลาการอยู่รอดปัจจุบัน</target>
+        </segment>
+      </unit>
+      <unit id="1334749347201024" name="text_menu_label_and_you_died" xml:space="preserve">
+        <segment>
+          <source>and you died</source>
+          <target>และคุณตาย</target>
+        </segment>
+      </unit>
+      <unit id="1339405800587264" name="building_1" xml:space="preserve">
+        <segment>
+          <source>Foundation</source>
+          <target>มูลนิธิ</target>
+        </segment>
+      </unit>
+      <unit id="1339408686268416" name="building_2" xml:space="preserve">
+        <segment>
+          <source>Wall</source>
+          <target>ผนัง</target>
+        </segment>
+      </unit>
+      <unit id="1339410510790656" name="building_3" xml:space="preserve">
+        <segment>
+          <source>Ceiling</source>
+          <target>เพดาน</target>
+        </segment>
+      </unit>
+      <unit id="1339412045905920" name="building_4" xml:space="preserve">
+        <segment>
+          <source>Door</source>
+          <target>ประตู</target>
+        </segment>
+      </unit>
+      <unit id="1339413409054720" name="building_5" xml:space="preserve">
+        <segment>
+          <source>Roof</source>
+          <target>หลังคา</target>
+        </segment>
+      </unit>
+      <unit id="1339416701583360" name="building_6" xml:space="preserve">
+        <segment>
+          <source>Ladder</source>
+          <target>บันได</target>
+        </segment>
+      </unit>
+      <unit id="1339418714849280" name="building_7" xml:space="preserve">
+        <segment>
+          <source>Block</source>
+          <target>บล็อก</target>
+        </segment>
+      </unit>
+      <unit id="1339882088972288" name="building_8" xml:space="preserve">
+        <segment>
+          <source>Pole</source>
+          <target>เสา</target>
+        </segment>
+      </unit>
+      <unit id="1339886191001600" name="building_9" xml:space="preserve">
+        <segment>
+          <source>Wooden High Wall</source>
+          <target>กำแพงไม้สูง</target>
+        </segment>
+      </unit>
+      <unit id="1339888111992832" name="building_10" xml:space="preserve">
+        <segment>
+          <source>Fence</source>
+          <target>รั้ว</target>
+        </segment>
+      </unit>
+      <unit id="1340428325765120" name="building_11" xml:space="preserve">
+        <segment>
+          <source>Destroy Building</source>
+          <target>ทำลายอาคาร</target>
+        </segment>
+      </unit>
+      <unit id="1340430578106368" name="building_12" xml:space="preserve">
+        <segment>
+          <source>Retrieve Furniture</source>
+          <target>เรียกคืนเฟอร์นิเจอร์</target>
+        </segment>
+      </unit>
+      <unit id="1340432163553280" name="building_13" xml:space="preserve">
+        <segment>
+          <source>Paint the back wall</source>
+          <target>ทาสีผนังด้านหลัง</target>
+        </segment>
+      </unit>
+      <unit id="1342880190054400" name="building_1_info" xml:space="preserve">
+        <segment>
+          <source>The Foundation forms the stable base of your house.</source>
+          <target>มูลนิธิเป็นฐานที่มั่นคงของบ้านของคุณ</target>
+        </segment>
+      </unit>
+      <unit id="1342883839098880" name="building_2_info" xml:space="preserve">
+        <segment>
+          <source>Walls are essential for enclosing and protecting your base.</source>
+          <target>กำแพงเป็นสิ่งจำเป็นสำหรับการล้อมและป้องกันฐานของคุณ</target>
+        </segment>
+      </unit>
+      <unit id="1342885072224256" name="building_3_info" xml:space="preserve">
+        <segment>
+          <source>The ceiling completes the enclosure of your living space.</source>
+          <target>เพดานทำให้การปิดล้อมพื้นที่อยู่อาศัยของคุณสมบูรณ์แบบ</target>
+        </segment>
+      </unit>
+      <unit id="1342886171131904" name="building_4_info" xml:space="preserve">
+        <segment>
+          <source>Doors grant access to and from rooms, providing security while allowing passage.</source>
+          <target>ประตูให้การเข้าถึงและออกจากห้อง โดยให้ความปลอดภัยขณะที่อนุญาตให้ผ่านไปมา</target>
+        </segment>
+      </unit>
+      <unit id="1342887202930688" name="building_5_info" xml:space="preserve">
+        <segment>
+          <source>The roof ensuring your house is covered from above. Can be used as a ramp.</source>
+          <target>หลังคาที่ทำให้บ้านของคุณได้รับการปกคลุมจากด้านบน สามารถใช้เป็นทางลาดได้</target>
+        </segment>
+      </unit>
+      <unit id="1342887991459840" name="building_6_info" xml:space="preserve">
+        <segment>
+          <source>The Ladder allowing access to higher or lower levels easily.</source>
+          <target>บันไดช่วยให้เข้าถึงระดับที่สูงขึ้นหรือต่ำลงได้ง่าย</target>
+        </segment>
+      </unit>
+      <unit id="1342890461904896" name="building_7_info" xml:space="preserve">
+        <segment>
+          <source>Blocks can be used for creating partitions within the house.</source>
+          <target>บล็อกสามารถใช้สำหรับสร้างพาร์ติชันภายในบ้านได้</target>
+        </segment>
+      </unit>
+      <unit id="1342892110266368" name="building_8_info" xml:space="preserve">
+        <segment>
+          <source>Poles are used for structural support, often for holding up other building parts like ceilings.</source>
+          <target>เสาถูกใช้เพื่อการสนับสนุนโครงสร้าง บ่อยครั้งสำหรับการรับน้ำหนักส่วนอื่นๆ ของอาคารเช่นเพดาน</target>
+        </segment>
+      </unit>
+      <unit id="1342893192396800" name="building_9_info" xml:space="preserve">
+        <segment>
+          <source>The wooden high wall provides enhanced security outside your base.</source>
+          <target>กำแพงไม้สูงช่วยเพิ่มความปลอดภัยด้านนอกฐานของคุณ</target>
+        </segment>
+      </unit>
+      <unit id="1343089922031616" name="building_10_info" xml:space="preserve">
+        <segment>
+          <source>Fences mark boundaries and make your garden look nice.</source>
+          <target>รั้วกำหนดขอบเขตและทำให้สวนของคุณดูดี</target>
+        </segment>
+      </unit>
+      <unit id="1343091729776640" name="building_11_info" xml:space="preserve">
+        <segment>
+          <source>This option allows for the dismantling or demolition of a building part.</source>
+          <target>ตัวเลือกนี้ช่วยให้สามารถรื้อถอนหรือทำลายส่วนหนึ่งของอาคารได้</target>
+        </segment>
+      </unit>
+      <unit id="1343092954513408" name="building_12_info" xml:space="preserve">
+        <segment>
+          <source>Select this to retrieve a placed item.</source>
+          <target>เลือกสิ่งนี้เพื่อเรียกคืนไอเทมที่วางไว้</target>
+        </segment>
+      </unit>
+      <unit id="1343094430908416" name="building_13_info" xml:space="preserve">
+        <segment>
+          <source>Use this to add a layer of paint to your base back wall.</source>
+          <target>ใช้สิ่งนี้เพื่อเพิ่มชั้นของสีทาบนผนังด้านหลังฐานของคุณ</target>
+        </segment>
+      </unit>
+      <unit id="1346551518871552" name="text_menu_label_place_item" xml:space="preserve">
+        <segment>
+          <source>PLACE ITEM</source>
+          <target>วางสิ่งของ</target>
+        </segment>
+      </unit>
+      <unit id="1346554429718528" name="text_menu_label_pickup_item" xml:space="preserve">
+        <segment>
+          <source>PICK UP ITEM</source>
+          <target>หยิบสิ่งของ</target>
+        </segment>
+      </unit>
+      <unit id="1346556610756608" name="text_menu_label_destroy_building" xml:space="preserve">
+        <segment>
+          <source>DESTROY BUILDING PART</source>
+          <target>ทำลายส่วนของอาคาร</target>
+        </segment>
+      </unit>
+      <unit id="1346559307694080" name="text_menu_label_place_building" xml:space="preserve">
+        <segment>
+          <source>PLACE BUILDING</source>
+          <target>วางอาคาร</target>
+        </segment>
+      </unit>
+      <unit id="1346561581006848" name="text_menu_label_paint_back_wall" xml:space="preserve">
+        <segment>
+          <source>PAINT BACK WALL</source>
+          <target>ทาสีผนังด้านหลัง</target>
+        </segment>
+      </unit>
+      <unit id="1349767937671168" name="text_menu_info_can_not_build_here" xml:space="preserve">
+        <segment>
+          <source>Building in this area is not permitted.</source>
+          <target>ไม่อนุญาตให้ก่อสร้างในพื้นที่นี้</target>
+        </segment>
+      </unit>
+      <unit id="1359423196119040" name="text_menu_info_world_recovered" xml:space="preserve">
+        <segment>
+          <source>The world has recovered from the nuke.</source>
+          <target>โลกได้ฟื้นตัวจากการถูกนิวเคลียร์แล้ว</target>
+        </segment>
+      </unit>
+      <unit id="1359549104930816" name="text_menu_info_has_detonated_a_nuke" xml:space="preserve">
+        <segment>
+          <source>has detonated a nuke, turning the world into a wasteland.</source>
+          <target>ได้ทำการระเบิดนิวเคลียร์ ทำให้โลกกลายเป็นดินแดนรกร้าง</target>
+        </segment>
+      </unit>
+      <unit id="1359550832984064" name="text_menu_info_world_will_recover_shortly" xml:space="preserve">
+        <segment>
+          <source>The world will recover shortly...</source>
+          <target>โลกจะฟื้นตัวเร็วๆ นี้...</target>
+        </segment>
+      </unit>
+      <unit id="1360635672936448" name="text_menu_info_the_world_will_recover_in" xml:space="preserve">
+        <segment>
+          <source>The world will recover in</source>
+          <target>โลกจะฟื้นตัวขึ้น</target>
+        </segment>
+      </unit>
+      <unit id="1363140750360576" name="text_menu_button_detonate" xml:space="preserve">
+        <segment>
+          <source>DETONATE NUKE</source>
+          <target>ทำให้ระเบิดนิวเคลียร์</target>
+        </segment>
+      </unit>
+      <unit id="1433146137788416" name="text_menu_label_retreiving_servers" xml:space="preserve">
+        <segment>
+          <source>RETRIEVING SERVERS...</source>
+          <target>กำลังเรียกข้อมูลเซิร์ฟเวอร์...</target>
+        </segment>
+      </unit>
+      <unit id="1433477793988608" name="text_menu_label_password_protected_enter_password" xml:space="preserve">
+        <segment>
+          <source>This server is password protected please enter password!</source>
+          <target>เซิร์ฟเวอร์นี้ถูกป้องกันด้วยรหัสผ่าน กรุณาใส่รหัสผ่าน!</target>
+        </segment>
+      </unit>
+      <unit id="1435930719436800" name="text_menu_label_incorrect_password" xml:space="preserve">
+        <segment>
+          <source>Password is incorrect...</source>
+          <target>รหัสผ่านไม่ถูกต้อง...</target>
+        </segment>
+      </unit>
+      <unit id="1435945173008384" name="text_menu_label_game_version_different" xml:space="preserve">
+        <segment>
+          <source>Game version is not the same as server version...</source>
+          <target>เวอร์ชันเกมไม่ตรงกับเวอร์ชันของเซิร์ฟเวอร์...</target>
+        </segment>
+      </unit>
+      <unit id="1437216844038144" name="text_menu_popup_msg1" xml:space="preserve">
+        <segment>
+          <source>You already sent an invitation to this player.</source>
+          <target>คุณได้ส่งคำเชิญไปยังผู้เล่นคนนี้แล้ว</target>
+        </segment>
+      </unit>
+      <unit id="1437220853792768" name="text_menu_popup_msg2" xml:space="preserve">
+        <segment>
+          <source>You currently can't join a clan. Each player or clan is restricted to having only one workbench. You can remove or destroy your current workbench to join a clan.</source>
+          <target>คุณไม่สามารถเข้าร่วมกลุ่มเผ่าได้ในขณะนี้ ผู้เล่นแต่ละคนหรือกลุ่มเผ่าจะถูกจำกัดให้มีเพียงหน้างานเดียวเท่านั้น คุณสามารถลบหรือทำลายหน้างานปัจจุบันของคุณเพื่อเข้าร่วมกลุ่มเผ่า</target>
+        </segment>
+      </unit>
+      <unit id="1437223856914432" name="text_menu_popup_msg3" xml:space="preserve">
+        <segment>
+          <source>You are already in a clan. Leave your current clan to join a new one.</source>
+          <target>คุณอยู่ในกลุ่มแล้ว ออกจากกลุ่มปัจจุบันเพื่อเข้าร่วมกลุ่มใหม่</target>
+        </segment>
+      </unit>
+      <unit id="1437226981670912" name="text_menu_popup_msg4" xml:space="preserve">
+        <segment>
+          <source>No server selected...</source>
+          <target>ไม่ได้เลือกเซิร์ฟเวอร์...</target>
+        </segment>
+      </unit>
+      <unit id="1437229129154560" name="text_menu_popup_msg5" xml:space="preserve">
+        <segment>
+          <source>Server is full...</source>
+          <target>เซิร์ฟเวอร์เต็มแล้ว...</target>
+        </segment>
+      </unit>
+      <unit id="1437232086138880" name="text_menu_popup_msg6" xml:space="preserve">
+        <segment>
+          <source>You are already connected to this server, try to disconnect first...</source>
+          <target>คุณเชื่อมต่อกับเซิร์ฟเวอร์นี้แล้ว ลองยกเลิกการเชื่อมต่อก่อน...</target>
+        </segment>
+      </unit>
+      <unit id="1437249731575808" name="text_menu_popup_msg7" xml:space="preserve">
+        <segment>
+          <source>Connection Failed...</source>
+          <target>การเชื่อมต่อล้มเหลว...</target>
+        </segment>
+      </unit>
+      <unit id="1438454998384640" name="text_menu_popup_msg8" xml:space="preserve">
+        <segment>
+          <source>Steam is not running...</source>
+          <target>Steam ไม่ได้เปิดอยู่...</target>
+        </segment>
+      </unit>
+      <unit id="1439494896369664" name="text_menu_popup_msg9" xml:space="preserve">
+        <segment>
+          <source>Retrieve server list not possible. No internet connection.</source>
+          <target>ไม่สามารถเรียกดูรายชื่อเซิร์ฟเวอร์ได้ ไม่มีการเชื่อมต่ออินเทอร์เน็ต</target>
+        </segment>
+      </unit>
+      <unit id="1439564752502784" name="text_menu_popup_msg10" xml:space="preserve">
+        <segment>
+          <source>Register server not possible. No internet connection.</source>
+          <target>ไม่สามารถลงทะเบียนเซิร์ฟเวอร์ได้ ไม่มีการเชื่อมต่ออินเทอร์เน็ต</target>
+        </segment>
+      </unit>
+      <unit id="1439580388868096" name="text_menu_popup_msg11" xml:space="preserve">
+        <segment>
+          <source>Update server not possible. No internet connection.</source>
+          <target>ไม่สามารถอัปเดตเซิร์ฟเวอร์ได้ ไม่มีการเชื่อมต่ออินเทอร์เน็ต</target>
+        </segment>
+      </unit>
+      <unit id="1439593647063040" name="text_menu_popup_msg12" xml:space="preserve">
+        <segment>
+          <source>Deregistering the server is not possible. No internet connection.</source>
+          <target>ไม่สามารถยกเลิกการลงทะเบียนเซิร์ฟเวอร์ได้ ไม่มีการเชื่อมต่ออินเทอร์เน็ต</target>
+        </segment>
+      </unit>
+      <unit id="1832226315845632" name="language_pl" xml:space="preserve">
+        <segment>
+          <source>Polish (pl)</source>
+          <target>ภาษาโปแลนด์ (pl)</target>
+        </segment>
+      </unit>
+      <unit id="2052016884170752" name="text_menu_label_day_night_cycle" xml:space="preserve">
+        <segment>
+          <source>ENABLE DAY AND NIGHT CYCLE:</source>
+          <target>เปิดใช้งานวงจรกลางวันและกลางคืน:</target>
+        </segment>
+      </unit>
+      <unit id="2052022332571648" name="text_menu_label_enable_npcs" xml:space="preserve">
+        <segment>
+          <source>ENABLE OUTLAW NPCS:</source>
+          <target>เปิดใช้งาน NPC นอกกฎหมาย:</target>
+        </segment>
+      </unit>
+      <unit id="2355291487485952" name="text_menu_popup_msg13" xml:space="preserve">
+        <segment>
+          <source>No internet connection.</source>
+          <target>ไม่มีการเชื่อมต่ออินเทอร์เน็ต</target>
+        </segment>
+      </unit>
+      <unit id="4522694876004352" name="info_message_36" xml:space="preserve">
+        <segment>
+          <source>is broken!</source>
+          <target>พังแล้ว!</target>
+        </segment>
+      </unit>
+      <unit id="4572255229247488" name="info_message_37" xml:space="preserve">
+        <segment>
+          <source>You're out of ammunition.</source>
+          <target>คุณหมดกระสุนแล้ว。</target>
+        </segment>
+      </unit>
+      <unit id="4573959236550656" name="info_message_38" xml:space="preserve">
+        <segment>
+          <source>No ammunition in magazine.</source>
+          <target>ไม่มีกระสุนในแม็กกาซีน</target>
+        </segment>
+      </unit>
+      <unit id="4576249838239744" name="text_menu_label_leader" xml:space="preserve">
+        <segment>
+          <source>Captain</source>
+          <target>กัปตัน</target>
+        </segment>
+      </unit>
+      <unit id="4615422188126208" name="text_menu_label_items_refill_time" xml:space="preserve">
+        <segment>
+          <source>RESTOCK TIME: {0}</source>
+          <target>เวลาเติมสินค้า: {0}</target>
+        </segment>
+      </unit>
+      <unit id="5249989626494976" name="text_menu_label_kicked_from_the_server" xml:space="preserve">
+        <segment>
+          <source>You have been kicked from the server.</source>
+          <target>คุณถูกเตะออกจากเซิร์ฟเวอร์แล้ว。</target>
+        </segment>
+      </unit>
+      <unit id="5250106261700608" name="text_menu_label_banned_from_the_server" xml:space="preserve">
+        <segment>
+          <source>You have been banned from the server.</source>
+          <target>คุณได้รับการแบนจากเซิร์ฟเวอร์</target>
+        </segment>
+      </unit>
+      <unit id="7127614770839552" name="text_menu_label_select" xml:space="preserve">
+        <segment>
+          <source>CONFIRM</source>
+          <target>ยืนยัน</target>
+        </segment>
+      </unit>
+      <unit id="7128453988155392" name="text_menu_label_select_game" xml:space="preserve">
+        <segment>
+          <source>SELECT GAME</source>
+          <target>เลือกเกม</target>
+        </segment>
+      </unit>
+      <unit id="7136835918823424" name="text_menu_label_deselect" xml:space="preserve">
+        <segment>
+          <source>DESELECT</source>
+          <target>ยกเลิกการเลือก</target>
+        </segment>
+      </unit>
+      <unit id="7152122361741312" name="text_menu_label_save_game" xml:space="preserve">
+        <segment>
+          <source>SAVE GAME</source>
+          <target>บันทึกเกม</target>
+        </segment>
+      </unit>
+      <unit id="7155540820164608" name="info_message_40" xml:space="preserve">
+        <segment>
+          <source>GAME IS SAVING...</source>
+          <target>กำลังบันทึกเกม...</target>
+        </segment>
+      </unit>
+      <unit id="7155736501223424" name="info_message_41" xml:space="preserve">
+        <segment>
+          <source>GAME SAVED!</source>
+          <target>เกมได้รับการบันทึกแล้ว!</target>
+        </segment>
+      </unit>
+      <unit id="8220293523431424" name="text_menu_popup_msg14" xml:space="preserve">
+        <segment>
+          <source>You can not connect to a game hosted by yourself.</source>
+          <target>คุณไม่สามารถเชื่อมต่อกับเกมที่คุณเป็นเจ้าภาพได้。</target>
+        </segment>
+      </unit>
+      <unit id="11066478136852480" name="text_menu_label_info" xml:space="preserve">
+        <segment>
+          <source>INFO:</source>
+          <target>ข้อมูล:</target>
+        </segment>
+      </unit>
+      <unit id="11067338413768704" name="text_menu_label_day" xml:space="preserve">
+        <segment>
+          <source>DAY</source>
+          <target>วัน</target>
+        </segment>
+      </unit>
+      <unit id="11102730630397952" name="text_menu_label_game_mode" xml:space="preserve">
+        <segment>
+          <source>GAME MODE:</source>
+          <target>โหมดเกม:</target>
+        </segment>
+      </unit>
+      <unit id="14390310734069760" name="input_greetings" xml:space="preserve">
+        <segment>
+          <source>Greetings:</source>
+          <target>คำทักทาย:</target>
+        </segment>
+      </unit>
+      <unit id="14503492643389440" name="info_message_42" xml:space="preserve">
+        <segment>
+          <source>This item must be positioned on either a foundation or a ceiling.</source>
+          <target>สิ่งของนี้ต้องวางบนฐานรากหรือเพดาน</target>
+        </segment>
+      </unit>
+      <unit id="17403467220058112" name="item_Wooden Club" xml:space="preserve">
+        <segment>
+          <source>Wooden Club</source>
+          <target>กระบองไม้</target>
+        </segment>
+      </unit>
+      <unit id="17403483779170304" name="item_Wooden Club_info" xml:space="preserve">
+        <segment>
+          <source>A weak but versatile tool. Cuts wood, mines ore, and loots containers.</source>
+          <target>เครื่องมือที่อ่อนแอแต่มีความหลากหลาย ตัดไม้ ขุดแร่ และปล้นภาชนะ</target>
+        </segment>
+      </unit>
+      <unit id="17579030308126720" name="text_help_attack" xml:space="preserve">
+        <segment>
+          <source>Press the left mouse button to use a weapon or tool.</source>
+          <target>กดปุ่มซ้ายของเมาส์เพื่อใช้งานอาวุธหรือเครื่องมือ</target>
+        </segment>
+      </unit>
+      <unit id="17580393268183040" name="text_console_tutorial_finished1" xml:space="preserve">
+        <segment>
+          <source>Tutorial complete! You're on your own now.</source>
+          <target>สอนจบแล้ว! ตอนนี้คุณต้องทำเองแล้วนะ</target>
+        </segment>
+      </unit>
+      <unit id="17582658087485440" name="text_console_tutorial_finished2" xml:space="preserve">
+        <segment>
+          <source>Find a boat to float past obstacles!</source>
+          <target>หาเรือที่จะลอยผ่านอุปสรรคไปได้!</target>
+        </segment>
+      </unit>
+      <unit id="17582799741714432" name="text_console_tutorial_finished3" xml:space="preserve">
+        <segment>
+          <source>Good Luck!</source>
+          <target>โชคดีนะ!</target>
+        </segment>
+      </unit>
+      <unit id="18354536729214976" name="item_Headlamp" xml:space="preserve">
+        <segment>
+          <source>Headlamp</source>
+          <target>ไฟฉายคาดหัว</target>
+        </segment>
+      </unit>
+      <unit id="18354579687276544" name="item_Headlamp_info" xml:space="preserve">
+        <segment>
+          <source>Hands-free light for night exploration. Can be turned on and off.</source>
+          <target>ไฟไม่ใช้มือสำหรับการสำรวจยามค่ำคืน สามารถเปิดและปิดได้</target>
+        </segment>
+      </unit>
+      <unit id="20574206429429760" name="disclaimer_label" xml:space="preserve">
+        <segment>
+          <source>This game is still in development</source>
+          <target>เกมนี้ยังอยู่ในระหว่างการพัฒนา</target>
+        </segment>
+      </unit>
+      <unit id="20574250926800896" name="disclaimer_info_text" xml:space="preserve">
+        <segment>
+          <source>Ruins to Fortress is an indie passion project, and the game is still in Early Access. Many things may change before the final release.
+
+Certain game or platform features aren't available yet, and you will probably encounter bugs. Feel free to drop feedback on our Discord channel where we try to respond every day.
+
+Thank you for understanding as we continue work on the game.
+
+Simon and Markus, 
+
+Ruins to Fortress devs</source>
+          <target>Ruins to Fortress เป็นโปรเจ็กต์อินดี้ที่ทำด้วยความหลงใหล และเกมยังอยู่ในช่วงเข้าถึงล่วงหน้า อาจมีหลายสิ่งที่เปลี่ยนแปลงก่อนการเปิดตัวเต็มรูปแบบ
+
+ฟีเจอร์บางอย่างของเกมหรือแพลตฟอร์มยังไม่พร้อมให้บริการ และคุณอาจพบกับข้อบกพร่องได้ โปรดแสดงความคิดเห็นของคุณในช่อง Discord ของเรา ซึ่งเราพยายามตอบกลับทุกวัน
+
+ขอบคุณที่เข้าใจในขณะที่เรายังคงทำงานในเกม
+
+Simon และ Markus,
+
+นักพัฒนา Ruins to Fortress</target>
+        </segment>
+      </unit>
+      <unit id="20628166091669504" name="text_menu_label_continue" xml:space="preserve">
+        <segment>
+          <source>continue</source>
+          <target>ดำเนินต่อ</target>
+        </segment>
+      </unit>
+      <unit id="25019591025688576" name="text_menu_label_comfortzone" xml:space="preserve">
+        <segment>
+          <source>COMFORT ZONE</source>
+          <target>เขตความสบาย</target>
+        </segment>
+      </unit>
+      <unit id="29170667392008192" name="item_Knife" xml:space="preserve">
+        <segment>
+          <source>Knife</source>
+          <target>มีด</target>
+        </segment>
+      </unit>
+      <unit id="29170702376697856" name="item_Knife_info" xml:space="preserve">
+        <segment>
+          <source>NPC Knife</source>
+          <target>มีด NPC</target>
+        </segment>
+      </unit>
+      <unit id="29170735587196928" name="item_Battery" xml:space="preserve">
+        <segment>
+          <source>Battery</source>
+          <target>แบตเตอรี่</target>
+        </segment>
+      </unit>
+      <unit id="29170757145919488" name="item_Battery_info" xml:space="preserve">
+        <segment>
+          <source>Power source for various electronic devices.</source>
+          <target>แหล่งจ่ายไฟสำหรับอุปกรณ์อิเล็กทรอนิกส์หลากหลายรุ่น。</target>
+        </segment>
+      </unit>
+      <unit id="29170777530236928" name="item_Fuse Box" xml:space="preserve">
+        <segment>
+          <source>Fuse Box</source>
+          <target>กล่องฟิวส์</target>
+        </segment>
+      </unit>
+      <unit id="29170794563305472" name="item_Fuse Box_info" xml:space="preserve">
+        <segment>
+          <source>A central hub for managing and distributing electricity. Connects to batteries and solar panels.</source>
+          <target>ศูนย์กลางสำหรับการจัดการและกระจายไฟฟ้า ต่อกับแบตเตอรี่และแผงโซลาร์เซลล์</target>
+        </segment>
+      </unit>
+      <unit id="29170813014048768" name="item_Solar Panel" xml:space="preserve">
+        <segment>
+          <source>Solar Panel</source>
+          <target>แผงโซลาร์เซลล์</target>
+        </segment>
+      </unit>
+      <unit id="29170828876906496" name="item_Solar Panel_info" xml:space="preserve">
+        <segment>
+          <source>Converts sunlight into electricity. Provides a sustainable power source for various devices.</source>
+          <target>แปลงแสงอาทิตย์เป็นไฟฟ้า ให้แหล่งพลังงานที่ยั่งยืนสำหรับอุปกรณ์ต่างๆ</target>
+        </segment>
+      </unit>
+      <unit id="29170862091599872" name="item_Satoshi Miner" xml:space="preserve">
+        <segment>
+          <source>Satoshi Miner</source>
+          <target>นักขุด Satoshi</target>
+        </segment>
+      </unit>
+      <unit id="29170910825218048" name="item_Satoshi Miner_info" xml:space="preserve">
+        <segment>
+          <source>Generates cryptocurrency by solving complex algorithms. Requires electricity to operate.</source>
+          <target>สร้างสกุลเงินดิจิทัลโดยการแก้ไขอัลกอริทึมที่ซับซ้อน ต้องการไฟฟ้าในการดำเนินการ</target>
+        </segment>
+      </unit>
+      <unit id="29170934397206528" name="item_Satoshi Mining Rack" xml:space="preserve">
+        <segment>
+          <source>Satoshi Mining Rack</source>
+          <target>แร็คขุด Satoshi</target>
+        </segment>
+      </unit>
+      <unit id="29170958397014016" name="item_Satoshi Mining Rack_info" xml:space="preserve">
+        <segment>
+          <source>Houses multiple Satoshi Miners, increasing cryptocurrency production.</source>
+          <target>บ้านหลายหลังที่มีเครื่องขุด Satoshi มากมาย ช่วยเพิ่มการผลิตสกุลเงินดิจิทัล。</target>
+        </segment>
+      </unit>
+      <unit id="29170977481097216" name="item_Planter Box" xml:space="preserve">
+        <segment>
+          <source>Planter Box</source>
+          <target>กระถางต้นไม้</target>
+        </segment>
+      </unit>
+      <unit id="29171011278798848" name="item_Planter Box_info" xml:space="preserve">
+        <segment>
+          <source>Used for growing crops and plants. Provides a sustainable food source.</source>
+          <target>ใช้สำหรับปลูกพืชและพืชผล ให้แหล่งอาหารที่ยั่งยืน</target>
+        </segment>
+      </unit>
+      <unit id="29188471633674240" name="item_Industrial Lamp" xml:space="preserve">
+        <segment>
+          <source>Industrial Lamp</source>
+          <target>โคมไฟอุตสาหกรรม</target>
+        </segment>
+      </unit>
+      <unit id="29188491795693568" name="item_Industrial Lamp_info" xml:space="preserve">
+        <segment>
+          <source>Used for growing crops and plants. Provides a sustainable food source. Requires electricity to operate.</source>
+          <target>ใช้สำหรับปลูกพืชและผลผลิต ให้แหล่งอาหารที่ยั่งยืน ต้องใช้ไฟฟ้าในการทำงาน</target>
+        </segment>
+      </unit>
+      <unit id="29188517632606208" name="item_Ceiling Lamp" xml:space="preserve">
+        <segment>
+          <source>Ceiling Lamp</source>
+          <target>โคมไฟเพดาน</target>
+        </segment>
+      </unit>
+      <unit id="29188527975759872" name="item_Ceiling Lamp_info" xml:space="preserve">
+        <segment>
+          <source>Light source. Requires electricity to operate.</source>
+          <target>แหล่งกำเนิดแสง ต้องใช้ไฟฟ้าในการทำงาน</target>
+        </segment>
+      </unit>
+      <unit id="29231796533264384" name="item_Advanced Planter Box" xml:space="preserve">
+        <segment>
+          <source>Advanced Planter Box</source>
+          <target>กระบะปลูกพืชขั้นสูง</target>
+        </segment>
+      </unit>
+      <unit id="29231925478752256" name="item_Advanced Planter Box_info" xml:space="preserve">
+        <segment>
+          <source>Used for growing crops and plants. Requires electricity to operate.</source>
+          <target>ใช้สำหรับปลูกพืชผลและต้นไม้ ต้องการไฟฟ้าในการทำงาน</target>
+        </segment>
+      </unit>
+      <unit id="29695278357610496" name="text_button_turn_all_on" xml:space="preserve">
+        <segment>
+          <source>Turn all on</source>
+          <target>เปิดทั้งหมด</target>
+        </segment>
+      </unit>
+      <unit id="29695359047630848" name="text_button_turn_all_off" xml:space="preserve">
+        <segment>
+          <source>Turn all off</source>
+          <target>ปิดทั้งหมด</target>
+        </segment>
+      </unit>
+      <unit id="29699994210729984" name="text_button_label_electric_input" xml:space="preserve">
+        <segment>
+          <source>energy input: &lt;color=#428236&gt;{0}&lt;/color&gt;</source>
+          <target>การป้อนพลังงาน: &lt;color=#428236&gt;{0}&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="29700136125005824" name="text_button_label_electric_output" xml:space="preserve">
+        <segment>
+          <source>energy output: &lt;color=#d94f4f&gt;{0}&lt;/color&gt;</source>
+          <target>กำลังผลิตพลังงาน: &lt;color=#d94f4f&gt;{0}&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="29700322532458496" name="text_button_label_electric_battery" xml:space="preserve">
+        <segment>
+          <source>battery: &lt;color=#a5bbb1&gt;{0}&lt;/color&gt;</source>
+          <target>แบตเตอร:ี่ &lt;color=#a5bbb1&gt;{0}&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="31889568378847232" name="item_Electronic Scrap" xml:space="preserve">
+        <segment>
+          <source>Electronic Scrap</source>
+          <target>ขยะอิเล็กทรอนิกส์</target>
+        </segment>
+      </unit>
+      <unit id="31889582048083968" name="item_Electronic Scrap_info" xml:space="preserve">
+        <segment>
+          <source>Electronic Scrap used in advanced crafting and construction. Obtained from loot containers.</source>
+          <target>ขยะอิเล็กทรอนิกส์ที่ใช้ในงานประดิษฐ์และการก่อสร้างขั้นสูง ได้รับมาจากภาชนะบรรจุของที่ปล้นได้</target>
+        </segment>
+      </unit>
+      <unit id="32622647615619072" name="text_menu_help_select_with_mouse" xml:space="preserve">
+        <segment>
+          <source>Select an Interactable Item with the Mouse Cursor</source>
+          <target>เลือกไอเท็มที่สามารถโต้ตอบได้ด้วยเคอร์เซอร์ของเมาส์</target>
+        </segment>
+      </unit>
+      <unit id="32875137401552896" name="text_menu_help_select_door_with_mouse" xml:space="preserve">
+        <segment>
+          <source>Select Door with the Mouse Cursor</source>
+          <target>เลือกประตูด้วยเคอร์เซอร์เมาส์</target>
+        </segment>
+      </unit>
+      <unit id="32875234818457600" name="text_menu_help_select_chest_with_mouse" xml:space="preserve">
+        <segment>
+          <source>Select Chest with the Mouse Cursor</source>
+          <target>เลือกหีบด้วยเคอร์เซอร์เมาส์</target>
+        </segment>
+      </unit>
+      <unit id="32875257241206784" name="text_menu_help_select_vendingmachine_with_mouse" xml:space="preserve">
+        <segment>
+          <source>Select Vendingmachine with the Mouse Cursor</source>
+          <target>เลือกตู้จำหน่ายสินค้าอัตโนมัติด้วยเคอร์เซอร์เมาส์</target>
+        </segment>
+      </unit>
+      <unit id="33207713861402624" name="text_menu_help_pick_a_hammer" xml:space="preserve">
+        <segment>
+          <source>Select the hammer tool to interact with buildings and items.</source>
+          <target>เลือกเครื่องมือค้อนเพื่อโต้ตอบกับอาคารและรายการต่าง ๆ</target>
+        </segment>
+      </unit>
+      <unit id="33316889056968704" name="text_menu_help_eat_food_1" xml:space="preserve">
+        <segment>
+          <source>To gain more health and calories, eat and cook nutritious food</source>
+          <target>เพื่อให้ได้สุขภาพและแคลอรี่มากขึ้น ให้กินและปรุงอาหารที่มีคุณค่าทางโภชนาการ</target>
+        </segment>
+      </unit>
+      <unit id="33316952235769856" name="text_menu_help_eat_food_2" xml:space="preserve">
+        <segment>
+          <source>Select the food items from the inventory AND PRESS</source>
+          <target>เลือกอาหารจากสินค้าคงคลังและกด</target>
+        </segment>
+      </unit>
+      <unit id="34288117808824320" name="info_message_43" xml:space="preserve">
+        <segment>
+          <source>Cannot turn on electric, all batteries are empty.</source>
+          <target>ไม่สามารถเปิดไฟฟ้าได้ แบตเตอรี่ทั้งหมดหมดแล้ว</target>
+        </segment>
+      </unit>
+      <unit id="34386819206545408" name="info_message_44" xml:space="preserve">
+        <segment>
+          <source>A Workbench is necessary to control a fuse box.</source>
+          <target>โต๊ะทำงานเป็นสิ่งจำเป็นในการควบคุมกล่องฟิวส์</target>
+        </segment>
+      </unit>
+      <unit id="34387705412648960" name="text_menu_label_seed" xml:space="preserve">
+        <segment>
+          <source>Seed</source>
+          <target>เมล็ด</target>
+        </segment>
+      </unit>
+      <unit id="36065537535971328" name="text_menu_label_rack_hashrate" xml:space="preserve">
+        <segment>
+          <source>Global Hashrate: {0}</source>
+          <target>พลังการประมวลผลทั่วโลก: {0}</target>
+        </segment>
+      </unit>
+      <unit id="36065568523489280" name="text_menu_label_global_hashrate" xml:space="preserve">
+        <segment>
+          <source>Rack Hashrate: {0}</source>
+          <target>อัตราแฮชของชั้น: {0}</target>
+        </segment>
+      </unit>
+      <unit id="36853459911376896" name="text_menu_label_dronepickupstation" xml:space="preserve">
+        <segment>
+          <source>Drone Pickup Station</source>
+          <target>สถานีรับสินค้าโดรน</target>
+        </segment>
+      </unit>
+      <unit id="51011593676455936" name="item_Chicken_Egg" xml:space="preserve">
+        <segment>
+          <source>Chicken Egg</source>
+          <target>ไข่ไก่</target>
+        </segment>
+      </unit>
+      <unit id="51011813869027328" name="item_Chicken Egg_info" xml:space="preserve">
+        <segment>
+          <source>Edible egg. Good source of protein and nutrition.</source>
+          <target>ไข่ที่รับประทานได้ แหล่งโปรตีนและสารอาหารที่ดี</target>
+        </segment>
+      </unit>
+      <unit id="51011859519832064" name="item_Chicken" xml:space="preserve">
+        <segment>
+          <source>Chicken</source>
+          <target>ไก่</target>
+        </segment>
+      </unit>
+      <unit id="51011911512424448" name="item_Chicken_info" xml:space="preserve">
+        <segment>
+          <source>To produce eggs for food, a chicken coop is required.</source>
+          <target>การผลิตไข่เพื่อบริโภคต้องมีเล้าไก่</target>
+        </segment>
+      </unit>
+      <unit id="51012086700113920" name="item_Chicken House" xml:space="preserve">
+        <segment>
+          <source>Chicken House</source>
+          <target>เล้าไก่</target>
+        </segment>
+      </unit>
+      <unit id="51012223568642048" name="item_Chicken House_info" xml:space="preserve">
+        <segment>
+          <source>Shelter for hens and rooster. Provides a safe environment for egg production.</source>
+          <target>ที่พักพิงสำหรับแม่ไก่และไก่ตัวผู้ ให้สภาพแวดล้อมที่ปลอดภัยสำหรับการผลิตไข่</target>
+        </segment>
+      </unit>
+      <unit id="51012248512167936" name="item_Companion" xml:space="preserve">
+        <segment>
+          <source>Companion</source>
+          <target>เพื่อนร่วมทาง</target>
+        </segment>
+      </unit>
+      <unit id="51012326366838784" name="item_Companion_info" xml:space="preserve">
+        <segment>
+          <source>A loyal companion that follows you to your base.</source>
+          <target>เพื่อนที่ซื่อสัตย์ซึ่งติดตามคุณไปจนถึงฐานของคุณ</target>
+        </segment>
+      </unit>
+      <unit id="51486184102363136" name="text_menu_label_chickens" xml:space="preserve">
+        <segment>
+          <source>Chickens</source>
+          <target>ไก่</target>
+        </segment>
+      </unit>
+      <unit id="51735885816987648" name="item_Wild Chicken" xml:space="preserve">
+        <segment>
+          <source>Wild Chicken</source>
+          <target>ไก่ป่า</target>
+        </segment>
+      </unit>
+      <unit id="51735910940868608" name="item_Wild Chicken_info" xml:space="preserve">
+        <segment>
+          <source>Wild chicken. Can be tamed and domesticated for egg production.</source>
+          <target>ไก่ป่า สามารถเลี้ยงและทำให้เชื่องเพื่อการผลิตไข่</target>
+        </segment>
+      </unit>
+      <unit id="54002195754057728" name="warning_no_workbench" xml:space="preserve">
+        <segment>
+          <source>No Workbench</source>
+          <target>ไม่มีโต๊ะทำงาน</target>
+        </segment>
+      </unit>
+      <unit id="54002294223732736" name="warning_not_enough_resources" xml:space="preserve">
+        <segment>
+          <source>Insufficient Materials</source>
+          <target>วัสดุไม่เพียงพอ</target>
+        </segment>
+      </unit>
+      <unit id="54007656448458752" name="warning_landing_permitted" xml:space="preserve">
+        <segment>
+          <source>Landing Denied</source>
+          <target>ปฏิเสธการลงจอด</target>
+        </segment>
+      </unit>
+      <unit id="54009140229636096" name="warning_not_permitted" xml:space="preserve">
+        <segment>
+          <source>Not Permitted</source>
+          <target>ไม่ได้รับอนุญาต</target>
+        </segment>
+      </unit>
+      <unit id="54197820873441280" name="warning_inventory_full" xml:space="preserve">
+        <segment>
+          <source>Inventory Full</source>
+          <target>สินค้าคงคลังเต็ม</target>
+        </segment>
+      </unit>
+      <unit id="55288823856431104" name="text_menu_label_skins" xml:space="preserve">
+        <segment>
+          <source>Custom Skins</source>
+          <target>สกินที่กำหนดเอง</target>
+        </segment>
+      </unit>
+      <unit id="55289688130519040" name="text_menu_button_clothing" xml:space="preserve">
+        <segment>
+          <source>Clothing</source>
+          <target>เสื้อผ้า</target>
+        </segment>
+      </unit>
+      <unit id="55289781114044416" name="text_menu_button_weapon_and_tools" xml:space="preserve">
+        <segment>
+          <source>Weapon And Tools</source>
+          <target>อาวุธและเครื่องมือ</target>
+        </segment>
+      </unit>
+      <unit id="55290095741370368" name="text_menu_button_others" xml:space="preserve">
+        <segment>
+          <source>Others</source>
+          <target>อื่นๆ</target>
+        </segment>
+      </unit>
+      <unit id="55357687877271552" name="text_menu_label_preview_skin" xml:space="preserve">
+        <segment>
+          <source>Skin Demo</source>
+          <target>เดโมสกิน</target>
+        </segment>
+      </unit>
+      <unit id="55357788255354880" name="text_menu_label_select_base_item" xml:space="preserve">
+        <segment>
+          <source>Select Item And Choose Skin</source>
+          <target>เลือกไอเทมและเลือกสกิน</target>
+        </segment>
+      </unit>
+      <unit id="55625548873007104" name="text_menu_label_skin" xml:space="preserve">
+        <segment>
+          <source>Skin</source>
+          <target>สกิน</target>
+        </segment>
+      </unit>
+      <unit id="55994273413398528" name="text_menu_button_set_skin_default" xml:space="preserve">
+        <segment>
+          <source>Set Default</source>
+          <target>ตั้งเป็นค่าเริ่มต้น</target>
+        </segment>
+      </unit>
+      <unit id="56082272897662976" name="text_menu_label_select_item_category" xml:space="preserve">
+        <segment>
+          <source>Choose Game Item Category</source>
+          <target>เลือกหมวดหมู่ไอเทมเกม</target>
+        </segment>
+      </unit>
+      <unit id="59684654227324928" name="text_menu_label_enable_server_cheats" xml:space="preserve">
+        <segment>
+          <source>CHEATS ENABLED:</source>
+          <target>เปิดใช้งานกลโกง:</target>
+        </segment>
+      </unit>
+      <unit id="61618430943625216" name="item_Medikit" xml:space="preserve">
+        <segment>
+          <source>Medikit</source>
+          <target>ชุดปฐมพยาบาล</target>
+        </segment>
+      </unit>
+      <unit id="61618462132469760" name="item_Medikit_info" xml:space="preserve">
+        <segment>
+          <source>The best health item in the game. Instantly restores full health.</source>
+          <target>ไอเท็มสุขภาพที่ดีที่สุดในเกม ฟื้นฟูสุขภาพเต็มรูปแบบทันที</target>
+        </segment>
+      </unit>
+      <unit id="61807379892862976" name="text_menu_label_news_1" xml:space="preserve">
+        <segment>
+          <source>Buy the dlc now</source>
+          <target>ซื้อตอนนี้เลย</target>
+        </segment>
+      </unit>
+      <unit id="61807487124439040" name="text_menu_text_news_1" xml:space="preserve">
+        <segment>
+          <source>Enhance your gaming experience with the one and only DLC ever released.</source>
+          <target>เพิ่มประสบการณ์การเล่นเกมของคุณด้วย DLC เดียวที่เคยมีการปล่อยออกมา</target>
+        </segment>
+      </unit>
+      <unit id="61807596868403200" name="text_menu_label_news_2" xml:space="preserve">
+        <segment>
+          <source>Road to Full Release</source>
+          <target>เส้นทางสู่การเปิดตัวแบบเต็มรูปแบบ</target>
+        </segment>
+      </unit>
+      <unit id="61807603692535808" name="text_menu_text_news_2" xml:space="preserve">
+        <segment>
+          <source>Discover our plans and what’s coming next.</source>
+          <target>ค้นพบแผนการของเราและสิ่งที่จะเกิดขึ้นต่อไป</target>
+        </segment>
+      </unit>
+      <unit id="61807732327645184" name="text_menu_label_news_3" xml:space="preserve">
+        <segment>
+          <source>Join our Community</source>
+          <target>เข้าร่วมชุมชนของเรา</target>
+        </segment>
+      </unit>
+      <unit id="61807743027314688" name="text_menu_text_news_3" xml:space="preserve">
+        <segment>
+          <source>Be part of our Discord community and stay connected!</source>
+          <target>เข้าร่วมชุมชน Discord ของเราและเชื่อมต่อกัน!</target>
+        </segment>
+      </unit>
+      <unit id="63793016627281920" name="info_message_45" xml:space="preserve">
+        <segment>
+          <source>was killed by</source>
+          <target>ถูกฆ่าโดย</target>
+        </segment>
+      </unit>
+      <unit id="65116157753098240" name="warning_currently_eating" xml:space="preserve">
+        <segment>
+          <source>Currently Eating...</source>
+          <target>กำลังกิน...</target>
+        </segment>
+      </unit>
+      <unit id="65428377854738432" name="warning_not_possible" xml:space="preserve">
+        <segment>
+          <source>Not Possible</source>
+          <target>เป็นไปไม่ได้</target>
+        </segment>
+      </unit>
+      <unit id="65431273396699136" name="text_help_rotate_building" xml:space="preserve">
+        <segment>
+          <source>Rotate</source>
+          <target>หมุน</target>
+        </segment>
+      </unit>
+      <unit id="65432021593423872" name="text_help_destroy" xml:space="preserve">
+        <segment>
+          <source>Destroy</source>
+          <target>ทำลาย</target>
+        </segment>
+      </unit>
+      <unit id="65432235209326592" name="text_help_paint" xml:space="preserve">
+        <segment>
+          <source>Paint</source>
+          <target>สี</target>
+        </segment>
+      </unit>
+      <unit id="65823185744101376" name="item_Xmas Tree" xml:space="preserve">
+        <segment>
+          <source>Xmas Tree</source>
+          <target>ต้นคริสต์มาส</target>
+        </segment>
+      </unit>
+      <unit id="65823220665876480" name="item_Xmas Tree_info" xml:space="preserve">
+        <segment>
+          <source>Festive Xmas tree with lights and ornaments for holiday cheer.</source>
+          <target>ต้นคริสต์มาสแบบเทศกาลที่มีไฟและเครื่องประดับเพื่อบรรยากาศแห่งความสุข</target>
+        </segment>
+      </unit>
+      <unit id="66843148546146304" name="text_menu_label_retreiving_inventory" xml:space="preserve">
+        <segment>
+          <source>RETRIEVING INVENTORY...</source>
+          <target>กำลังดึงข้อมูลคลัง Steam...</target>
+        </segment>
+      </unit>
+      <unit id="67396407023304704" name="text_menu_popup_msg19" xml:space="preserve">
+        <segment>
+          <source>Failed to connect to the server browser.</source>
+          <target>ล้มเหลวในการเชื่อมต่อกับเบราว์เซอร์เซิร์ฟเวอร์</target>
+        </segment>
+      </unit>
+      <unit id="68331088845668352" name="text_menu_label_crafting_menu" xml:space="preserve">
+        <segment>
+          <source>CRAFTING MENU</source>
+          <target>เมนูการประดิษฐ์</target>
+        </segment>
+      </unit>
+      <unit id="68358857914777600" name="text_menu_label_crafting_all_items" xml:space="preserve">
+        <segment>
+          <source>ALL ITEMS</source>
+          <target>สินค้าทั้งหมด</target>
+        </segment>
+      </unit>
+      <unit id="68358956778717184" name="text_menu_label_crafting_common_items" xml:space="preserve">
+        <segment>
+          <source>COMMON</source>
+          <target>รายการทั่วไป</target>
+        </segment>
+      </unit>
+      <unit id="68358998151331840" name="text_menu_label_crafting_tools_items" xml:space="preserve">
+        <segment>
+          <source>TOOLS</source>
+          <target>เครื่องมือ</target>
+        </segment>
+      </unit>
+      <unit id="68359042539651072" name="text_menu_label_crafting_weapons_items" xml:space="preserve">
+        <segment>
+          <source>Weapons</source>
+          <target>อาวุธ</target>
+        </segment>
+      </unit>
+      <unit id="68359105168998400" name="text_menu_label_crafting_clothing_items" xml:space="preserve">
+        <segment>
+          <source>CLOTHING</source>
+          <target>เสื้อผ้า</target>
+        </segment>
+      </unit>
+      <unit id="68359184663642112" name="text_menu_label_crafting_furniture_items" xml:space="preserve">
+        <segment>
+          <source>FURNITURE</source>
+          <target>เฟอร์นิเจอร์</target>
+        </segment>
+      </unit>
+      <unit id="68359268281286656" name="text_menu_label_crafting_electric_items" xml:space="preserve">
+        <segment>
+          <source>ELECTRIC</source>
+          <target>ไฟฟ้า</target>
+        </segment>
+      </unit>
+      <unit id="68359518240833536" name="text_menu_label_crafting_no_queue" xml:space="preserve">
+        <segment>
+          <source>NO QUEUE...</source>
+          <target>ไม่มีคิว...</target>
+        </segment>
+      </unit>
+      <unit id="68380528193241088" name="text_menu_label_item_name" xml:space="preserve">
+        <segment>
+          <source>Item Name...</source>
+          <target>ชื่อไอเท็ม...</target>
+        </segment>
+      </unit>
+      <unit id="68857948818046976" name="text_menu_message_server_restart" xml:space="preserve">
+        <segment>
+          <source>The server will restart in a moment. Please be prepared.</source>
+          <target>เซิร์ฟเวอร์จะรีสตาร์ทในอีกสักครู่ กรุณาเตรียมตัวให้พร้อม</target>
+        </segment>
+      </unit>
+      <unit id="68860284097462272" name="text_menu_message_server_stop" xml:space="preserve">
+        <segment>
+          <source>The server will stop in a moment. Please be prepared.</source>
+          <target>เซิร์ฟเวอร์จะหยุดทำงานในอีกสักครู่ โปรดเตรียมความพร้อม</target>
+        </segment>
+      </unit>
+      <unit id="79710381135822848" name="text_menu_button_buy_the_dlc" xml:space="preserve">
+        <segment>
+          <source>Buy DLC</source>
+          <target>ซื้อ DLC</target>
+        </segment>
+      </unit>
+      <unit id="81436672205717504" name="warning_hungry" xml:space="preserve">
+        <segment>
+          <source>Hungry</source>
+          <target>หิว</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

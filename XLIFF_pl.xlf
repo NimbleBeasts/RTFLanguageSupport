@@ -1,0 +1,3882 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="pl" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="bfbd30382b3710a409192e3869a552e0" original="Assets/Localization/UI_pl.asset">
+    <group id="0c76bbff638ab0c4d8f51c6185db31e5" name="UI">
+      <unit id="1660000006" name="text_menu_label_sell" xml:space="preserve">
+        <segment>
+          <source>SELL</source>
+          <target>SPRZEDAJ</target>
+        </segment>
+      </unit>
+      <unit id="1660000007" name="text_menu_label_buy" xml:space="preserve">
+        <segment>
+          <source>BUY</source>
+          <target>KUP</target>
+        </segment>
+      </unit>
+      <unit id="1660000040" name="text_help_press_to_collect_open_or_use" xml:space="preserve">
+        <segment>
+          <source>PRESS TO ACCESS, COLLECT, OR USE</source>
+          <target>Naciśnij, aby uzyskać dostęp, zebrać lub użyć</target>
+        </segment>
+      </unit>
+      <unit id="1660000041" name="text_help_press_to_open_inventory" xml:space="preserve">
+        <segment>
+          <source>PRESS TO OPEN INVENTORY</source>
+          <target>Naciśnij, aby otworzyć ekwipunek</target>
+        </segment>
+      </unit>
+      <unit id="1660000042" name="text_menu_42" xml:space="preserve">
+        <segment>
+          <source>Low</source>
+          <target>niski</target>
+        </segment>
+      </unit>
+      <unit id="1660000043" name="text_menu_label_players" xml:space="preserve">
+        <segment>
+          <source>PLAYERS:</source>
+          <target>Gracz:</target>
+        </segment>
+      </unit>
+      <unit id="1660000044" name="text_menu_button_join_selected_server" xml:space="preserve">
+        <segment>
+          <source>JOIN SELECTED SERVER</source>
+          <target>Dołącz</target>
+        </segment>
+      </unit>
+      <unit id="1660000045" name="text_help_turn_left_or_right" xml:space="preserve">
+        <segment>
+          <source>TURN LEFT OR RIGHT</source>
+          <target>Skręć w lewo lub w prawo</target>
+        </segment>
+      </unit>
+      <unit id="1660000046" name="text_menu_button_graphic_settings" xml:space="preserve">
+        <segment>
+          <source>GRAPHIC SETTINGS</source>
+          <target>Ustawienia graficzne</target>
+        </segment>
+      </unit>
+      <unit id="1660000047" name="text_menu_label_set_graphics_quality" xml:space="preserve">
+        <segment>
+          <source>SET GRAPHICS QUALITY:</source>
+          <target>Ustaw jakość grafiki:</target>
+        </segment>
+      </unit>
+      <unit id="1660000048" name="text_menu_label_connect_to_server" xml:space="preserve">
+        <segment>
+          <source>CONNECT TO SERVER</source>
+          <target>Połączenie z serwerem</target>
+        </segment>
+      </unit>
+      <unit id="1660000049" name="text_menu_label_show" xml:space="preserve">
+        <segment>
+          <source>SHOW:</source>
+          <target>POKAŻ:</target>
+        </segment>
+      </unit>
+      <unit id="1660000050" name="text_help_comfort_zone" xml:space="preserve">
+        <segment>
+          <source>COMFORT ZONE</source>
+          <target>Strefa komfortu</target>
+        </segment>
+      </unit>
+      <unit id="1660000051" name="text_menu_label_limit_fps" xml:space="preserve">
+        <segment>
+          <source>LIMIT FRAMES PER SECOND:</source>
+          <target>Ograniczenie liczby klatek na sekundę:</target>
+        </segment>
+      </unit>
+      <unit id="1660000052" name="text_menu_52" xml:space="preserve">
+        <segment>
+          <source>NEW GAME</source>
+          <target>Nowa gra</target>
+        </segment>
+      </unit>
+      <unit id="1660000053" name="text_help_near_workbench" xml:space="preserve">
+        <segment>
+          <source>Near a workbench, you can craft items. You can also upgrade the workbench using a hammer tool</source>
+          <target>Blisko warsztatu możesz wytwarzać przedmioty. Możesz także ulepszyć warsztat, używając narzędzia młotka.</target>
+        </segment>
+      </unit>
+      <unit id="1660000054" name="text_menu_label_ping" xml:space="preserve">
+        <segment>
+          <source>PING:</source>
+          <target>PING:</target>
+        </segment>
+      </unit>
+      <unit id="1660000055" name="text_menu_55" xml:space="preserve">
+        <segment>
+          <source>This server is password protected, please enter password!</source>
+          <target>Ten serwer jest chroniony hasłem. Proszę podać hasło!</target>
+        </segment>
+      </unit>
+      <unit id="1660000056" name="text_menu_label_item" xml:space="preserve">
+        <segment>
+          <source>ITEM</source>
+          <target>PRZEDMIOT</target>
+        </segment>
+      </unit>
+      <unit id="1660000057" name="text_menu_button_close" xml:space="preserve">
+        <segment>
+          <source>CLOSE</source>
+          <target>Zamknij</target>
+        </segment>
+      </unit>
+      <unit id="1660000058" name="text_help_click_or_double_click" xml:space="preserve">
+        <segment>
+          <source>CLICK OR DOUBLE CLICK</source>
+          <target>Kliknij lub kliknij dwukrotnie</target>
+        </segment>
+      </unit>
+      <unit id="1660000059" name="text_menu_button_invite_friends" xml:space="preserve">
+        <segment>
+          <source>INVITE FRIENDS</source>
+          <target>Zaproszenie przyjaciela</target>
+        </segment>
+      </unit>
+      <unit id="1660000060" name="text_help_unload_ammo" xml:space="preserve">
+        <segment>
+          <source>UNLOAD AMMO</source>
+          <target>rozładować</target>
+        </segment>
+      </unit>
+      <unit id="1660000061" name="text_menu_label_fuel" xml:space="preserve">
+        <segment>
+          <source>FUEL</source>
+          <target>Paliwo</target>
+        </segment>
+      </unit>
+      <unit id="1660000062" name="text_menu_label_set_resolution" xml:space="preserve">
+        <segment>
+          <source>SET RESOLUTION:</source>
+          <target>Ustaw rozdzielczość:</target>
+        </segment>
+      </unit>
+      <unit id="1660000063" name="text_help_move_climb" xml:space="preserve">
+        <segment>
+          <source>PRESS TO MOVE AND CLIMB LADDERS UP AND DOWN</source>
+          <target>Naciśnij, aby się przesunąć i wspinać się po drabinie w górę i w dół</target>
+        </segment>
+      </unit>
+      <unit id="1660000064" name="text_help_repair_building" xml:space="preserve">
+        <segment>
+          <source>PRESS TO REPAIR BUILDING</source>
+          <target>Naciśnij, aby naprawić budynek</target>
+        </segment>
+      </unit>
+      <unit id="1660000065" name="text_menu_label_set_sfx_volume" xml:space="preserve">
+        <segment>
+          <source>SET SFX VOLUME:</source>
+          <target>Ustaw głośność efektów dźwiękowych:</target>
+        </segment>
+      </unit>
+      <unit id="1660000066" name="text_menu_label_inventory" xml:space="preserve">
+        <segment>
+          <source>INVENTORY</source>
+          <target>Zapasy</target>
+        </segment>
+      </unit>
+      <unit id="1660000067" name="text_menu_button_refresh_serverlist" xml:space="preserve">
+        <segment>
+          <source>REFRESH SERVER LIST</source>
+          <target>Odśwież listę serwerów</target>
+        </segment>
+      </unit>
+      <unit id="1660000068" name="text_help_double_click_to_craft" xml:space="preserve">
+        <segment>
+          <source>DOUBLE CLICK TO CRAFT</source>
+          <target>KLIKNIJ DWUKROTNIE, ABY WYTWORZYĆ</target>
+        </segment>
+      </unit>
+      <unit id="1660000069" name="text_menu_placeholder_set_maximum_players" xml:space="preserve">
+        <segment>
+          <source>SET MAXIMUM PLAYERS...</source>
+          <target>Ustaw maksymalną liczbę graczy...</target>
+        </segment>
+      </unit>
+      <unit id="1660000070" name="text_menu_label_equipment" xml:space="preserve">
+        <segment>
+          <source>EQUIPMENT</source>
+          <target>Urządzenie</target>
+        </segment>
+      </unit>
+      <unit id="1660000071" name="text_menu_label_search" xml:space="preserve">
+        <segment>
+          <source>SEARCH:</source>
+          <target>Wyszukiwanie:</target>
+        </segment>
+      </unit>
+      <unit id="1660000072" name="text_help_close_inventory" xml:space="preserve">
+        <segment>
+          <source>CLOSE INVENTORY</source>
+          <target>Zamknij inwentarz</target>
+        </segment>
+      </unit>
+      <unit id="1660000073" name="text_help_navigation_no_bed" xml:space="preserve">
+        <segment>
+          <source>NAVIGATION UNAVAILABLE: YOU MUST DIE OR HAVE A BED FIRST</source>
+          <target>Nawigacja niedostępna: musisz umrzeć albo najpierw mieć łóżko</target>
+        </segment>
+      </unit>
+      <unit id="1660000074" name="text_menu_label_server_browser" xml:space="preserve">
+        <segment>
+          <source>SERVER BROWSER</source>
+          <target>Przeglądarka serwera</target>
+        </segment>
+      </unit>
+      <unit id="1660000075" name="text_menu_label_camera_shake" xml:space="preserve">
+        <segment>
+          <source>TOGGLE CAMERA SHAKE:</source>
+          <target>Przełącz wibracje kamery:</target>
+        </segment>
+      </unit>
+      <unit id="1660000077" name="text_menu_77" xml:space="preserve">
+        <segment>
+          <source>ENTER PASSWORD HERE...</source>
+          <target>WPISZ HASŁO TUTAJ...</target>
+        </segment>
+      </unit>
+      <unit id="1660000079" name="text_help_reload_weapon" xml:space="preserve">
+        <segment>
+          <source>PRESS TO RELOAD</source>
+          <target>Naciśnij, aby ponownie załadować</target>
+        </segment>
+      </unit>
+      <unit id="1660000080" name="text_menu_80" xml:space="preserve">
+        <segment>
+          <source>FIND GAME</source>
+          <target>ZNAJDŹ GRĘ</target>
+        </segment>
+      </unit>
+      <unit id="1660000081" name="text_menu_placeholder_enter_game_name" xml:space="preserve">
+        <segment>
+          <source>ENTER GAME NAME HERE...</source>
+          <target>Wpisz tutaj nazwę gry...</target>
+        </segment>
+      </unit>
+      <unit id="1660000082" name="text_menu_label_options" xml:space="preserve">
+        <segment>
+          <source>OPTIONS</source>
+          <target>Opcje</target>
+        </segment>
+      </unit>
+      <unit id="1660000083" name="text_menu_83" xml:space="preserve">
+        <segment>
+          <source>MENU</source>
+          <target>Menu</target>
+        </segment>
+      </unit>
+      <unit id="1660000084" name="text_help_select_or_drag_item" xml:space="preserve">
+        <segment>
+          <source>SELECT OR DRAG ITEM</source>
+          <target>Wybierz lub przeciągnij element</target>
+        </segment>
+      </unit>
+      <unit id="1660000087" name="text_menu_label_manage_clan_on_current_server" xml:space="preserve">
+        <segment>
+          <source>MANAGE CLAN ON CURRENT SERVER</source>
+          <target>Zarządzaj klanem na obecnym serwerze</target>
+        </segment>
+      </unit>
+      <unit id="1660000088" name="text_menu_label_enter_password" xml:space="preserve">
+        <segment>
+          <source>ENTER PASSWORD</source>
+          <target>Wprowadź hasło</target>
+        </segment>
+      </unit>
+      <unit id="1660000089" name="text_menu_label_ambient_volume" xml:space="preserve">
+        <segment>
+          <source>SET AMBIENT VOLUME:</source>
+          <target>Ustaw głośność otoczenia:</target>
+        </segment>
+      </unit>
+      <unit id="1660000090" name="text_help_scout_for_an_location" xml:space="preserve">
+        <segment>
+          <source>Find a spot packed with loot, with no animals or players around!</source>
+          <target>Znajdź miejsce pełne łupów, bez zwierząt i innych graczy w pobliżu</target>
+        </segment>
+      </unit>
+      <unit id="1660000091" name="text_menu_91" xml:space="preserve">
+        <segment>
+          <source>ITEM</source>
+          <target>Projekt</target>
+        </segment>
+      </unit>
+      <unit id="1660000092" name="text_help_field_is_frowing_wait" xml:space="preserve">
+        <segment>
+          <source>CROPS GROWING, WAIT TO HARVEST</source>
+          <target>Zboża rosną, czekając na zbiór</target>
+        </segment>
+      </unit>
+      <unit id="1660000093" name="text_help_split_items" xml:space="preserve">
+        <segment>
+          <source>SPLIT ITEMS</source>
+          <target>Podzielić</target>
+        </segment>
+      </unit>
+      <unit id="1660000095" name="text_menu_label_toggle_vsync" xml:space="preserve">
+        <segment>
+          <source>TOGGLE VSYNC:</source>
+          <target>Przełącz synchronizację pionową:</target>
+        </segment>
+      </unit>
+      <unit id="1660000096" name="text_menu_label_something_wrong" xml:space="preserve">
+        <segment>
+          <source>OOOPS SOMETHING WRONG</source>
+          <target>UPS, COŚ POSZŁO NIE TAK"</target>
+        </segment>
+      </unit>
+      <unit id="1660000097" name="text_menu_label_oven" xml:space="preserve">
+        <segment>
+          <source>OVEN</source>
+          <target>piekarnik</target>
+        </segment>
+      </unit>
+      <unit id="1660000098" name="text_menu_label_output" xml:space="preserve">
+        <segment>
+          <source>OUTPUT</source>
+          <target>wyjście</target>
+        </segment>
+      </unit>
+      <unit id="1660000100" name="text_menu_label_storage" xml:space="preserve">
+        <segment>
+          <source>STORAGE</source>
+          <target>przechowywanie</target>
+        </segment>
+      </unit>
+      <unit id="1660000101" name="text_help_start_your_journey_now" xml:space="preserve">
+        <segment>
+          <source>It’s not the strength of the body that counts, but the strength of the spirit.</source>
+          <target>Nie siła ciała jest ważna, lecz siła ducha.</target>
+        </segment>
+      </unit>
+      <unit id="1660000102" name="text_menu_label_input" xml:space="preserve">
+        <segment>
+          <source>INPUT</source>
+          <target>Wejście</target>
+        </segment>
+      </unit>
+      <unit id="1660000103" name="text_help_craft_axe" xml:space="preserve">
+        <segment>
+          <source>CRAFT AN AXE TO CHOP TREES.</source>
+          <target>Wykonaj siekierę do ścinania drzew.</target>
+        </segment>
+      </unit>
+      <unit id="1660000105" name="text_menu_label_master_volume" xml:space="preserve">
+        <segment>
+          <source>SET MASTER VOLUME:</source>
+          <target>Ustaw głośność główną:</target>
+        </segment>
+      </unit>
+      <unit id="1660000107" name="text_menu_label_all_servers" xml:space="preserve">
+        <segment>
+          <source>ALL SERVERS</source>
+          <target>Wszystkie serwery</target>
+        </segment>
+      </unit>
+      <unit id="1660000108" name="text_menu_label_campfire" xml:space="preserve">
+        <segment>
+          <source>CAMPFIRE</source>
+          <target>ognisko</target>
+        </segment>
+      </unit>
+      <unit id="1660000109" name="text_help_legend" xml:space="preserve">
+        <segment>
+          <source>WOOOWWWW. YOU ARE A LEGEND!</source>
+          <target>WOOOWWWW. JESTEŚ LEGENDĄ!</target>
+        </segment>
+      </unit>
+      <unit id="1660000110" name="text_menu_label_servername" xml:space="preserve">
+        <segment>
+          <source>SERVERNAME:</source>
+          <target>NAZWA SERWERA:</target>
+        </segment>
+      </unit>
+      <unit id="1660000113" name="text_help_fast_select" xml:space="preserve">
+        <segment>
+          <source>Press to select a tool and then use it to cut down a tree or mine ore</source>
+          <target>Naciśnij, aby wybrać narzędzie, a następnie użyj go do ścinania drzewa lub wydobywania rudy</target>
+        </segment>
+      </unit>
+      <unit id="1660000114" name="text_menu_label_set_game" xml:space="preserve">
+        <segment>
+          <source>SET GAME NAME:</source>
+          <target>Ustaw nazwę gry:</target>
+        </segment>
+      </unit>
+      <unit id="1660000115" name="text_menu_115" xml:space="preserve">
+        <segment>
+          <source>OFF</source>
+          <target>WYŁ.</target>
+        </segment>
+      </unit>
+      <unit id="1660000116" name="text_help_skip_tutorial" xml:space="preserve">
+        <segment>
+          <source>PRESS TO DISABLE TOOLTIPS</source>
+          <target>Naciśnij, aby wyłączyć podpowiedzi</target>
+        </segment>
+      </unit>
+      <unit id="1660000117" name="text_help_double_click_drop" xml:space="preserve">
+        <segment>
+          <source>DOUBLE CLICK, DROP ITEM</source>
+          <target>Kliknij dwukrotnie, aby upuścić przedmiot</target>
+        </segment>
+      </unit>
+      <unit id="1660000118" name="text_help_press_to_open_build_menu" xml:space="preserve">
+        <segment>
+          <source>PRESS TO OPEN BUILD MENU</source>
+          <target>Naciśnij, aby otworzyć menu budowy</target>
+        </segment>
+      </unit>
+      <unit id="1660000120" name="text_help_toggle_flashlight" xml:space="preserve">
+        <segment>
+          <source>PRESS TO ACTIVATE FLASHLIGHT</source>
+          <target>Naciśnij, aby aktywować latarkę</target>
+        </segment>
+      </unit>
+      <unit id="1660000121" name="text_menu_label_enable_password" xml:space="preserve">
+        <segment>
+          <source>ENABLE PASSWORD:</source>
+          <target>Włącz hasło:</target>
+        </segment>
+      </unit>
+      <unit id="1660000122" name="text_menu_label_construction" xml:space="preserve">
+        <segment>
+          <source>Construction Menu</source>
+          <target>Menu budowlane</target>
+        </segment>
+      </unit>
+      <unit id="1660000123" name="text_menu_label_items_in_storage" xml:space="preserve">
+        <segment>
+          <source>ITEMS IN STORAGE: {0}</source>
+          <target>Przedmioty w magazynie: {0}</target>
+        </segment>
+      </unit>
+      <unit id="1660000124" name="text_menu_label_enter_server_name_here" xml:space="preserve">
+        <segment>
+          <source>ENTER SERVER NAME HERE...</source>
+          <target>Wpisz tutaj nazwę serwera...</target>
+        </segment>
+      </unit>
+      <unit id="1660000125" name="text_menu_label_load_game" xml:space="preserve">
+        <segment>
+          <source>LOAD GAME</source>
+          <target>Ładowanie gry</target>
+        </segment>
+      </unit>
+      <unit id="1660000126" name="text_menu_label_pw" xml:space="preserve">
+        <segment>
+          <source>PW:</source>
+          <target>HŁ:</target>
+        </segment>
+      </unit>
+      <unit id="1660000127" name="text_help_press_to_use" xml:space="preserve">
+        <segment>
+          <source>PRESS TO USE</source>
+          <target>Naciśnij, aby użyć</target>
+        </segment>
+      </unit>
+      <unit id="1660000128" name="text_menu_label_toggle_fullscreen" xml:space="preserve">
+        <segment>
+          <source>TOGGLE FULLSCREEN:</source>
+          <target>Przełącz na pełny ekran</target>
+        </segment>
+      </unit>
+      <unit id="1660000129" name="text_menu_label_toggle_tutorial" xml:space="preserve">
+        <segment>
+          <source>TOGGLE TUTORIAL AND TOOLTIPS:</source>
+          <target>Przełączanie samouczków i wskazówek narzędziowych:</target>
+        </segment>
+      </unit>
+      <unit id="1660000131" name="text_menu_button_members" xml:space="preserve">
+        <segment>
+          <source>MEMBERS</source>
+          <target>CZŁONKOWIE</target>
+        </segment>
+      </unit>
+      <unit id="1660000132" name="text_help_press_to_harvest" xml:space="preserve">
+        <segment>
+          <source>TAP TO HARVEST</source>
+          <target>Kliknij, aby zebrać</target>
+        </segment>
+      </unit>
+      <unit id="1660000133" name="text_menu_label_steamp2p" xml:space="preserve">
+        <segment>
+          <source>STEAM P2P:</source>
+          <target>STEAM P2P:</target>
+        </segment>
+      </unit>
+      <unit id="1660000134" name="text_menu_label_manage_clan" xml:space="preserve">
+        <segment>
+          <source>MANAGE CLAN</source>
+          <target>Zarządzanie plemieniem</target>
+        </segment>
+      </unit>
+      <unit id="1660000135" name="text_help_close_build_menu" xml:space="preserve">
+        <segment>
+          <source>CLOSE BUILD MENU</source>
+          <target>ZAMKNIJ MENU BUDOWANIA</target>
+        </segment>
+      </unit>
+      <unit id="1660000136" name="text_help_upgrade_item" xml:space="preserve">
+        <segment>
+          <source>PRESS TO UPGRADE BUILDING OR ITEM</source>
+          <target>Naciśnij, aby ulepszyć budynek lub przedmiot</target>
+        </segment>
+      </unit>
+      <unit id="1660000137" name="text_help_press_to_respawn" xml:space="preserve">
+        <segment>
+          <source>PRESS TO RESPAWN</source>
+          <target>Naciśnij, aby odrodzić się</target>
+        </segment>
+      </unit>
+      <unit id="1660000138" name="text_menu_label_music_volume" xml:space="preserve">
+        <segment>
+          <source>SET MUSIC VOLUME:</source>
+          <target>Ustaw głośność muzyki:</target>
+        </segment>
+      </unit>
+      <unit id="1660000139" name="text_menu_139" xml:space="preserve">
+        <segment>
+          <source>Discussions</source>
+          <target>Dyskusje</target>
+        </segment>
+      </unit>
+      <unit id="1660000140" name="text_menu_label_toggle_lights" xml:space="preserve">
+        <segment>
+          <source>TOGGLE 2D LIGHTS:</source>
+          <target>Przełącz na światło 2D:</target>
+        </segment>
+      </unit>
+      <unit id="1660000141" name="text_help_press_to_jump" xml:space="preserve">
+        <segment>
+          <source>Press to Jump Over Obstacles or Destroy Them with a Tool</source>
+          <target>Naciśnij, aby przeskoczyć przez przeszkody lub zniszczyć je za pomocą narzędzia</target>
+        </segment>
+      </unit>
+      <unit id="1660000143" name="text_menu_143" xml:space="preserve">
+        <segment>
+          <source>HEY THERE!</source>
+          <target>CZEŚĆ!</target>
+        </segment>
+      </unit>
+      <unit id="1660000144" name="text_menu_label_paint_selection" xml:space="preserve">
+        <segment>
+          <source>PAINT SELECTION</source>
+          <target>Wybór farby</target>
+        </segment>
+      </unit>
+      <unit id="1660000145" name="text_menu_help_enter_boat" xml:space="preserve">
+        <segment>
+          <source>PRESS TO ENTER BOAT</source>
+          <target>Naciśnij, aby wejść na pokład</target>
+        </segment>
+      </unit>
+      <unit id="1660000147" name="text_menu_label_address" xml:space="preserve">
+        <segment>
+          <source>ADDRESS:</source>
+          <target>Adres:</target>
+        </segment>
+      </unit>
+      <unit id="1660000148" name="text_menu_label_cost" xml:space="preserve">
+        <segment>
+          <source>COST</source>
+          <target>koszt</target>
+        </segment>
+      </unit>
+      <unit id="1660000149" name="text_menu_label_custom_skins" xml:space="preserve">
+        <segment>
+          <source>CUSTOM SKINS</source>
+          <target>Niestandardowa skórka</target>
+        </segment>
+      </unit>
+      <unit id="1660000150" name="text_help_drop_item" xml:space="preserve">
+        <segment>
+          <source>PRESS TO DROP ITEM</source>
+          <target>Naciśnij, aby wyrzucić przedmiot</target>
+        </segment>
+      </unit>
+      <unit id="1660000152" name="text_help_quick_swap" xml:space="preserve">
+        <segment>
+          <source>QUICK SWAP</source>
+          <target>Szybka wymiana</target>
+        </segment>
+      </unit>
+      <unit id="1660000153" name="text_help_tap_to_land_drone" xml:space="preserve">
+        <segment>
+          <source>PRESS TO LAND</source>
+          <target>Naciśnij lądowanie</target>
+        </segment>
+      </unit>
+      <unit id="1660000154" name="text_menu_label_toggle_show_ping" xml:space="preserve">
+        <segment>
+          <source>TOGGLE SHOW PING:</source>
+          <target>Przełącz opóźnienie wyświetlania:</target>
+        </segment>
+      </unit>
+      <unit id="1660000155" name="text_menu_label_smelter" xml:space="preserve">
+        <segment>
+          <source>SMELTER</source>
+          <target>huta</target>
+        </segment>
+      </unit>
+      <unit id="1660000157" name="text_menu_label_start_game" xml:space="preserve">
+        <segment>
+          <source>START GAME</source>
+          <target>Rozpocznij grę</target>
+        </segment>
+      </unit>
+      <unit id="1660000158" name="text_help_place_foundation" xml:space="preserve">
+        <segment>
+          <source>TRY TO PLACE A FOUNDATION FOR YOUR FORTRESS.</source>
+          <target>SPRÓBUJ POŁOŻYĆ FUNDAMENTY POD SWOJĄ TWIERDZĘ.</target>
+        </segment>
+      </unit>
+      <unit id="1660000159" name="text_menu_label_set_maximum_player" xml:space="preserve">
+        <segment>
+          <source>SET MAXIMUM PLAYERS:</source>
+          <target>Ustaw limit graczy:</target>
+        </segment>
+      </unit>
+      <unit id="1660000160" name="text_menu_button_controls" xml:space="preserve">
+        <segment>
+          <source>CONTROLS</source>
+          <target>kontrola</target>
+        </segment>
+      </unit>
+      <unit id="1660000161" name="text_menu_button_general_settings" xml:space="preserve">
+        <segment>
+          <source>GENERAL SETTINGS</source>
+          <target>Ustawienia ogólne</target>
+        </segment>
+      </unit>
+      <unit id="1660000162" name="text_menu_button_invitations" xml:space="preserve">
+        <segment>
+          <source>INVITATIONS</source>
+          <target>ZAPROSZENIA</target>
+        </segment>
+      </unit>
+      <unit id="1660000163" name="text_menu_label_building" xml:space="preserve">
+        <segment>
+          <source>BUILDING:</source>
+          <target>BUDYNEK:</target>
+        </segment>
+      </unit>
+      <unit id="1660000165" name="text_menu_label_toggle_display_fps" xml:space="preserve">
+        <segment>
+          <source>SHOW FRAMES PER SECONDS:</source>
+          <target>POKAŻ KLATKI NA SEKUNDĘ:</target>
+        </segment>
+      </unit>
+      <unit id="1660000166" name="text_menu_166" xml:space="preserve">
+        <segment>
+          <source>SERVER: Current server player count: 1</source>
+          <target>Serwer: Obecna liczba graczy na serwerze: 1</target>
+        </segment>
+      </unit>
+      <unit id="1660000167" name="text_menu_button_apply_settings" xml:space="preserve">
+        <segment>
+          <source>APPLY SETTINGS</source>
+          <target>ZASTOSUJ USTAWIENIA</target>
+        </segment>
+      </unit>
+      <unit id="1660000168" name="text_help_open_or_close" xml:space="preserve">
+        <segment>
+          <source>OPEN OR CLOSE</source>
+          <target>OTWÓRZ LUB ZAMKNIJ</target>
+        </segment>
+      </unit>
+      <unit id="1660000169" name="text_menu_button_disconnect" xml:space="preserve">
+        <segment>
+          <source>LEAVE SERVER</source>
+          <target>OPUŚĆ SERWER</target>
+        </segment>
+      </unit>
+      <unit id="1660000170" name="" xml:space="preserve">
+        <segment>
+          <source>NIMBLEBEASTS 2024 - VERSION</source>
+        </segment>
+      </unit>
+      <unit id="1660000171" name="text_menu_button_reset_to_defaults" xml:space="preserve">
+        <segment>
+          <source>RESET TO DEFAULTS</source>
+          <target>PRZYWRÓĆ DOMYŚLNE</target>
+        </segment>
+      </unit>
+      <unit id="1660000172" name="text_menu_label_vendingmachine" xml:space="preserve">
+        <segment>
+          <source>Vending Machine</source>
+          <target>Automat</target>
+        </segment>
+      </unit>
+      <unit id="163828340000001" name="item_Wood" xml:space="preserve">
+        <segment>
+          <source>Wood</source>
+          <target>Drewno</target>
+        </segment>
+      </unit>
+      <unit id="163828340000002" name="item_Stone" xml:space="preserve">
+        <segment>
+          <source>Stone</source>
+          <target>Kamień</target>
+        </segment>
+      </unit>
+      <unit id="163828340000003" name="item_Axe" xml:space="preserve">
+        <segment>
+          <source>Axe</source>
+          <target>Siekiera</target>
+        </segment>
+      </unit>
+      <unit id="163828340000004" name="item_Bow" xml:space="preserve">
+        <segment>
+          <source>Bow</source>
+          <target>Łuk</target>
+        </segment>
+      </unit>
+      <unit id="163828340000005" name="item_Arrow" xml:space="preserve">
+        <segment>
+          <source>Arrow</source>
+          <target>Strzała</target>
+        </segment>
+      </unit>
+      <unit id="163828340000006" name="item_Campfire" xml:space="preserve">
+        <segment>
+          <source>Campfire</source>
+          <target>Ognisko</target>
+        </segment>
+      </unit>
+      <unit id="163828340000007" name="item_Bed" xml:space="preserve">
+        <segment>
+          <source>Bed</source>
+          <target>Łóżko</target>
+        </segment>
+      </unit>
+      <unit id="163828340000008" name="item_Pick Axe" xml:space="preserve">
+        <segment>
+          <source>Pick Axe</source>
+          <target>Kilof</target>
+        </segment>
+      </unit>
+      <unit id="163828340000009" name="item_Coal" xml:space="preserve">
+        <segment>
+          <source>Coal</source>
+          <target>Węgiel</target>
+        </segment>
+      </unit>
+      <unit id="163828340000010" name="item_Metal Fragments" xml:space="preserve">
+        <segment>
+          <source>Metal Fragments</source>
+          <target>Fragmenty metalu</target>
+        </segment>
+      </unit>
+      <unit id="163828340000011" name="item_Raw Meat" xml:space="preserve">
+        <segment>
+          <source>Raw Meat</source>
+          <target>Surowe mięso</target>
+        </segment>
+      </unit>
+      <unit id="163828340000012" name="item_Pistol" xml:space="preserve">
+        <segment>
+          <source>Pistol</source>
+          <target>Pistolet</target>
+        </segment>
+      </unit>
+      <unit id="163828340000013" name="item_Grenade" xml:space="preserve">
+        <segment>
+          <source>Grenade</source>
+          <target>Granat</target>
+        </segment>
+      </unit>
+      <unit id="163828340000014" name="item_Bear Rug" xml:space="preserve">
+        <segment>
+          <source>Bear Rug</source>
+          <target>Dywan z niedźwiedzia</target>
+        </segment>
+      </unit>
+      <unit id="163828340000015" name="item_Deer Skull" xml:space="preserve">
+        <segment>
+          <source>Deer Skull</source>
+          <target>Czaszka jelenia</target>
+        </segment>
+      </unit>
+      <unit id="163828340000016" name="item_Wall Rug" xml:space="preserve">
+        <segment>
+          <source>Wall Rug</source>
+          <target>Dywan ścienny</target>
+        </segment>
+      </unit>
+      <unit id="163828340000017" name="item_Pistol Bullet" xml:space="preserve">
+        <segment>
+          <source>Pistol Bullet</source>
+          <target>Nabój pistoletowy</target>
+        </segment>
+      </unit>
+      <unit id="163828340000018" name="item_Hammer" xml:space="preserve">
+        <segment>
+          <source>Hammer</source>
+          <target>Młotek</target>
+        </segment>
+      </unit>
+      <unit id="163828340000019" name="item_Large Wood Box" xml:space="preserve">
+        <segment>
+          <source>Large Wood Box</source>
+          <target>Duże drewniane pudło</target>
+        </segment>
+      </unit>
+      <unit id="163828340000020" name="item_Vending Machine" xml:space="preserve">
+        <segment>
+          <source>Vending Machine</source>
+          <target>Automat</target>
+        </segment>
+      </unit>
+      <unit id="163828340000021" name="item_Satoshi" xml:space="preserve">
+        <segment>
+          <source>Satoshi</source>
+          <target>Satoshi</target>
+        </segment>
+      </unit>
+      <unit id="163828340000022" name="item_Backpack" xml:space="preserve">
+        <segment>
+          <source>Backpack</source>
+          <target>Plecak</target>
+        </segment>
+      </unit>
+      <unit id="163828340000023" name="item_Iron" xml:space="preserve">
+        <segment>
+          <source>Iron</source>
+          <target>Żelazo</target>
+        </segment>
+      </unit>
+      <unit id="163828340000024" name="item_Grilled Meat" xml:space="preserve">
+        <segment>
+          <source>Grilled Meat</source>
+          <target>Grillowane mięso</target>
+        </segment>
+      </unit>
+      <unit id="163828340000025" name="item_Workbench 1" xml:space="preserve">
+        <segment>
+          <source>Workbench 1</source>
+          <target>Stół warsztatowy 1</target>
+        </segment>
+      </unit>
+      <unit id="163828340000026" name="item_Workbench 2" xml:space="preserve">
+        <segment>
+          <source>Workbench 2</source>
+          <target>Stół warsztatowy 2</target>
+        </segment>
+      </unit>
+      <unit id="163828340000027" name="item_Workbench 3" xml:space="preserve">
+        <segment>
+          <source>Workbench 3</source>
+          <target>Stół warsztatowy 3</target>
+        </segment>
+      </unit>
+      <unit id="163828340000028" name="item_Sulfur" xml:space="preserve">
+        <segment>
+          <source>Sulfur</source>
+          <target>Siarka</target>
+        </segment>
+      </unit>
+      <unit id="163828340000029" name="item_Sulfur Powder" xml:space="preserve">
+        <segment>
+          <source>Sulfur Powder</source>
+          <target>Siarka w proszku</target>
+        </segment>
+      </unit>
+      <unit id="163828340000030" name="item_Hoe" xml:space="preserve">
+        <segment>
+          <source>Hoe</source>
+          <target>Motyka</target>
+        </segment>
+      </unit>
+      <unit id="163828340000031" name="item_Flax" xml:space="preserve">
+        <segment>
+          <source>Flax</source>
+          <target>Len</target>
+        </segment>
+      </unit>
+      <unit id="163828340000032" name="item_Wheat" xml:space="preserve">
+        <segment>
+          <source>Wheat</source>
+          <target>Pszenica</target>
+        </segment>
+      </unit>
+      <unit id="163828340000033" name="item_Carrot" xml:space="preserve">
+        <segment>
+          <source>Carrot</source>
+          <target>Marchewka</target>
+        </segment>
+      </unit>
+      <unit id="163828340000034" name="item_Potato" xml:space="preserve">
+        <segment>
+          <source>Potato</source>
+          <target>Ziemniak</target>
+        </segment>
+      </unit>
+      <unit id="163828340000035" name="item_Flax Seed" xml:space="preserve">
+        <segment>
+          <source>Flax Seed</source>
+          <target>Nasiona lnu</target>
+        </segment>
+      </unit>
+      <unit id="163828340000036" name="item_Wheat Seed" xml:space="preserve">
+        <segment>
+          <source>Wheat Seed</source>
+          <target>Nasiona pszenicy</target>
+        </segment>
+      </unit>
+      <unit id="163828340000037" name="item_Carrot Seed" xml:space="preserve">
+        <segment>
+          <source>Carrot Seed</source>
+          <target>Nasiona marchwi</target>
+        </segment>
+      </unit>
+      <unit id="163828340000038" name="item_Potato Seed" xml:space="preserve">
+        <segment>
+          <source>Potato Seed</source>
+          <target>Nasiona ziemniaka</target>
+        </segment>
+      </unit>
+      <unit id="163828340000039" name="item_Linen" xml:space="preserve">
+        <segment>
+          <source>Linen</source>
+          <target>Lniana tkanina</target>
+        </segment>
+      </unit>
+      <unit id="163828340000040" name="item_Leather" xml:space="preserve">
+        <segment>
+          <source>Leather</source>
+          <target>Skóra</target>
+        </segment>
+      </unit>
+      <unit id="163828340000041" name="item_Bread" xml:space="preserve">
+        <segment>
+          <source>Bread</source>
+          <target>Chleb</target>
+        </segment>
+      </unit>
+      <unit id="163828340000042" name="item_Baked Potato" xml:space="preserve">
+        <segment>
+          <source>Baked Potato</source>
+          <target>Pieczony ziemniak</target>
+        </segment>
+      </unit>
+      <unit id="163828340000043" name="item_Fish" xml:space="preserve">
+        <segment>
+          <source>Fish</source>
+          <target>Ryba</target>
+        </segment>
+      </unit>
+      <unit id="163828340000044" name="item_Fish Dish" xml:space="preserve">
+        <segment>
+          <source>Fish Dish</source>
+          <target>Danie rybne</target>
+        </segment>
+      </unit>
+      <unit id="163828340000045" name="item_Ham Sandwich" xml:space="preserve">
+        <segment>
+          <source>Ham Sandwich</source>
+          <target>Kanapka z szynką</target>
+        </segment>
+      </unit>
+      <unit id="163828340000046" name="item_Stew" xml:space="preserve">
+        <segment>
+          <source>Stew</source>
+          <target>Gulasz</target>
+        </segment>
+      </unit>
+      <unit id="163828340000047" name="item_Carrot Soup" xml:space="preserve">
+        <segment>
+          <source>Carrot Soup</source>
+          <target>Zupa marchewkowa</target>
+        </segment>
+      </unit>
+      <unit id="163828340000048" name="item_Oven" xml:space="preserve">
+        <segment>
+          <source>Oven</source>
+          <target>Piekarnik</target>
+        </segment>
+      </unit>
+      <unit id="163828340000049" name="item_Smelter" xml:space="preserve">
+        <segment>
+          <source>Smelter</source>
+          <target>Huta</target>
+        </segment>
+      </unit>
+      <unit id="163828340000050" name="item_C4" xml:space="preserve">
+        <segment>
+          <source>C4</source>
+          <target>C4</target>
+        </segment>
+      </unit>
+      <unit id="163828340000051" name="item_Bush Shirt" xml:space="preserve">
+        <segment>
+          <source>Bush Shirt</source>
+          <target>Koszula z krzewu</target>
+        </segment>
+      </unit>
+      <unit id="163828340000052" name="item_Bush Pants" xml:space="preserve">
+        <segment>
+          <source>Bush Pants</source>
+          <target>Spodnie z krzewu</target>
+        </segment>
+      </unit>
+      <unit id="163828340000053" name="item_Leather Pants" xml:space="preserve">
+        <segment>
+          <source>Leather Pants</source>
+          <target>Skórzane spodnie</target>
+        </segment>
+      </unit>
+      <unit id="163828340000054" name="item_Leather Shoes" xml:space="preserve">
+        <segment>
+          <source>Leather Shoes</source>
+          <target>Skórzane buty</target>
+        </segment>
+      </unit>
+      <unit id="163828340000055" name="item_Military Shoes" xml:space="preserve">
+        <segment>
+          <source>Military Shoes</source>
+          <target>Buty wojskowe</target>
+        </segment>
+      </unit>
+      <unit id="163828340000056" name="item_Leather Shirt" xml:space="preserve">
+        <segment>
+          <source>Leather Shirt</source>
+          <target>Skórzana koszula</target>
+        </segment>
+      </unit>
+      <unit id="163828340000057" name="item_Torch Light" xml:space="preserve">
+        <segment>
+          <source>Torch Light</source>
+          <target>Latarka</target>
+        </segment>
+      </unit>
+      <unit id="163828340000058" name="item_Wooden Cover" xml:space="preserve">
+        <segment>
+          <source>Wooden Cover</source>
+          <target>Drewniana osłona</target>
+        </segment>
+      </unit>
+      <unit id="163828340000059" name="item_Red Keycard" xml:space="preserve">
+        <segment>
+          <source>Red Keycard</source>
+          <target>Czerwona karta dostępu</target>
+        </segment>
+      </unit>
+      <unit id="163828340000060" name="item_Blue Keycard" xml:space="preserve">
+        <segment>
+          <source>Blue Keycard</source>
+          <target>Niebieska karta dostępu</target>
+        </segment>
+      </unit>
+      <unit id="163828340000061" name="item_Green Keycard" xml:space="preserve">
+        <segment>
+          <source>Green Keycard</source>
+          <target>Zielona karta dostępu</target>
+        </segment>
+      </unit>
+      <unit id="163828340000062" name="item_Ak47" xml:space="preserve">
+        <segment>
+          <source>Ak47</source>
+          <target>Ak47</target>
+        </segment>
+      </unit>
+      <unit id="163828340000063" name="item_Uzi" xml:space="preserve">
+        <segment>
+          <source>Uzi</source>
+          <target>Uzi</target>
+        </segment>
+      </unit>
+      <unit id="163828340000064" name="item_Shotgun" xml:space="preserve">
+        <segment>
+          <source>Shotgun</source>
+          <target>Strzelba</target>
+        </segment>
+      </unit>
+      <unit id="163828340000065" name="item_Rifle Bullet" xml:space="preserve">
+        <segment>
+          <source>Rifle Bullet</source>
+          <target>Amunicja karabinowa</target>
+        </segment>
+      </unit>
+      <unit id="163828340000066" name="item_Shotgun Bullet" xml:space="preserve">
+        <segment>
+          <source>Shotgun Bullet</source>
+          <target>Amunicja do strzelby</target>
+        </segment>
+      </unit>
+      <unit id="163828340000067" name="item_Ak47 Body" xml:space="preserve">
+        <segment>
+          <source>Ak47 Body</source>
+          <target>Korpus Ak47</target>
+        </segment>
+      </unit>
+      <unit id="163828340000068" name="item_Uzi Body" xml:space="preserve">
+        <segment>
+          <source>Uzi Body</source>
+          <target>Korpus Uzi</target>
+        </segment>
+      </unit>
+      <unit id="163828340000069" name="item_Shotgun Body" xml:space="preserve">
+        <segment>
+          <source>Shotgun Body</source>
+          <target>Korpus strzelby</target>
+        </segment>
+      </unit>
+      <unit id="163828340000070" name="item_Pistol Body" xml:space="preserve">
+        <segment>
+          <source>Pistol Body</source>
+          <target>Korpus pistoletu</target>
+        </segment>
+      </unit>
+      <unit id="163828340000071" name="item_Gun Powder" xml:space="preserve">
+        <segment>
+          <source>Gun Powder</source>
+          <target>Proch strzelniczy</target>
+        </segment>
+      </unit>
+      <unit id="163828340000072" name="item_Lantern" xml:space="preserve">
+        <segment>
+          <source>Lantern</source>
+          <target>Latarnia</target>
+        </segment>
+      </unit>
+      <unit id="163828340000073" name="item_Beanie" xml:space="preserve">
+        <segment>
+          <source>Beanie</source>
+          <target>Czapka</target>
+        </segment>
+      </unit>
+      <unit id="163828340000074" name="item_Emerald Beanie" xml:space="preserve">
+        <segment>
+          <source>Emerald Beanie</source>
+          <target>Szmaragdowa czapka</target>
+        </segment>
+      </unit>
+      <unit id="163828340000075" name="item_Charcoal Beanie" xml:space="preserve">
+        <segment>
+          <source>Charcoal Beanie</source>
+          <target>Węglowa czapka</target>
+        </segment>
+      </unit>
+      <unit id="163828340000076" name="item_Beret" xml:space="preserve">
+        <segment>
+          <source>Beret</source>
+          <target>beret</target>
+        </segment>
+      </unit>
+      <unit id="163828340000077" name="item_Olive Beret" xml:space="preserve">
+        <segment>
+          <source>Olive Beret</source>
+          <target>Oliwkowy beret</target>
+        </segment>
+      </unit>
+      <unit id="163828340000078" name="item_Base Cap" xml:space="preserve">
+        <segment>
+          <source>Base Cap</source>
+          <target>Czapka z daszkiem</target>
+        </segment>
+      </unit>
+      <unit id="163828340000079" name="item_Obsidian Cap" xml:space="preserve">
+        <segment>
+          <source>Obsidian Cap</source>
+          <target>Obsydianowa czapka</target>
+        </segment>
+      </unit>
+      <unit id="163828340000080" name="item_Hat" xml:space="preserve">
+        <segment>
+          <source>Hat</source>
+          <target>Kapelusz</target>
+        </segment>
+      </unit>
+      <unit id="163828340000081" name="item_Vintage Hat" xml:space="preserve">
+        <segment>
+          <source>Vintage Hat</source>
+          <target>Staromodny kapelusz</target>
+        </segment>
+      </unit>
+      <unit id="163828340000082" name="item_Military Pants" xml:space="preserve">
+        <segment>
+          <source>Military Pants</source>
+          <target>Spodnie wojskowe</target>
+        </segment>
+      </unit>
+      <unit id="163828340000083" name="item_Military Gloves" xml:space="preserve">
+        <segment>
+          <source>Military Gloves</source>
+          <target>Rękawice wojskowe</target>
+        </segment>
+      </unit>
+      <unit id="163828340000084" name="item_Military Helmet" xml:space="preserve">
+        <segment>
+          <source>Military Helmet</source>
+          <target>Hełm wojskowy</target>
+        </segment>
+      </unit>
+      <unit id="163828340000085" name="item_Military Shirt" xml:space="preserve">
+        <segment>
+          <source>Military Shirt</source>
+          <target>Koszula wojskowa</target>
+        </segment>
+      </unit>
+      <unit id="163828340000086" name="item_Camouflage Pants" xml:space="preserve">
+        <segment>
+          <source>Camouflage Pants</source>
+          <target>Spodnie kamuflażowe</target>
+        </segment>
+      </unit>
+      <unit id="163828340000087" name="item_Camouflage Shirt" xml:space="preserve">
+        <segment>
+          <source>Camouflage Shirt</source>
+          <target>Koszula kamuflażowa</target>
+        </segment>
+      </unit>
+      <unit id="163828340000088" name="item_Scavenger Vest" xml:space="preserve">
+        <segment>
+          <source>Scavenger Vest</source>
+          <target>Kamizelka zbieracza</target>
+        </segment>
+      </unit>
+      <unit id="163828340000089" name="item_Rusty Combat Vest" xml:space="preserve">
+        <segment>
+          <source>Rusty Combat Vest</source>
+          <target>Zardzewiała kamizelka bojowa</target>
+        </segment>
+      </unit>
+      <unit id="163828340000090" name="item_Urban Guerrilla Vest" xml:space="preserve">
+        <segment>
+          <source>Urban Guerrilla Vest</source>
+          <target>Kamizelka miejskiej partyzantki</target>
+        </segment>
+      </unit>
+      <unit id="163828340000091" name="item_Durable Jeans" xml:space="preserve">
+        <segment>
+          <source>Durable Jeans</source>
+          <target>Wytrzymałe dżinsy</target>
+        </segment>
+      </unit>
+      <unit id="163828340000092" name="item_Rugged Shirt" xml:space="preserve">
+        <segment>
+          <source>Rugged Shirt</source>
+          <target>Wytrzymała koszula</target>
+        </segment>
+      </unit>
+      <unit id="163828340000093" name="item_Tactical Gloves" xml:space="preserve">
+        <segment>
+          <source>Tactical Gloves</source>
+          <target>Rękawice taktyczne</target>
+        </segment>
+      </unit>
+      <unit id="163828340000094" name="item_Leather Gloves" xml:space="preserve">
+        <segment>
+          <source>Leather Gloves</source>
+          <target>Skórzane rękawiczki</target>
+        </segment>
+      </unit>
+      <unit id="163828340000095" name="item_Nuke Blueprint" xml:space="preserve">
+        <segment>
+          <source>Nuke Blueprint</source>
+          <target>Plany ładunku jądrowego</target>
+        </segment>
+      </unit>
+      <unit id="163828340000096" name="item_Nuke Frame" xml:space="preserve">
+        <segment>
+          <source>Nuke Frame</source>
+          <target>Rama ładunku jądrowego</target>
+        </segment>
+      </unit>
+      <unit id="163828340000097" name="item_Nuke Case" xml:space="preserve">
+        <segment>
+          <source>Nuke Case</source>
+          <target>Obudowa ładunku jądrowego</target>
+        </segment>
+      </unit>
+      <unit id="163828340000098" name="item_Nuke Reflector" xml:space="preserve">
+        <segment>
+          <source>Nuke Reflector</source>
+          <target>Reflektor jądrowy</target>
+        </segment>
+      </unit>
+      <unit id="163828340000099" name="item_Nuke Trigger" xml:space="preserve">
+        <segment>
+          <source>Nuke Trigger</source>
+          <target>Zapalnik jądrowy</target>
+        </segment>
+      </unit>
+      <unit id="163828340000100" name="item_Nuke Timer" xml:space="preserve">
+        <segment>
+          <source>Nuke Timer</source>
+          <target>Czasomierz jądrowy</target>
+        </segment>
+      </unit>
+      <unit id="163828340000101" name="item_Nuke Core" xml:space="preserve">
+        <segment>
+          <source>Nuke Core</source>
+          <target>Rdzeń jądrowy</target>
+        </segment>
+      </unit>
+      <unit id="163834090000001" name="item_Wood_info" xml:space="preserve">
+        <segment>
+          <source>A basic building material gathered from trees. Essential for crafting and construction.</source>
+          <target>Podstawowy materiał budowlany pozyskiwany z drzew. Niezbędny w rzemiośle i budownictwie.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000002" name="item_Stone_info" xml:space="preserve">
+        <segment>
+          <source>Commonly found resource, useful for crafting tools and building sturdy structures.</source>
+          <target>Powszechnie spotykany zasób, przydatny do wytwarzania narzędzi i budowania solidnych konstrukcji.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000003" name="item_Axe_info" xml:space="preserve">
+        <segment>
+          <source>A tool for chopping wood. Essential for gathering and can be used as a weapon.</source>
+          <target>Narzędzie do rąbania drewna. Niezbędna do zbieractwa i może być używana jako broń.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000004" name="item_Bow_info" xml:space="preserve">
+        <segment>
+          <source>A ranged weapon used for hunting wildlife and defending against threats. Requires arrows to use.</source>
+          <target>Broń dystansowa używana do polowań na zwierzynę i obrony przed zagrożeniami. Wymaga strzał do użycia.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000005" name="item_Arrow_info" xml:space="preserve">
+        <segment>
+          <source>Ammunition for bows. Crafted from wood and stone, essential for hunting and combat.</source>
+          <target>Amunicja do łuków. Wykonana z drewna i kamienia, niezbędna do polowań i walki.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000006" name="item_Campfire_info" xml:space="preserve">
+        <segment>
+          <source>Fundamental source for cooking and smelting. Crucial for enduring survival in extreme conditions.</source>
+          <target>Podstawowe źródło do gotowania i wytapiania. Niezbędne do przetrwania w ekstremalnych warunkach.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000007" name="item_Bed_info" xml:space="preserve">
+        <segment>
+          <source>A place to rest and respawn.</source>
+          <target>Miejsce odpoczynku i odrodzenia.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000008" name="item_Pick Axe_info" xml:space="preserve">
+        <segment>
+          <source>Tool used for mining resources like stone, sulfur and metal. </source>
+          <target>Narzędzie używane do wydobywania surowców takich jak kamień, siarka i metal.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000009" name="item_Coal_info" xml:space="preserve">
+        <segment>
+          <source>A valuable resource for crafting. </source>
+          <target>Cenny materiał rzemieślniczy.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000010" name="item_Metal Fragments_info" xml:space="preserve">
+        <segment>
+          <source>Refined metal for crafting and building, made by smelting ore.</source>
+          <target>Uszlachetniony metal do rzemiosła i budownictwa, wytwarzany przez wytapianie rudy.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000011" name="item_Raw Meat_info" xml:space="preserve">
+        <segment>
+          <source>Basic food from hunting wildlife. Needs cooking for safe eating.</source>
+          <target>Podstawowy pokarm z polowań na zwierzynę. Trzeba je ugotować, aby móc bezpiecznie zjeść.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000012" name="item_Pistol_info" xml:space="preserve">
+        <segment>
+          <source>Handheld firearm, useful for self-defense and hunting. Requires bullets.</source>
+          <target>Ręczna broń palna, przydatna w samoobronie i myślistwie. Wymaga naboi.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000013" name="item_Grenade_info" xml:space="preserve">
+        <segment>
+          <source>Explosive device used for enemy damage.</source>
+          <target>Ładunek wybuchowy używany do zadawania obrażeń wrogom.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000014" name="item_Bear Rug_info" xml:space="preserve">
+        <segment>
+          <source>Decorative item crafted from leather. Charges health when placed in your home.</source>
+          <target>Przedmiot dekoracyjny wytwarzany ze skóry. Ładuje zdrowie po umieszczeniu w domu.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000015" name="item_Deer Skull_info" xml:space="preserve">
+        <segment>
+          <source>Decorative item crafted from leather. Charges health when placed in your home.</source>
+          <target>Przedmiot dekoracyjny wytwarzany ze skóry. Ładuje zdrowie po umieszczeniu w domu.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000016" name="item_Wall Rug_info" xml:space="preserve">
+        <segment>
+          <source>Decorative item crafted from leather. Charges health when placed in your home.</source>
+          <target>Przedmiot dekoracyjny wytwarzany ze skóry. Ładuje zdrowie po umieszczeniu w domu.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000017" name="item_Pistol Bullet_info" xml:space="preserve">
+        <segment>
+          <source>Ammunition for pistols.</source>
+          <target>Amunicja do pistoletów.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000018" name="item_Hammer_info" xml:space="preserve">
+        <segment>
+          <source>Used for upgrading and repairing structures. Essential for base maintenance and upgrading the workbench.</source>
+          <target>Używane do ulepszania i naprawy struktur. Niezbędne do konserwacji bazy i ulepszania warsztatu.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000019" name="item_Large Wood Box_info" xml:space="preserve">
+        <segment>
+          <source>Storage unit for holding items. Crucial for organizing and protecting resources.</source>
+          <target>Przestrzeń magazynowa do przechowywania przedmiotów. Niezbędna do organizowania i ochrony zasobów.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000020" name="item_Vending Machine_info" xml:space="preserve">
+        <segment>
+          <source>Automated trade unit. Can be used to buy and sell items with other players.</source>
+          <target>Zautomatyzowana jednostka handlowa. Można go używać do kupowania i sprzedawania przedmiotów z innymi graczami.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000021" name="item_Satoshi_info" xml:space="preserve">
+        <segment>
+          <source>In-game currency for trading and purchasing items. Acquired through various means.</source>
+          <target>Waluta w grze służąca do handlu i kupowania przedmiotów. Zdobywana różnymi sposobami.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000022" name="item_Backpack_info" xml:space="preserve">
+        <segment>
+          <source>Item storage of deceased player.</source>
+          <target>Skład przedmiotów zmarłego gracza.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000023" name="item_Iron_info" xml:space="preserve">
+        <segment>
+          <source>A raw metal resource, used in crafting and building. Requires smelting to purify.</source>
+          <target>Surowiec metaliczny, używany w rzemiośle i budownictwie. Wymaga wytapiania w celu oczyszczenia.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000024" name="item_Grilled Meat_info" xml:space="preserve">
+        <segment>
+          <source>Cooked meat, safe to eat. Provides better nourishment than raw meat.</source>
+          <target>Gotowane mięso, bezpieczne do spożycia. Zapewnia lepsze pożywienie niż surowe mięso.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000025" name="item_Workbench 1_info" xml:space="preserve">
+        <segment>
+          <source>Basic workbench for crafting items. It helps prevent building decay and can be upgraded using a Hammer.</source>
+          <target>Podstawowy stół warsztatowy do tworzenia przedmiotów. Pomaga zapobiegać rozkładowi budynków i może być ulepszany za pomocą młotka.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000026" name="item_Workbench 2_info" xml:space="preserve">
+        <segment>
+          <source>Upgraded workbench for crafting items. It helps prevent building decay and can be upgraded using a Hammer.</source>
+          <target>Ulepszony stół roboczy do tworzenia przedmiotów. Pomaga zapobiegać rozkładowi budynków i może być ulepszony za pomocą młotka.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000027" name="item_Workbench 3_info" xml:space="preserve">
+        <segment>
+          <source>Advanced workbench for crafting items. It helps prevent building decay and can be upgraded using a Hammer.</source>
+          <target>Zaawansowany stół warsztatowy do wytwarzania przedmiotów. Pomaga zapobiegać rozkładowi budynku i może być ulepszony przy użyciu młotka.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000028" name="item_Sulfur_info" xml:space="preserve">
+        <segment>
+          <source>Resource for crafting gunpowder and explosives. Gathered from mining.</source>
+          <target>Surowiec do wytwarzania prochu i materiałów wybuchowych. Pozyskiwany z górnictwa.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000029" name="item_Sulfur Powder_info" xml:space="preserve">
+        <segment>
+          <source>Refined sulfur, a key ingredient in making gunpowder. Obtained by processing sulfur.</source>
+          <target>Rafinowana siarka, kluczowy składnik do produkcji prochu strzelniczego. Otrzymywany przez obróbkę siarki.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000030" name="item_Hoe_info" xml:space="preserve">
+        <segment>
+          <source>Farming tool used for planting and harvesting crops. Essential for sustainable food production.</source>
+          <target>Narzędzie rolnicze używane do sadzenia i zbioru roślin. Niezbędne do stałej produkcji żywności.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000031" name="item_Flax_info" xml:space="preserve">
+        <segment>
+          <source>A plant resource. Used in crafting textiles and other items.</source>
+          <target>Zasób roślinny. Używany do wytwarzania tekstyliów i innych przedmiotów.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000032" name="item_Wheat_info" xml:space="preserve">
+        <segment>
+          <source>A crop used for making food items like bread. Grown from seeds.</source>
+          <target>Roślina używana do produkcji artykułów spożywczych, takich jak chleb. Uprawiana z nasion.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000033" name="item_Carrot_info" xml:space="preserve">
+        <segment>
+          <source>A nutritious vegetable, can be eaten raw or cooked. Grown from seeds.</source>
+          <target>Pożywne warzywo, można jeść na surowo lub gotowane. Uprawiane z nasion.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000034" name="item_Potato_info" xml:space="preserve">
+        <segment>
+          <source>Versatile crop, can be eaten raw, cooked, or used to make other food items. Grown from seeds.</source>
+          <target>Uniwersalna uprawa, można ją spożywać na surowo, gotować lub wykorzystywać do przygotowania innych produktów spożywczych. Uprawiany z nasion.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000035" name="item_Flax Seed_info" xml:space="preserve">
+        <segment>
+          <source>Seeds for growing flax plants. Used in sustainable resource farming.</source>
+          <target>Nasiona do uprawy roślin lnu. Stosowane do odnawialnej hodowli zasobów.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000036" name="item_Wheat Seed_info" xml:space="preserve">
+        <segment>
+          <source>Seeds for growing wheat. Essential for farming and food production.</source>
+          <target>Nasiona do uprawy pszenicy. Niezbędne w rolnictwie i produkcji żywności.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000037" name="item_Carrot Seed_info" xml:space="preserve">
+        <segment>
+          <source>Seeds for growing carrots. Essential for farming and food production.</source>
+          <target>Nasiona do uprawy marchwi. Niezbędne w rolnictwie i produkcji żywności.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000038" name="item_Potato Seed_info" xml:space="preserve">
+        <segment>
+          <source>Seeds for growing potatoes. Vital for diverse crop production.</source>
+          <target>Nasiona do uprawy ziemniaków. Niezbędne do zróżnicowanej produkcji roślinnej.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000039" name="item_Linen_info" xml:space="preserve">
+        <segment>
+          <source>Textile made from flax. Used in crafting clothing and other fabric items.</source>
+          <target>Tekstylia wykonane z lnu. Używane do wytwarzania odzieży i innych przedmiotów z tkanin.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000040" name="item_Leather_info" xml:space="preserve">
+        <segment>
+          <source>Durable material obtained from animal hides. Used in crafting armor and clothing.</source>
+          <target>Trwały materiał pozyskiwany ze skór zwierzęcych. Używany do wytwarzania zbroi i odzieży.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000041" name="item_Bread_info" xml:space="preserve">
+        <segment>
+          <source>Food item made from wheat. Good source of nourishment.</source>
+          <target>Artykuł spożywczy wytwarzany z pszenicy. Dobre źródło pożywienia.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000042" name="item_Baked Potato_info" xml:space="preserve">
+        <segment>
+          <source>Cooked potato. A simple and filling food item.</source>
+          <target>Gotowany ziemniak. Prosty i sycący artykuł spożywczy.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000043" name="item_Fish_info" xml:space="preserve">
+        <segment>
+          <source>Source of food obtained from loot container. Can be cooked for better nourishment.</source>
+          <target>Źródło pożywienia pozyskiwane z pojemnika z łupami. Można ugotować dla lepszego odżywienia.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000044" name="item_Fish Dish_info" xml:space="preserve">
+        <segment>
+          <source>Provides high nourishment and health recovery.</source>
+          <target>Dobrze odżywia i zapewnia regenerację zdrowia.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000045" name="item_Ham Sandwich_info" xml:space="preserve">
+        <segment>
+          <source>Tasty food item combining bread and meat. Good for quick nourishment.</source>
+          <target>Smaczny artykuł spożywczy łączący chleb i mięso. Dobry do szybkiego odżywienia.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000046" name="item_Stew_info" xml:space="preserve">
+        <segment>
+          <source>Hearty meal made from various ingredients. Excellent for health and hunger recovery.</source>
+          <target>Obfity posiłek sporządzony z różnych składników. Doskonały dla zdrowia i poprawy głodu.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000047" name="item_Carrot Soup_info" xml:space="preserve">
+        <segment>
+          <source>Nutritious soup made from carrots. Good for health and hydration.</source>
+          <target>Pożywna zupa z marchwi. Dobra dla zdrowia i nawodnienia.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000048" name="item_Oven_info" xml:space="preserve">
+        <segment>
+          <source>Advanced cooking appliance. Allows for the preparation of complex meals.</source>
+          <target>Zaawansowane urządzenie do gotowania. Pozwala na przygotowanie skomplikowanych posiłków.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000049" name="item_Smelter_info" xml:space="preserve">
+        <segment>
+          <source>Used for refining raw ores into usable metals. Essential for advanced crafting.</source>
+          <target>Służy do rafinacji surowych rud na metale użytkowe. Niezbędne w zaawansowanym rzemiośle.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000050" name="item_C4_info" xml:space="preserve">
+        <segment>
+          <source>High-powered explosive. Used for breaching and demolition. Handle with extreme caution.</source>
+          <target>Materiał wybuchowy o dużej mocy. Używany do wyważania i rozbiórki. Używaj zachowując szczególną ostrożność.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000051" name="item_Bush Shirt_info" xml:space="preserve">
+        <segment>
+          <source>Camouflage clothing, useful for stealth and protection in wilderness.</source>
+          <target>Odzież kamuflażowa, przydatna do ukrywania się i ochrony w dziczy.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000052" name="item_Bush Pants_info" xml:space="preserve">
+        <segment>
+          <source>Camouflage pants, pairs with bush shirt for complete stealth outfit.</source>
+          <target>Spodnie kamuflażowe, w połączeniu z koszulą z krzewu, tworzą kompletny strój do ukrywania.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000053" name="item_Leather Pants_info" xml:space="preserve">
+        <segment>
+          <source>Durable clothing made from leather. Offers protection.</source>
+          <target>Wytrzymała odzież wykonana ze skóry. Zapewnia ochronę.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000054" name="item_Leather Shoes_info" xml:space="preserve">
+        <segment>
+          <source>Sturdy footwear made from leather. Essential for travel and protection.</source>
+          <target>Solidne obuwie wykonane ze skóry. Niezbędne do podróży i ochrony.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000055" name="item_Military Shoes_info" xml:space="preserve">
+        <segment>
+          <source>High-quality tactical footwear. Provides enhanced mobility and protection in rough terrain.</source>
+          <target>Wysokiej jakości obuwie taktyczne. Zapewnia zwiększoną mobilność i ochronę w trudnym terenie.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000056" name="item_Leather Shirt_info" xml:space="preserve">
+        <segment>
+          <source>Tough upper body clothing made from leather. Offers good protection and durability.</source>
+          <target>Wytrzymała górna część odzieży wykonana ze skóry. Zapewnia dobrą ochronę i trwałość.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000057" name="item_Torch Light_info" xml:space="preserve">
+        <segment>
+          <source>Portable light source. Essential for visibility during nighttime. Can be turned on and off.</source>
+          <target>Przenośne źródło światła. Niezbędne do widoczności w nocy. Można włączyć i wyłączyć.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000058" name="item_Wooden Cover_info" xml:space="preserve">
+        <segment>
+          <source>Basic defensive structure component. Used for fortifying against enemies while gathering resources.</source>
+          <target>Podstawowy element konstrukcji obronnej. Służy do fortyfikowania przeciwko wrogom podczas gromadzenia zasobów.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000059" name="item_Red Keycard_info" xml:space="preserve">
+        <segment>
+          <source>Used to unlock high-security areas.</source>
+          <target>Służy do odblokowywania obszarów o wysokim poziomie bezpieczeństwa.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000060" name="item_Blue Keycard_info" xml:space="preserve">
+        <segment>
+          <source>Grants entry to restricted areas with valuable resources.</source>
+          <target>Umożliwia wejście do obszarów o ograniczonym dostępie z cennymi zasobami.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000061" name="item_Green Keycard_info" xml:space="preserve">
+        <segment>
+          <source>Opens specific doors and containers in the game world.</source>
+          <target>Otwiera określone drzwi i kontenery w świecie gry.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000062" name="item_Ak47_info" xml:space="preserve">
+        <segment>
+          <source>Powerful automatic rifle. Effective in combat situations. Requires rifle bullets.</source>
+          <target>Potężny karabin automatyczny. Skuteczny w sytuacjach bojowych. Wymaga nabojów karabinowych.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000063" name="item_Uzi_info" xml:space="preserve">
+        <segment>
+          <source>Compact submachine gun. Good for close-quarters combat. Uses pistol bullets.</source>
+          <target>Kompaktowy pistolet maszynowy. Dobry do walki bliskodystansowej. Używa kul pistoletowych.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000064" name="item_Shotgun_info" xml:space="preserve">
+        <segment>
+          <source>Short-range firearm. Highly effective for defense and hunting. Uses shotgun bullets.</source>
+          <target>Broń palna krótkiego zasięgu. Bardzo skuteczna w obronie i polowaniu. Używa naboji do strzelb.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000065" name="item_Rifle Bullet_info" xml:space="preserve">
+        <segment>
+          <source>Ammunition for rifles. Crafted from metal fragments and gunpowder.</source>
+          <target>Amunicja do karabinów. Wykonana z fragmentów metalu i prochu.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000066" name="item_Shotgun Bullet_info" xml:space="preserve">
+        <segment>
+          <source>Ammunition for shotguns. Effective for close-range combat.</source>
+          <target>Amunicja do strzelb. Skuteczna w walce na bliski dystans.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000067" name="item_Ak47 Body_info" xml:space="preserve">
+        <segment>
+          <source>Main component for crafting an Ak47. Requires additional parts and materials.</source>
+          <target>Główny komponent do stworzenia Ak47. Wymaga dodatkowych części i materiałów.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000068" name="item_Uzi Body_info" xml:space="preserve">
+        <segment>
+          <source>Essential part for assembling an Uzi. Combine with other components for a complete weapon.</source>
+          <target>Niezbędna część do montażu Uzi. Połącz z innymi komponentami, aby uzyskać kompletną broń.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000069" name="item_Shotgun Body_info" xml:space="preserve">
+        <segment>
+          <source>Base component for building a shotgun. Necessary for weapon crafting.</source>
+          <target>Podstawowy element do budowy strzelby. Niezbędny do wytwarzania broni.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000070" name="item_Pistol Body_info" xml:space="preserve">
+        <segment>
+          <source>Fundamental part of a pistol. Combine with other parts to craft a handgun.</source>
+          <target>Podstawowa część pistoletu. Połącz z innymi częściami, aby stworzyć pistolet.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000071" name="item_Gun Powder_info" xml:space="preserve">
+        <segment>
+          <source>Essential ingredient for crafting ammunition. Made from sulfur and charcoal.</source>
+          <target>Niezbędny składnik do wytwarzania amunicji. Wykonany z siarki i węgla drzewnego.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000072" name="item_Lantern_info" xml:space="preserve">
+        <segment>
+          <source>Steady light source. Useful for illuminating areas.</source>
+          <target>Stałe źródło światła. Przydatna do oświetlania obszarów.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000073" name="item_Beanie_info" xml:space="preserve">
+        <segment>
+          <source>Stylish headwear. Offers minimal protection.</source>
+          <target>Stylowe nakrycie głowy. Zapewnia minimalną ochronę.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000074" name="item_Emerald Beanie_info" xml:space="preserve">
+        <segment>
+          <source>Stylish headwear. Offers minimal protection.</source>
+          <target>Stylowe nakrycie głowy. Zapewnia minimalną ochronę.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000075" name="item_Charcoal Beanie_info" xml:space="preserve">
+        <segment>
+          <source>Cozy and trendy beanie. Offers minimal protection.</source>
+          <target>Wygodna i modna czapka. Zapewnia minimalną ochronę.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000076" name="item_Beret_info" xml:space="preserve">
+        <segment>
+          <source>Military-style headgear. Offers a blend of style and a bit of protection.</source>
+          <target>Nakrycie głowy w stylu militarnym. Oferuje połączenie stylu i odrobiny ochrony.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000077" name="item_Olive Beret_info" xml:space="preserve">
+        <segment>
+          <source>Durable and stylish military beret. Suitable for various environments.</source>
+          <target>Trwały i stylowy beret wojskowy. Nadaje się do różnych środowisk.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000078" name="item_Base Cap_info" xml:space="preserve">
+        <segment>
+          <source>Casual headwear. Offers minimal protection for your head.</source>
+          <target>Zwykłe nakrycie głowy. Zapewnia minimalną ochronę głowy.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000079" name="item_Obsidian Cap_info" xml:space="preserve">
+        <segment>
+          <source>Dark-colored cap. Offers minimal protection for your head.</source>
+          <target>Czapka w kolorze ciemnym. Zapewnia minimalną ochronę głowy.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000080" name="item_Hat_info" xml:space="preserve">
+        <segment>
+          <source>Stylish headwear. Offers minimal protection for your head.</source>
+          <target>Stylowe nakrycie głowy. Zapewnia minimalną ochronę głowy.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000081" name="item_Vintage Hat_info" xml:space="preserve">
+        <segment>
+          <source>Stylish headwear. Offers minimal protection for your head.</source>
+          <target>Stylowe nakrycie głowy. Zapewnia minimalną ochronę głowy.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000082" name="item_Military Pants_info" xml:space="preserve">
+        <segment>
+          <source>Durable trousers with good protection. Suitable for combat situations.</source>
+          <target>Wytrzymałe spodnie z dobrą ochroną. Nadają się do sytuacji bojowych.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000083" name="item_Military Gloves_info" xml:space="preserve">
+        <segment>
+          <source>Protective handwear. Essential for handling weapons and tools safely.</source>
+          <target>Odzież ochronna. Niezbędne do bezpiecznego obchodzenia się z bronią i narzędziami.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000084" name="item_Military Helmet_info" xml:space="preserve">
+        <segment>
+          <source>Offers head protection in combat scenarios. Essential for safety in battle.</source>
+          <target>Zapewnia ochronę głowy w scenariuszach bojowych. Niezbędny dla bezpieczeństwa podczas bitwy.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000085" name="item_Military Shirt_info" xml:space="preserve">
+        <segment>
+          <source>Tough upper body clothing. Provides protection in combat situations.</source>
+          <target>Wytrzymała odzież górnej części ciała. Zapewnia ochronę w sytuacjach bojowych.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000086" name="item_Camouflage Pants_info" xml:space="preserve">
+        <segment>
+          <source>Durable trousers with good protection. Suitable for combat situations.</source>
+          <target>Wytrzymałe spodnie z dobrą ochroną. Nadają się do sytuacji bojowych.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000087" name="item_Camouflage Shirt_info" xml:space="preserve">
+        <segment>
+          <source>Durable shirt with good protection. Suitable for combat situations.</source>
+          <target>Wytrzymała koszula z dobrą ochroną. Nadaje się do sytuacji bojowych.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000088" name="item_Scavenger Vest_info" xml:space="preserve">
+        <segment>
+          <source>Upper body armor. Provides decent protection in combat situations.</source>
+          <target>Pancerz górnej części ciała. Zapewnia przyzwoitą ochronę w sytuacjach bojowych.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000089" name="item_Rusty Combat Vest_info" xml:space="preserve">
+        <segment>
+          <source>Durable upper body armor. Provides good protection in combat situations.</source>
+          <target>Trwały pancerz górnej części ciała. Zapewnia dobrą ochronę w sytuacjach bojowych.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000090" name="item_Urban Guerrilla Vest_info" xml:space="preserve">
+        <segment>
+          <source>Ultra-durable armor for superior combat defense</source>
+          <target>Niezwykle wytrzymały pancerz zapewniający doskonałą obronę w walce</target>
+        </segment>
+      </unit>
+      <unit id="163834090000091" name="item_Durable Jeans_info" xml:space="preserve">
+        <segment>
+          <source>Durable trousers with good protection.</source>
+          <target>Wytrzymałe spodnie z dobrą ochroną.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000092" name="item_Rugged Shirt_info" xml:space="preserve">
+        <segment>
+          <source>Durable shirt with good protection.</source>
+          <target>Wytrzymała koszula z dobrą ochroną.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000093" name="item_Tactical Gloves_info" xml:space="preserve">
+        <segment>
+          <source>Protective handwear. Essential for handling weapons and tools safely. Less recoil and better accuracy.</source>
+          <target>Odzież ochronna. Niezbędne do bezpiecznego obchodzenia się z bronią i narzędziami. Mniejszy odrzut i lepsza celność.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000094" name="item_Leather Gloves_info" xml:space="preserve">
+        <segment>
+          <source>Protective handwear. Essential for handling weapons and tools safely. Less recoil and better accuracy.</source>
+          <target>Odzież ochronna. Niezbędne do bezpiecznego obchodzenia się z bronią i narzędziami. Mniejszy odrzut i lepsza celność.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000095" name="item_Nuke Blueprint_info" xml:space="preserve">
+        <segment>
+          <source>Main component for crafting the frame of a nuke. Requires additional parts and materials.</source>
+          <target>Główny komponent do tworzenia ramy broni jądrowej. Wymaga dodatkowych części i materiałów.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000096" name="item_Nuke Frame_info" xml:space="preserve">
+        <segment>
+          <source>The nuke's framework securely contains the core, case, reflector, trigger, and timer, forming its essential architecture.</source>
+          <target>Struktura ładunku jądrowego bezpiecznie przechowuje rdzeń, obudowę, reflektor, zapalnik i czasomierz, tworząc jej podstawową architekturę.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000097" name="item_Nuke Case_info" xml:space="preserve">
+        <segment>
+          <source>The heart of the nuke, generating the explosive energy.</source>
+          <target>Serce ładunku jądrowego, generujące energię wybuchową.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000098" name="item_Nuke Reflector_info" xml:space="preserve">
+        <segment>
+          <source>Enhances the explosion's efficiency by reflecting neutrons back into the core.</source>
+          <target>Zwiększa skuteczność eksplozji poprzez odbicie neutronów z powrotem do rdzenia.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000099" name="item_Nuke Trigger_info" xml:space="preserve">
+        <segment>
+          <source>Initiates the nuclear reaction at the precise moment needed.</source>
+          <target>Inicjuje reakcję jądrową dokładnie w pożądanym momencie.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000100" name="item_Nuke Timer_info" xml:space="preserve">
+        <segment>
+          <source>Controls the detonation timing, ensuring precise activation.</source>
+          <target>Kontroluje czas detonacji, zapewniając precyzyjną aktywację.</target>
+        </segment>
+      </unit>
+      <unit id="163834090000101" name="item_Nuke Core_info" xml:space="preserve">
+        <segment>
+          <source>The protective shell that encases the nuke's vital components.</source>
+          <target>Powłoka ochronna, która otacza najważniejsze elementy broni jądrowej.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000001" name="info_message_1" xml:space="preserve">
+        <segment>
+          <source>Insufficient resources for construction.</source>
+          <target>Niewystarczające zasoby na budowę.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000002" name="info_message_2" xml:space="preserve">
+        <segment>
+          <source>This item is limited to one placement per player.</source>
+          <target>Ten przedmiot jest ograniczony do jednego umieszczenia na gracza.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000003" name="info_message_3" xml:space="preserve">
+        <segment>
+          <source>Crafting queue is currently full.</source>
+          <target>Kolejka rzemieślnicza jest obecnie pełna.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000004" name="info_message_4" xml:space="preserve">
+        <segment>
+          <source>Lacking resources to craft this item.</source>
+          <target>Brakuje zasobów do wytworzenia tego przedmiotu.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000005" name="info_message_5" xml:space="preserve">
+        <segment>
+          <source>Exit from this location is not possible.</source>
+          <target>Wyjście z tej lokalizacji nie jest możliwe.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000006" name="info_message_6" xml:space="preserve">
+        <segment>
+          <source>Inventory full. Please manage your items.</source>
+          <target>Ekwipunek pełny. Proszę zarządzać swoimi przedmiotami.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000007" name="info_message_7" xml:space="preserve">
+        <segment>
+          <source>A Workbench 1 is required for crafting.</source>
+          <target>Do wytwarzania wymagany jest stół warsztatowy 1.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000008" name="info_message_8" xml:space="preserve">
+        <segment>
+          <source>Crafting in progress. Item cannot be removed from the queue.</source>
+          <target>Wytwarzanie w toku. Nie można usunąć elementu z kolejki.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000009" name="info_message_9" xml:space="preserve">
+        <segment>
+          <source>Storage capacity reached. Please organize.</source>
+          <target>Osiągnięto pojemność magazynu. Proszę o organizację.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000010" name="info_message_10" xml:space="preserve">
+        <segment>
+          <source>This item is temporarily out of stock. Please check again later.</source>
+          <target>Ten przedmiot jest tymczasowo niedostępny. Sprawdź ponownie później.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000011" name="info_message_11" xml:space="preserve">
+        <segment>
+          <source>You do not have enough funds to buy this item.</source>
+          <target>Nie masz wystarczających środków, aby kupić ten przedmiot.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000012" name="info_message_12" xml:space="preserve">
+        <segment>
+          <source>This item is not in your possession.</source>
+          <target>Ten przedmiot nie jest w Twoim posiadaniu.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000013" name="info_message_13" xml:space="preserve">
+        <segment>
+          <source>Current server player count: </source>
+          <target>Aktualna liczba graczy na serwerze:</target>
+        </segment>
+      </unit>
+      <unit id="164000000000014" name="info_message_14" xml:space="preserve">
+        <segment>
+          <source>This field is already sown with seeds.</source>
+          <target>To pole jest już obsiane nasionami.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000015" name="info_message_15" xml:space="preserve">
+        <segment>
+          <source>Plowing is necessary before planting.</source>
+          <target>Przed sadzeniem konieczna jest zaoranie.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000016" name="info_message_16" xml:space="preserve">
+        <segment>
+          <source>Harvest is not yet ready. Patience is required.</source>
+          <target>Zbiory nie są jeszcze gotowe. Wymagana jest cierpliwość.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000017" name="info_message_17" xml:space="preserve">
+        <segment>
+          <source>Insufficient resources to upgrade the building.</source>
+          <target>Niewystarczające zasoby, aby ulepszyć budynek.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000018" name="info_message_18" xml:space="preserve">
+        <segment>
+          <source>Insufficient resources for item upgrade.</source>
+          <target>Niewystarczające zasoby do ulepszenia przedmiotu.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000019" name="info_message_19" xml:space="preserve">
+        <segment>
+          <source>Hungry! Search for something to eat.</source>
+          <target>Głodny! Poszukaj czegoś do zjedzenia.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000020" name="info_message_20" xml:space="preserve">
+        <segment>
+          <source>Landing at this location is prohibited.</source>
+          <target>Lądowanie w tym miejscu jest zabronione.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000021" name="info_message_21" xml:space="preserve">
+        <segment>
+          <source>This container is currently in use.</source>
+          <target>Kontener ten jest obecnie w użyciu.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000022" name="info_message_22" xml:space="preserve">
+        <segment>
+          <source>Lack a torch light? Consider crafting one.</source>
+          <target>Brakuje Ci latarki? Rozważ stworzenie jednej.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000023" name="info_message_23" xml:space="preserve">
+        <segment>
+          <source>A Workbench 2 is needed for crafting.</source>
+          <target>Do wytwarzania potrzebny jest stół warsztatowy 2.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000024" name="info_message_24" xml:space="preserve">
+        <segment>
+          <source>Crafting requires the presence of a Workbench 3.</source>
+          <target>Wytwarzanie wymaga obecności stołu warsztatowego 3.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000025" name="info_message_25" xml:space="preserve">
+        <segment>
+          <source>Plowing cannot be done here.</source>
+          <target>Nie można tu orać.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000026" name="info_message_26" xml:space="preserve">
+        <segment>
+          <source>A Workbench is necessary to build further.</source>
+          <target>Aby dalej budować, niezbędny jest stół warsztatowy.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000027" name="info_message_27" xml:space="preserve">
+        <segment>
+          <source>The nuke is not ready yet, parts are missing.</source>
+          <target>Broń jądrowa nie jest jeszcze gotowa, brakuje części.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000028" name="info_message_28" xml:space="preserve">
+        <segment>
+          <source>Unable to place here as it intersects with another building or item.</source>
+          <target>Nie można tego tu umieścić, ponieważ przecina się z innym budynkiem lub przedmiotem.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000029" name="info_message_29" xml:space="preserve">
+        <segment>
+          <source>You are too far away to place this.</source>
+          <target>Jesteś zbyt daleko, aby to umieścić.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000030" name="info_message_30" xml:space="preserve">
+        <segment>
+          <source>Placement not possible: too close to another building component.</source>
+          <target>Umieszczenie niemożliwe: zbyt blisko innego elementu budynku.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000031" name="info_message_31" xml:space="preserve">
+        <segment>
+          <source>Item has to be placed on a back wall, you can paint one.</source>
+          <target>Przedmiot należy umieścić na tylnej ścianie, można ją pomalować.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000032" name="info_message_32" xml:space="preserve">
+        <segment>
+          <source>Placement not possible in this location.</source>
+          <target>Umieszczenie w tym miejscu nie jest możliwe.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000033" name="info_message_33" xml:space="preserve">
+        <segment>
+          <source>Placement not possible. Adjust the vertical position up or down.</source>
+          <target>Umieszczenie nie jest możliwe. Dostosuj pozycję pionową w górę lub w dół.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000034" name="info_message_34" xml:space="preserve">
+        <segment>
+          <source>Placement failed, too close to another building or item.</source>
+          <target>Umieszczenie nie powiodło się, zbyt blisko innego budynku lub przedmiotu.</target>
+        </segment>
+      </unit>
+      <unit id="164000000000035" name="info_message_35" xml:space="preserve">
+        <segment>
+          <source>Upgrade unavailable: You must be the item or building's owner to proceed.</source>
+          <target>Ulepszenie niedostępne: aby kontynuować, musisz być właścicielem przedmiotu lub budynku.</target>
+        </segment>
+      </unit>
+      <unit id="265061569675264" name="text_menu_173" xml:space="preserve">
+        <segment>
+          <source>EXIT GAME</source>
+          <target>Wyjdź z gry</target>
+        </segment>
+      </unit>
+      <unit id="358491402551296" name="text_menu_label_set_language" xml:space="preserve">
+        <segment>
+          <source>SET LANGUAGE:</source>
+          <target>Ustaw język:</target>
+        </segment>
+      </unit>
+      <unit id="358690959147008" name="language_en" xml:space="preserve">
+        <segment>
+          <source>English (en)</source>
+          <target>angielski (en)</target>
+        </segment>
+      </unit>
+      <unit id="358889949511680" name="language_fr" xml:space="preserve">
+        <segment>
+          <source>French (fr)</source>
+          <target>francuski (fr)</target>
+        </segment>
+      </unit>
+      <unit id="358962922012672" name="language_de" xml:space="preserve">
+        <segment>
+          <source>German (de)</source>
+          <target>niemiecki (de)</target>
+        </segment>
+      </unit>
+      <unit id="359067049803776" name="language_ja" xml:space="preserve">
+        <segment>
+          <source>Japanese (ja)</source>
+          <target>japoński (ja)</target>
+        </segment>
+      </unit>
+      <unit id="359109034786816" name="language_pt" xml:space="preserve">
+        <segment>
+          <source>Portuguese (pt)</source>
+          <target>portugalski (pt)</target>
+        </segment>
+      </unit>
+      <unit id="359198805475328" name="language_ru" xml:space="preserve">
+        <segment>
+          <source>Russian (ru)</source>
+          <target>rosyjski (ru)</target>
+        </segment>
+      </unit>
+      <unit id="359245697794048" name="language_es" xml:space="preserve">
+        <segment>
+          <source>Spanish (es)</source>
+          <target>hiszpański (es)</target>
+        </segment>
+      </unit>
+      <unit id="359295509348352" name="language_th" xml:space="preserve">
+        <segment>
+          <source>Thai (th)</source>
+          <target>tajski (th)</target>
+        </segment>
+      </unit>
+      <unit id="359347606798336" name="language_zh-hans" xml:space="preserve">
+        <segment>
+          <source>Chinese (zh-Hans)</source>
+          <target>Chiński (zh-Hans)</target>
+        </segment>
+      </unit>
+      <unit id="546689911111680" name="text_menu_label_information" xml:space="preserve">
+        <segment>
+          <source>INFORMATION</source>
+          <target>INFORMACJA</target>
+        </segment>
+      </unit>
+      <unit id="557511341260800" name="text_menu_label_set_password" xml:space="preserve">
+        <segment>
+          <source>PASSWORD:</source>
+          <target>HASŁO:</target>
+        </segment>
+      </unit>
+      <unit id="562978763325440" name="text_menu_label_crafting_queue" xml:space="preserve">
+        <segment>
+          <source>CRAFTING QUEUE</source>
+          <target>KOLEJKA WYTWARZANIA</target>
+        </segment>
+      </unit>
+      <unit id="707852871417856" name="text_menu_label_command_console" xml:space="preserve">
+        <segment>
+          <source>CONSOLE</source>
+          <target>KONSOLA</target>
+        </segment>
+      </unit>
+      <unit id="892555641503744" name="text_menu_information_demo" xml:space="preserve">
+        <segment>
+          <source>The demo's more than a sneak peek. 
+It's our way to tweak improve and
+ensuring everything from gameplay 
+to performance is top-notch. 
+Plus, we're continuously adding 
+cool new items. 
+
+Your support means the world
+to us as we gear up for 
+the big launch. 
+
+By adding our game to your 
+wishlist, you're providing 
+immense support. </source>
+          <target>Demo to coś więcej niż zapowiedź.
+To nasz sposób na dostrajanie, ulepszanie 
+i zapewnienie, że wszystko, począwszy 
+od rozgrywki po wydajność, jest na 
+najwyższym poziomie. Ponadto stale 
+dodajemy fajne nowe rzeczy.
+
+Twoje wsparcie znaczy dla nas
+wiele, gdy się przygotowujemy
+do wielkiego startu.
+
+Dodając naszą grę do swojej
+listy życzeń, dajesz
+ogromne wsparcie.</target>
+        </segment>
+      </unit>
+      <unit id="893352798339072" name="text_menu_loading" xml:space="preserve">
+        <segment>
+          <source>LOADING...</source>
+          <target>ŁADOWANIE...</target>
+        </segment>
+      </unit>
+      <unit id="904954956234752" name="text_menu_button_add_to_wishlist" xml:space="preserve">
+        <segment>
+          <source>ADD TO WISHLIST</source>
+          <target>DODAJ DO LISTY ŻYCZEŃ</target>
+        </segment>
+      </unit>
+      <unit id="963162844446720" name="text_menu_dropdown_graphic_quality_low" xml:space="preserve">
+        <segment>
+          <source>Low</source>
+          <target>Niska</target>
+        </segment>
+      </unit>
+      <unit id="963356008923136" name="text_menu_dropdown_graphic_quality_medium" xml:space="preserve">
+        <segment>
+          <source>Medium</source>
+          <target>Średnia</target>
+        </segment>
+      </unit>
+      <unit id="963380692402176" name="text_menu_dropdown_graphic_quality_high" xml:space="preserve">
+        <segment>
+          <source>High</source>
+          <target>Wysoka</target>
+        </segment>
+      </unit>
+      <unit id="979348080574464" name="input_moveup" xml:space="preserve">
+        <segment>
+          <source>Move Up</source>
+          <target>Ruch w górę</target>
+        </segment>
+      </unit>
+      <unit id="979416841994240" name="input_movedown" xml:space="preserve">
+        <segment>
+          <source>Move Down</source>
+          <target>Ruch w dół</target>
+        </segment>
+      </unit>
+      <unit id="979759076229120" name="input_moveleft" xml:space="preserve">
+        <segment>
+          <source>Move Left</source>
+          <target>Ruch w lewo</target>
+        </segment>
+      </unit>
+      <unit id="980416986365952" name="input_moveright" xml:space="preserve">
+        <segment>
+          <source>Move Right</source>
+          <target>Ruch w prawo</target>
+        </segment>
+      </unit>
+      <unit id="981182211964928" name="input_jump" xml:space="preserve">
+        <segment>
+          <source>Jump</source>
+          <target>Skok</target>
+        </segment>
+      </unit>
+      <unit id="981186897002496" name="input_attackandselect" xml:space="preserve">
+        <segment>
+          <source>Attack And Select</source>
+          <target>Atak i wybieranie</target>
+        </segment>
+      </unit>
+      <unit id="981191141638144" name="input_fastmoveiventoryordeselect" xml:space="preserve">
+        <segment>
+          <source>Fast Move Iventory Or Deselect</source>
+          <target>Szybkie przenoszenie ekwipunku lub odznaczenie</target>
+        </segment>
+      </unit>
+      <unit id="981194899734528" name="input_splitorunload" xml:space="preserve">
+        <segment>
+          <source>Split Or Unload</source>
+          <target>Podziel lub rozładuj</target>
+        </segment>
+      </unit>
+      <unit id="981197470842880" name="input_dropitem" xml:space="preserve">
+        <segment>
+          <source>Drop Item</source>
+          <target>Upuszczanie przedmiotu</target>
+        </segment>
+      </unit>
+      <unit id="981199601549312" name="input_inventory" xml:space="preserve">
+        <segment>
+          <source>Inventory</source>
+          <target>Ekwipunek</target>
+        </segment>
+      </unit>
+      <unit id="981201627398144" name="input_build" xml:space="preserve">
+        <segment>
+          <source>Build</source>
+          <target>Budowanie</target>
+        </segment>
+      </unit>
+      <unit id="981203732938752" name="input_rotatebuilding" xml:space="preserve">
+        <segment>
+          <source>Rotate Building</source>
+          <target>Obracanie budowli</target>
+        </segment>
+      </unit>
+      <unit id="981205825896448" name="input_use" xml:space="preserve">
+        <segment>
+          <source>Use</source>
+          <target>Użyj</target>
+        </segment>
+      </unit>
+      <unit id="981207818190848" name="input_reload" xml:space="preserve">
+        <segment>
+          <source>Reload</source>
+          <target>Przeładowanie</target>
+        </segment>
+      </unit>
+      <unit id="981494662447104" name="input_torchlight" xml:space="preserve">
+        <segment>
+          <source>Torchlight</source>
+          <target>Latarka</target>
+        </segment>
+      </unit>
+      <unit id="981496877039616" name="input_chatorconfirm" xml:space="preserve">
+        <segment>
+          <source>Chat Or Confirm</source>
+          <target>Czatuj lub potwierdź</target>
+        </segment>
+      </unit>
+      <unit id="981499007746048" name="input_navigation" xml:space="preserve">
+        <segment>
+          <source>Navigation</source>
+          <target>Nawigacja</target>
+        </segment>
+      </unit>
+      <unit id="981501260087296" name="input_displayusernames" xml:space="preserve">
+        <segment>
+          <source>Display Usernames</source>
+          <target>Wyświetl nazwy użytkowników</target>
+        </segment>
+      </unit>
+      <unit id="981560374607872" name="input_canceltutorial" xml:space="preserve">
+        <segment>
+          <source>Cancel Tutorial</source>
+          <target>Anuluj samouczek</target>
+        </segment>
+      </unit>
+      <unit id="981562882801664" name="input_console" xml:space="preserve">
+        <segment>
+          <source>Console</source>
+          <target>Konsola</target>
+        </segment>
+      </unit>
+      <unit id="981565240000512" name="input_fastselectslot1" xml:space="preserve">
+        <segment>
+          <source>Fast Select Slot 1</source>
+          <target>Szybki wybór gniazda 1</target>
+        </segment>
+      </unit>
+      <unit id="981629119250432" name="input_fastselectslot2" xml:space="preserve">
+        <segment>
+          <source>Fast Select Slot 2</source>
+          <target>Szybki wybór gniazda 2</target>
+        </segment>
+      </unit>
+      <unit id="981631417729024" name="input_fastselectslot3" xml:space="preserve">
+        <segment>
+          <source>Fast Select Slot 3</source>
+          <target>Szybki wybór gniazda 3</target>
+        </segment>
+      </unit>
+      <unit id="981707489820672" name="input_fastselectslot4" xml:space="preserve">
+        <segment>
+          <source>Fast Select Slot 4</source>
+          <target>Szybki wybór gniazda 4</target>
+        </segment>
+      </unit>
+      <unit id="981715442221056" name="input_fastselectslot5" xml:space="preserve">
+        <segment>
+          <source>Fast Select Slot 5</source>
+          <target>Szybki wybór gniazda 5</target>
+        </segment>
+      </unit>
+      <unit id="981719644913664" name="input_fastselectslot6" xml:space="preserve">
+        <segment>
+          <source>Fast Select Slot 6</source>
+          <target>Szybki wybór gniazda 6</target>
+        </segment>
+      </unit>
+      <unit id="981724686467072" name="input_exitorclose" xml:space="preserve">
+        <segment>
+          <source>Exit Or Close</source>
+          <target>Wyjdź lub zamknij</target>
+        </segment>
+      </unit>
+      <unit id="1000843901157376" name="text_menu_label_community_servers" xml:space="preserve">
+        <segment>
+          <source>COMMUNITY SERVERS</source>
+          <target>SERWERY SPOŁECZNOŚCI</target>
+        </segment>
+      </unit>
+      <unit id="1000924318547968" name="text_menu_label_official_servers" xml:space="preserve">
+        <segment>
+          <source>OFFICIAL SERVERS</source>
+          <target>OFICJALNE SERWERY</target>
+        </segment>
+      </unit>
+      <unit id="1098921429712896" name="text_menu_label_cloth_slot_body" xml:space="preserve">
+        <segment>
+          <source>Body</source>
+          <target>Ciało</target>
+        </segment>
+      </unit>
+      <unit id="1099124522106880" name="text_menu_label_cloth_slot_head" xml:space="preserve">
+        <segment>
+          <source>Head</source>
+          <target>Głowa</target>
+        </segment>
+      </unit>
+      <unit id="1099129467191296" name="text_menu_label_cloth_slot_armor" xml:space="preserve">
+        <segment>
+          <source>Armor</source>
+          <target>Pancerz</target>
+        </segment>
+      </unit>
+      <unit id="1099132260597760" name="text_menu_label_cloth_slot_pants" xml:space="preserve">
+        <segment>
+          <source>Pants</source>
+          <target>Spodnie</target>
+        </segment>
+      </unit>
+      <unit id="1099134772985856" name="text_menu_label_cloth_slot_gloves" xml:space="preserve">
+        <segment>
+          <source>Gloves</source>
+          <target>Rękawice</target>
+        </segment>
+      </unit>
+      <unit id="1099463946158080" name="text_menu_label_cloth_slot_shoes" xml:space="preserve">
+        <segment>
+          <source>Shoes</source>
+          <target>Buty</target>
+        </segment>
+      </unit>
+      <unit id="1106784034242560" name="text_menu_label_active_build" xml:space="preserve">
+        <segment>
+          <source>Time</source>
+          <target>Czas</target>
+        </segment>
+      </unit>
+      <unit id="1107606986047488" name="text_menu_label_total_queue_time" xml:space="preserve">
+        <segment>
+          <source>TOTAL QUEUE TIME</source>
+          <target>CAŁKOWITY CZAS KOLEJKI</target>
+        </segment>
+      </unit>
+      <unit id="1107656562720768" name="text_menu_label_no_item_crafting" xml:space="preserve">
+        <segment>
+          <source>NOT ACTIVE</source>
+          <target>NIEAKTYWNE</target>
+        </segment>
+      </unit>
+      <unit id="1107682663874560" name="text_menu_label_no_queue" xml:space="preserve">
+        <segment>
+          <source>NO QUEUE</source>
+          <target>BRAK KOLEJKI</target>
+        </segment>
+      </unit>
+      <unit id="1110308348510208" name="text_menu_label_time_left" xml:space="preserve">
+        <segment>
+          <source>TIME LEFT:</source>
+          <target>POZOSTAŁY CZAS:</target>
+        </segment>
+      </unit>
+      <unit id="1110347833688064" name="text_menu_label_total_time_left" xml:space="preserve">
+        <segment>
+          <source>TOTAL TIME:</source>
+          <target>CAŁKOWITY CZAS:</target>
+        </segment>
+      </unit>
+      <unit id="1266377322414080" name="text_menu_welcome" xml:space="preserve">
+        <segment>
+          <source>Welcome to Ruins To Fortress!</source>
+          <target>Witamy w Ruins To Fortress!</target>
+        </segment>
+      </unit>
+      <unit id="1275135633145856" name="text_menu_message_player" xml:space="preserve">
+        <segment>
+          <source>Player</source>
+          <target>Gracz</target>
+        </segment>
+      </unit>
+      <unit id="1275201328529408" name="text_menu_message_joined_the_game" xml:space="preserve">
+        <segment>
+          <source>joined the game.</source>
+          <target>dołączył do gry.</target>
+        </segment>
+      </unit>
+      <unit id="1275325672865792" name="text_menu_message_left_the_game" xml:space="preserve">
+        <segment>
+          <source>left the game.</source>
+          <target>opuścił grę.</target>
+        </segment>
+      </unit>
+      <unit id="1278509078298624" name="text_menu_label_master" xml:space="preserve">
+        <segment>
+          <source>Captain</source>
+          <target>Kapitan</target>
+        </segment>
+      </unit>
+      <unit id="1278574689796096" name="text_menu_label_member" xml:space="preserve">
+        <segment>
+          <source>Member</source>
+          <target>Członek</target>
+        </segment>
+      </unit>
+      <unit id="1279688558526464" name="text_menu_label_invite_to_clan" xml:space="preserve">
+        <segment>
+          <source>INVITE</source>
+          <target>ZAPROŚ</target>
+        </segment>
+      </unit>
+      <unit id="1280056126357504" name="text_menu_label_remove_from_clan" xml:space="preserve">
+        <segment>
+          <source>REMOVE</source>
+          <target>USUŃ</target>
+        </segment>
+      </unit>
+      <unit id="1280169175433216" name="text_menu_label_leave_from_clan" xml:space="preserve">
+        <segment>
+          <source>LEAVE</source>
+          <target>OPUŚĆ</target>
+        </segment>
+      </unit>
+      <unit id="1280655362375680" name="text_menu_label_accept_clan" xml:space="preserve">
+        <segment>
+          <source>ACCEPT</source>
+          <target>ZAAKCEPTUJ</target>
+        </segment>
+      </unit>
+      <unit id="1283324105736192" name="text_menu_label_amount" xml:space="preserve">
+        <segment>
+          <source>AMOUNT</source>
+          <target>ILOŚĆ</target>
+        </segment>
+      </unit>
+      <unit id="1283384742789120" name="text_menu_label_item_type" xml:space="preserve">
+        <segment>
+          <source>TYPE</source>
+          <target>RODZAJ</target>
+        </segment>
+      </unit>
+      <unit id="1287330546860032" name="text_menu_label_crafting" xml:space="preserve">
+        <segment>
+          <source>CRAFTING</source>
+          <target>WYTWARZANIE</target>
+        </segment>
+      </unit>
+      <unit id="1312326472187904" name="text_menu_label_enter_message" xml:space="preserve">
+        <segment>
+          <source>Enter Message...</source>
+          <target>Wpisz wiadomość...</target>
+        </segment>
+      </unit>
+      <unit id="1314322436603904" name="text_menu_label_reloading" xml:space="preserve">
+        <segment>
+          <source>RELOADING...</source>
+          <target>PRZEŁADOWANIE...</target>
+        </segment>
+      </unit>
+      <unit id="1314393983041536" name="text_menu_label_bullets" xml:space="preserve">
+        <segment>
+          <source>BULLETS</source>
+          <target>POCISKI</target>
+        </segment>
+      </unit>
+      <unit id="1314531010953216" name="text_menu_label_drawing" xml:space="preserve">
+        <segment>
+          <source>DRAWING...</source>
+          <target>RYSOWANIE...</target>
+        </segment>
+      </unit>
+      <unit id="1314625529593856" name="text_menu_label_arrows" xml:space="preserve">
+        <segment>
+          <source>ARROWS</source>
+          <target>STRZAŁY</target>
+        </segment>
+      </unit>
+      <unit id="1316707317858304" name="text_menu_label_pick_up_placed_item" xml:space="preserve">
+        <segment>
+          <source>PICKUP PLACED ITEM</source>
+          <target>PODNIEŚ UMIESZCZONY PRZEDMIOT</target>
+        </segment>
+      </unit>
+      <unit id="1320823402283008" name="text_menu_label_items_in_nuke_frame" xml:space="preserve">
+        <segment>
+          <source>ITEMS PLACED: {0}</source>
+          <target>UMIESZCZONE PRZEDMIOTY: {0}</target>
+        </segment>
+      </unit>
+      <unit id="1321510802571264" name="text_menu_label_items_nuclear_bomb" xml:space="preserve">
+        <segment>
+          <source>NUCLEAR BOMB</source>
+          <target>BOMBA JĄDROWA</target>
+        </segment>
+      </unit>
+      <unit id="1321578834182144" name="text_menu_label_items_loot_storage" xml:space="preserve">
+        <segment>
+          <source>LOOT</source>
+          <target>ŁUP</target>
+        </segment>
+      </unit>
+      <unit id="1321993625681920" name="text_menu_label_items_storage" xml:space="preserve">
+        <segment>
+          <source>STORAGE</source>
+          <target>MAGAZYN</target>
+        </segment>
+      </unit>
+      <unit id="1323568939155456" name="text_menu_label_3d_printer" xml:space="preserve">
+        <segment>
+          <source>3D PRINTER</source>
+          <target>DRUKARKA 3D</target>
+        </segment>
+      </unit>
+      <unit id="1324791457136640" name="text_menu_label_open_door" xml:space="preserve">
+        <segment>
+          <source>OPEN DOOR</source>
+          <target>OTWÓRZ DRZWI</target>
+        </segment>
+      </unit>
+      <unit id="1324823224795136" name="text_menu_label_close_door" xml:space="preserve">
+        <segment>
+          <source>CLOSE DOOR</source>
+          <target>ZAMKNIJ DRZWI</target>
+        </segment>
+      </unit>
+      <unit id="1325252285317120" name="text_menu_label_help_plant_seed" xml:space="preserve">
+        <segment>
+          <source>CLICK TO PLANT SEED</source>
+          <target>Kliknij, aby zasadzić nasiono</target>
+        </segment>
+      </unit>
+      <unit id="1325594863484928" name="text_menu_label_help_field_is_growing_with_plant" xml:space="preserve">
+        <segment>
+          <source>FIELD IS GROWING </source>
+          <target>Dziedzina rośnie</target>
+        </segment>
+      </unit>
+      <unit id="1325956005642240" name="text_menu_label_help_press_to_harvest" xml:space="preserve">
+        <segment>
+          <source>PRESS USE TO HARVEST</source>
+          <target>NACIŚNIJ UŻYJ, ABY ZBIERAĆ</target>
+        </segment>
+      </unit>
+      <unit id="1326285992509440" name="text_menu_label_help_press_to_craft_item" xml:space="preserve">
+        <segment>
+          <source>PRESS TO CRAFT ITEMS</source>
+          <target>NACIŚNIJ, ABY WYTWORZYĆ PRZEDMIOTY</target>
+        </segment>
+      </unit>
+      <unit id="1328565047279616" name="text_menu_label_upgrade_costs" xml:space="preserve">
+        <segment>
+          <source>UPGRADE COSTS:</source>
+          <target>KOSZTY ULEPSZENIA:</target>
+        </segment>
+      </unit>
+      <unit id="1329206180200448" name="text_menu_label_repair_costs" xml:space="preserve">
+        <segment>
+          <source>REPAIR COSTS:</source>
+          <target>KOSZTY NAPRAWY:</target>
+        </segment>
+      </unit>
+      <unit id="1334279346077696" name="text_menu_label_respawn_in" xml:space="preserve">
+        <segment>
+          <source>You will respawn in</source>
+          <target>Odrodzisz się za</target>
+        </segment>
+      </unit>
+      <unit id="1334289575985152" name="text_menu_label_you_will_respawn_now" xml:space="preserve">
+        <segment>
+          <source>You will respawn now!</source>
+          <target>Teraz się odrodzisz!</target>
+        </segment>
+      </unit>
+      <unit id="1334414264254464" name="text_menu_label_current_survival_time" xml:space="preserve">
+        <segment>
+          <source>Current survival time</source>
+          <target>Aktualny czas przetrwania</target>
+        </segment>
+      </unit>
+      <unit id="1334749347201024" name="text_menu_label_and_you_died" xml:space="preserve">
+        <segment>
+          <source>and you died</source>
+          <target>i umarłeś</target>
+        </segment>
+      </unit>
+      <unit id="1339405800587264" name="building_1" xml:space="preserve">
+        <segment>
+          <source>Foundation</source>
+          <target>Fundament</target>
+        </segment>
+      </unit>
+      <unit id="1339408686268416" name="building_2" xml:space="preserve">
+        <segment>
+          <source>Wall</source>
+          <target>Ściana</target>
+        </segment>
+      </unit>
+      <unit id="1339410510790656" name="building_3" xml:space="preserve">
+        <segment>
+          <source>Ceiling</source>
+          <target>Sufit</target>
+        </segment>
+      </unit>
+      <unit id="1339412045905920" name="building_4" xml:space="preserve">
+        <segment>
+          <source>Door</source>
+          <target>Drzwi</target>
+        </segment>
+      </unit>
+      <unit id="1339413409054720" name="building_5" xml:space="preserve">
+        <segment>
+          <source>Roof</source>
+          <target>Dach</target>
+        </segment>
+      </unit>
+      <unit id="1339416701583360" name="building_6" xml:space="preserve">
+        <segment>
+          <source>Ladder</source>
+          <target>Drabina</target>
+        </segment>
+      </unit>
+      <unit id="1339418714849280" name="building_7" xml:space="preserve">
+        <segment>
+          <source>Block</source>
+          <target>Blok</target>
+        </segment>
+      </unit>
+      <unit id="1339882088972288" name="building_8" xml:space="preserve">
+        <segment>
+          <source>Pole</source>
+          <target>Słup</target>
+        </segment>
+      </unit>
+      <unit id="1339886191001600" name="building_9" xml:space="preserve">
+        <segment>
+          <source>Wooden High Wall</source>
+          <target>Wysoki Drewniany Mur</target>
+        </segment>
+      </unit>
+      <unit id="1339888111992832" name="building_10" xml:space="preserve">
+        <segment>
+          <source>Fence</source>
+          <target>Płot</target>
+        </segment>
+      </unit>
+      <unit id="1340428325765120" name="building_11" xml:space="preserve">
+        <segment>
+          <source>Destroy Building</source>
+          <target>Zniszcz budynek</target>
+        </segment>
+      </unit>
+      <unit id="1340430578106368" name="building_12" xml:space="preserve">
+        <segment>
+          <source>Retrieve Furniture</source>
+          <target>Odzyskaj meble</target>
+        </segment>
+      </unit>
+      <unit id="1340432163553280" name="building_13" xml:space="preserve">
+        <segment>
+          <source>Paint the back wall</source>
+          <target>Pomaluj tylną ścianę</target>
+        </segment>
+      </unit>
+      <unit id="1342880190054400" name="building_1_info" xml:space="preserve">
+        <segment>
+          <source>The Foundation forms the stable base of your house.</source>
+          <target>Fundament stanowi stabilną podstawę Twojego domu.</target>
+        </segment>
+      </unit>
+      <unit id="1342883839098880" name="building_2_info" xml:space="preserve">
+        <segment>
+          <source>Walls are essential for enclosing and protecting your base.</source>
+          <target>Ściany są niezbędne do zamknięcia i ochrony bazy.</target>
+        </segment>
+      </unit>
+      <unit id="1342885072224256" name="building_3_info" xml:space="preserve">
+        <segment>
+          <source>The ceiling completes the enclosure of your living space.</source>
+          <target>Sufit uzupełnia obudowę Twojej przestrzeni mieszkalnej.</target>
+        </segment>
+      </unit>
+      <unit id="1342886171131904" name="building_4_info" xml:space="preserve">
+        <segment>
+          <source>Doors grant access to and from rooms, providing security while allowing passage.</source>
+          <target>Drzwi umożliwiają dostęp do i z pomieszczeń, zapewniając bezpieczeństwo, jednocześnie umożliwiając przejście.</target>
+        </segment>
+      </unit>
+      <unit id="1342887202930688" name="building_5_info" xml:space="preserve">
+        <segment>
+          <source>The roof ensuring your house is covered from above. Can be used as a ramp.</source>
+          <target>Dach zapewniający osłonę Twojego domu od góry. Może służyć jako rampa.</target>
+        </segment>
+      </unit>
+      <unit id="1342887991459840" name="building_6_info" xml:space="preserve">
+        <segment>
+          <source>The Ladder allowing access to higher or lower levels easily.</source>
+          <target>Drabina umożliwia łatwy dostęp do wyższych i niższych pięter.</target>
+        </segment>
+      </unit>
+      <unit id="1342890461904896" name="building_7_info" xml:space="preserve">
+        <segment>
+          <source>Blocks can be used for creating partitions within the house.</source>
+          <target>Bloki można wykorzystać do tworzenia przegród w domu.</target>
+        </segment>
+      </unit>
+      <unit id="1342892110266368" name="building_8_info" xml:space="preserve">
+        <segment>
+          <source>Poles are used for structural support, often for holding up other building parts like ceilings.</source>
+          <target>Słupy służą do podparcia konstrukcji, często do podtrzymywania innych części budynku, takich jak sufity.</target>
+        </segment>
+      </unit>
+      <unit id="1342893192396800" name="building_9_info" xml:space="preserve">
+        <segment>
+          <source>The wooden high wall provides enhanced security outside your base.</source>
+          <target>Wysoki drewniany mur zapewnia większe bezpieczeństwo na zewnątrz bazy.</target>
+        </segment>
+      </unit>
+      <unit id="1343089922031616" name="building_10_info" xml:space="preserve">
+        <segment>
+          <source>Fences mark boundaries and make your garden look nice.</source>
+          <target>Ogrodzenia wyznaczają granice i upiększają Twój ogród.</target>
+        </segment>
+      </unit>
+      <unit id="1343091729776640" name="building_11_info" xml:space="preserve">
+        <segment>
+          <source>This option allows for the dismantling or demolition of a building part.</source>
+          <target>Opcja ta pozwala na demontaż lub rozbiórkę części budynku.</target>
+        </segment>
+      </unit>
+      <unit id="1343092954513408" name="building_12_info" xml:space="preserve">
+        <segment>
+          <source>Select this to retrieve a placed item.</source>
+          <target>Wybierz tę opcję, aby odzyskać umieszczony przedmiot.</target>
+        </segment>
+      </unit>
+      <unit id="1343094430908416" name="building_13_info" xml:space="preserve">
+        <segment>
+          <source>Use this to add a layer of paint to your base back wall.</source>
+          <target>Użyj tego, aby dodać warstwę farby do tylnej ściany bazy.</target>
+        </segment>
+      </unit>
+      <unit id="1346551518871552" name="text_menu_label_place_item" xml:space="preserve">
+        <segment>
+          <source>PLACE ITEM</source>
+          <target>UMIEŚĆ PRZEDMIOT</target>
+        </segment>
+      </unit>
+      <unit id="1346554429718528" name="text_menu_label_pickup_item" xml:space="preserve">
+        <segment>
+          <source>PICK UP ITEM</source>
+          <target>PODNIEŚ PRZEDMIOT</target>
+        </segment>
+      </unit>
+      <unit id="1346556610756608" name="text_menu_label_destroy_building" xml:space="preserve">
+        <segment>
+          <source>DESTROY BUILDING PART</source>
+          <target>ZNISZCZ CZĘŚĆ BUDYNKU</target>
+        </segment>
+      </unit>
+      <unit id="1346559307694080" name="text_menu_label_place_building" xml:space="preserve">
+        <segment>
+          <source>PLACE BUILDING</source>
+          <target>UMIEŚĆ BUDYNEK</target>
+        </segment>
+      </unit>
+      <unit id="1346561581006848" name="text_menu_label_paint_back_wall" xml:space="preserve">
+        <segment>
+          <source>PAINT BACK WALL</source>
+          <target>POMALUJ TYLNĄ ŚCIANĘ</target>
+        </segment>
+      </unit>
+      <unit id="1349767937671168" name="text_menu_info_can_not_build_here" xml:space="preserve">
+        <segment>
+          <source>Building in this area is not permitted.</source>
+          <target>Budowa na tym terenie jest zabroniona.</target>
+        </segment>
+      </unit>
+      <unit id="1359423196119040" name="text_menu_info_world_recovered" xml:space="preserve">
+        <segment>
+          <source>The world has recovered from the nuke.</source>
+          <target>Świat otrząsnął się po atomowej katastrofie.</target>
+        </segment>
+      </unit>
+      <unit id="1359549104930816" name="text_menu_info_has_detonated_a_nuke" xml:space="preserve">
+        <segment>
+          <source>has detonated a nuke, turning the world into a wasteland.</source>
+          <target>zdetonował broń jądrową, zamieniając świat w pustkowie.</target>
+        </segment>
+      </unit>
+      <unit id="1359550832984064" name="text_menu_info_world_will_recover_shortly" xml:space="preserve">
+        <segment>
+          <source>The world will recover shortly...</source>
+          <target>Świat wkrótce wstanie na nogi...</target>
+        </segment>
+      </unit>
+      <unit id="1360635672936448" name="text_menu_info_the_world_will_recover_in" xml:space="preserve">
+        <segment>
+          <source>The world will recover in</source>
+          <target>Świat odrodzi się za</target>
+        </segment>
+      </unit>
+      <unit id="1363140750360576" name="text_menu_button_detonate" xml:space="preserve">
+        <segment>
+          <source>DETONATE NUKE</source>
+          <target>ZDETONUJ ŁADUNEK JĄDROWY</target>
+        </segment>
+      </unit>
+      <unit id="1433146137788416" name="text_menu_label_retreiving_servers" xml:space="preserve">
+        <segment>
+          <source>RETRIEVING SERVERS...</source>
+          <target>POZYSKIWANIE SERWERÓW...</target>
+        </segment>
+      </unit>
+      <unit id="1433477793988608" name="text_menu_label_password_protected_enter_password" xml:space="preserve">
+        <segment>
+          <source>This server is password protected please enter password!</source>
+          <target>Ten serwer jest chroniony hasłem. Podaj hasło!</target>
+        </segment>
+      </unit>
+      <unit id="1435930719436800" name="text_menu_label_incorrect_password" xml:space="preserve">
+        <segment>
+          <source>Password is incorrect...</source>
+          <target>Hasło jest niepoprawne...</target>
+        </segment>
+      </unit>
+      <unit id="1435945173008384" name="text_menu_label_game_version_different" xml:space="preserve">
+        <segment>
+          <source>Game version is not the same as server version...</source>
+          <target>Wersja gry nie jest tożsama z wersją serwera...</target>
+        </segment>
+      </unit>
+      <unit id="1437216844038144" name="text_menu_popup_msg1" xml:space="preserve">
+        <segment>
+          <source>You already sent an invitation to this player.</source>
+          <target>Wysłałeś już zaproszenie do tego gracza.</target>
+        </segment>
+      </unit>
+      <unit id="1437220853792768" name="text_menu_popup_msg2" xml:space="preserve">
+        <segment>
+          <source>You currently can't join a clan. Each player or clan is restricted to having only one workbench. You can remove or destroy your current workbench to join a clan.</source>
+          <target>Obecnie nie możesz dołączyć do klanu. Każdy gracz lub klan może mieć tylko jeden warsztat. Możesz usunąć lub zniszczyć swój obecny warsztat, aby dołączyć do klanu.</target>
+        </segment>
+      </unit>
+      <unit id="1437223856914432" name="text_menu_popup_msg3" xml:space="preserve">
+        <segment>
+          <source>You are already in a clan. Leave your current clan to join a new one.</source>
+          <target>Jesteś już w klanie. Opuść swój obecny klan, aby dołączyć do nowego.</target>
+        </segment>
+      </unit>
+      <unit id="1437226981670912" name="text_menu_popup_msg4" xml:space="preserve">
+        <segment>
+          <source>No server selected...</source>
+          <target>Nie wybrano serwera...</target>
+        </segment>
+      </unit>
+      <unit id="1437229129154560" name="text_menu_popup_msg5" xml:space="preserve">
+        <segment>
+          <source>Server is full...</source>
+          <target>Serwer jest pełny...</target>
+        </segment>
+      </unit>
+      <unit id="1437232086138880" name="text_menu_popup_msg6" xml:space="preserve">
+        <segment>
+          <source>You are already connected to this server, try to disconnect first...</source>
+          <target>Jesteś już połączony z tym serwerem, spróbuj najpierw się rozłączyć...</target>
+        </segment>
+      </unit>
+      <unit id="1437249731575808" name="text_menu_popup_msg7" xml:space="preserve">
+        <segment>
+          <source>Connection Failed...</source>
+          <target>Połączenie nieudane...</target>
+        </segment>
+      </unit>
+      <unit id="1438454998384640" name="text_menu_popup_msg8" xml:space="preserve">
+        <segment>
+          <source>Steam is not running...</source>
+          <target>Steam nie jest uruchomiony...</target>
+        </segment>
+      </unit>
+      <unit id="1439494896369664" name="text_menu_popup_msg9" xml:space="preserve">
+        <segment>
+          <source>Retrieve server list not possible. No internet connection.</source>
+          <target>Pobranie listy serwerów nie jest możliwe. Brak połączenia z internetem.</target>
+        </segment>
+      </unit>
+      <unit id="1439564752502784" name="text_menu_popup_msg10" xml:space="preserve">
+        <segment>
+          <source>Register server not possible. No internet connection.</source>
+          <target>Rejestracja serwera nie jest możliwa. Brak połączenia z internetem.</target>
+        </segment>
+      </unit>
+      <unit id="1439580388868096" name="text_menu_popup_msg11" xml:space="preserve">
+        <segment>
+          <source>Update server not possible. No internet connection.</source>
+          <target>Aktualizacja serwera nie jest możliwa. Brak połączenia z internetem.</target>
+        </segment>
+      </unit>
+      <unit id="1439593647063040" name="text_menu_popup_msg12" xml:space="preserve">
+        <segment>
+          <source>Deregistering the server is not possible. No internet connection.</source>
+          <target>Wyrejestrowanie serwera nie jest możliwe. Brak połączenia z internetem.</target>
+        </segment>
+      </unit>
+      <unit id="1832226315845632" name="language_pl" xml:space="preserve">
+        <segment>
+          <source>Polish (pl)</source>
+          <target>Polski (pl)</target>
+        </segment>
+      </unit>
+      <unit id="2052016884170752" name="text_menu_label_day_night_cycle" xml:space="preserve">
+        <segment>
+          <source>ENABLE DAY AND NIGHT CYCLE:</source>
+          <target>WŁĄCZ CYKL DZIEŃ I NOC:</target>
+        </segment>
+      </unit>
+      <unit id="2052022332571648" name="text_menu_label_enable_npcs" xml:space="preserve">
+        <segment>
+          <source>ENABLE OUTLAW NPCS:</source>
+          <target>WŁĄCZ NPC PRZESTĘPCÓW:</target>
+        </segment>
+      </unit>
+      <unit id="2355291487485952" name="text_menu_popup_msg13" xml:space="preserve">
+        <segment>
+          <source>No internet connection.</source>
+          <target>Brak połączenia z internetem.</target>
+        </segment>
+      </unit>
+      <unit id="4522694876004352" name="info_message_36" xml:space="preserve">
+        <segment>
+          <source>is broken!</source>
+          <target>jest zepsuty!</target>
+        </segment>
+      </unit>
+      <unit id="4572255229247488" name="info_message_37" xml:space="preserve">
+        <segment>
+          <source>You're out of ammunition.</source>
+          <target>Skończyła Ci się amunicja.</target>
+        </segment>
+      </unit>
+      <unit id="4573959236550656" name="info_message_38" xml:space="preserve">
+        <segment>
+          <source>No ammunition in magazine.</source>
+          <target>Brak amunicji w magazynku.</target>
+        </segment>
+      </unit>
+      <unit id="4576249838239744" name="text_menu_label_leader" xml:space="preserve">
+        <segment>
+          <source>Captain</source>
+          <target>Kapitan</target>
+        </segment>
+      </unit>
+      <unit id="4615422188126208" name="text_menu_label_items_refill_time" xml:space="preserve">
+        <segment>
+          <source>RESTOCK TIME: {0}</source>
+          <target>Czas uzup: {0}</target>
+        </segment>
+      </unit>
+      <unit id="5249989626494976" name="text_menu_label_kicked_from_the_server" xml:space="preserve">
+        <segment>
+          <source>You have been kicked from the server.</source>
+          <target>Zostałeś wyrzucony z serwera.</target>
+        </segment>
+      </unit>
+      <unit id="5250106261700608" name="text_menu_label_banned_from_the_server" xml:space="preserve">
+        <segment>
+          <source>You have been banned from the server.</source>
+          <target>Zostałeś zbanowany na serwerze.</target>
+        </segment>
+      </unit>
+      <unit id="7127614770839552" name="text_menu_label_select" xml:space="preserve">
+        <segment>
+          <source>CONFIRM</source>
+          <target>Potwierdź</target>
+        </segment>
+      </unit>
+      <unit id="7128453988155392" name="text_menu_label_select_game" xml:space="preserve">
+        <segment>
+          <source>SELECT GAME</source>
+          <target>WYBIERZ GRĘ</target>
+        </segment>
+      </unit>
+      <unit id="7136835918823424" name="text_menu_label_deselect" xml:space="preserve">
+        <segment>
+          <source>DESELECT</source>
+          <target>Odznacz</target>
+        </segment>
+      </unit>
+      <unit id="7152122361741312" name="text_menu_label_save_game" xml:space="preserve">
+        <segment>
+          <source>SAVE GAME</source>
+          <target>Zapisz grę</target>
+        </segment>
+      </unit>
+      <unit id="7155540820164608" name="info_message_40" xml:space="preserve">
+        <segment>
+          <source>GAME IS SAVING...</source>
+          <target>GRA SIĘ ZAPISUJE...</target>
+        </segment>
+      </unit>
+      <unit id="7155736501223424" name="info_message_41" xml:space="preserve">
+        <segment>
+          <source>GAME SAVED!</source>
+          <target>GRA ZAPISANA!</target>
+        </segment>
+      </unit>
+      <unit id="8220293523431424" name="text_menu_popup_msg14" xml:space="preserve">
+        <segment>
+          <source>You can not connect to a game hosted by yourself.</source>
+          <target>Nie możesz połączyć się z grą hostowaną przez siebie.</target>
+        </segment>
+      </unit>
+      <unit id="11066478136852480" name="text_menu_label_info" xml:space="preserve">
+        <segment>
+          <source>INFO:</source>
+          <target>INFO:</target>
+        </segment>
+      </unit>
+      <unit id="11067338413768704" name="text_menu_label_day" xml:space="preserve">
+        <segment>
+          <source>DAY</source>
+          <target>Dzień</target>
+        </segment>
+      </unit>
+      <unit id="11102730630397952" name="text_menu_label_game_mode" xml:space="preserve">
+        <segment>
+          <source>GAME MODE:</source>
+          <target>TRYB GRY:</target>
+        </segment>
+      </unit>
+      <unit id="14390310734069760" name="input_greetings" xml:space="preserve">
+        <segment>
+          <source>Greetings:</source>
+          <target>Pozdrowienia:</target>
+        </segment>
+      </unit>
+      <unit id="14503492643389440" name="info_message_42" xml:space="preserve">
+        <segment>
+          <source>This item must be positioned on either a foundation or a ceiling.</source>
+          <target>Ten przedmiot musi być umieszczony na fundamencie lub na suficie.</target>
+        </segment>
+      </unit>
+      <unit id="17403467220058112" name="item_Wooden Club" xml:space="preserve">
+        <segment>
+          <source>Wooden Club</source>
+          <target>Drewniany kij</target>
+        </segment>
+      </unit>
+      <unit id="17403483779170304" name="item_Wooden Club_info" xml:space="preserve">
+        <segment>
+          <source>A weak but versatile tool. Cuts wood, mines ore, and loots containers.</source>
+          <target>Słabe, lecz wszechstronne narzędzie. Tnie drewno, wydobywa rudę i plądruje pojemniki.</target>
+        </segment>
+      </unit>
+      <unit id="17579030308126720" name="text_help_attack" xml:space="preserve">
+        <segment>
+          <source>Press the left mouse button to use a weapon or tool.</source>
+          <target>Naciśnij lewy przycisk myszy, aby użyć broni lub narzędzia.</target>
+        </segment>
+      </unit>
+      <unit id="17580393268183040" name="text_console_tutorial_finished1" xml:space="preserve">
+        <segment>
+          <source>Tutorial complete! You're on your own now.</source>
+          <target>Samouczek zakończony! Teraz jesteś zdany na siebie.</target>
+        </segment>
+      </unit>
+      <unit id="17582658087485440" name="text_console_tutorial_finished2" xml:space="preserve">
+        <segment>
+          <source>Find a boat to float past obstacles!</source>
+          <target>Znajdź łódź, która prześlizgnie się obok przeszkód!</target>
+        </segment>
+      </unit>
+      <unit id="17582799741714432" name="text_console_tutorial_finished3" xml:space="preserve">
+        <segment>
+          <source>Good Luck!</source>
+          <target>Powodzenia!</target>
+        </segment>
+      </unit>
+      <unit id="18354536729214976" name="item_Headlamp" xml:space="preserve">
+        <segment>
+          <source>Headlamp</source>
+          <target>Latarka Czołowa</target>
+        </segment>
+      </unit>
+      <unit id="18354579687276544" name="item_Headlamp_info" xml:space="preserve">
+        <segment>
+          <source>Hands-free light for night exploration. Can be turned on and off.</source>
+          <target>Oświetlenie bez użycia rąk do nocnych eksploracji. Może być włączane i wyłączane.</target>
+        </segment>
+      </unit>
+      <unit id="20574206429429760" name="disclaimer_label" xml:space="preserve">
+        <segment>
+          <source>This game is still in development</source>
+          <target>Ta gra jest nadal w fazie rozwoju</target>
+        </segment>
+      </unit>
+      <unit id="20574250926800896" name="disclaimer_info_text" xml:space="preserve">
+        <segment>
+          <source>Ruins to Fortress is an indie passion project, and the game is still in Early Access. Many things may change before the final release.
+
+Certain game or platform features aren't available yet, and you will probably encounter bugs. Feel free to drop feedback on our Discord channel where we try to respond every day.
+
+Thank you for understanding as we continue work on the game.
+
+Simon and Markus, 
+
+Ruins to Fortress devs</source>
+          <target>Ruins to Fortress to indie projekt z pasją, a gra wciąż jest w Wczesnym Dostępie. Wiele rzeczy może się zmienić przed finalną wersją.
+
+Niektóre funkcje gry lub platformy nie są jeszcze dostępne, a prawdopodobnie napotkasz błędy. Zachęcamy do dzielenia się uwagami na naszym kanale Discord, gdzie staramy się odpowiadać codziennie.
+
+Dziękujemy za zrozumienie, podczas gdy kontynuujemy pracę nad grą.
+
+Simon i Markus,
+
+Twórcy Ruins to Fortress</target>
+        </segment>
+      </unit>
+      <unit id="20628166091669504" name="text_menu_label_continue" xml:space="preserve">
+        <segment>
+          <source>continue</source>
+          <target>kontynuować</target>
+        </segment>
+      </unit>
+      <unit id="25019591025688576" name="text_menu_label_comfortzone" xml:space="preserve">
+        <segment>
+          <source>COMFORT ZONE</source>
+          <target>Strefa komfortu</target>
+        </segment>
+      </unit>
+      <unit id="29170667392008192" name="item_Knife" xml:space="preserve">
+        <segment>
+          <source>Knife</source>
+          <target>Nóż</target>
+        </segment>
+      </unit>
+      <unit id="29170702376697856" name="item_Knife_info" xml:space="preserve">
+        <segment>
+          <source>NPC Knife</source>
+          <target>Nóż NPC</target>
+        </segment>
+      </unit>
+      <unit id="29170735587196928" name="item_Battery" xml:space="preserve">
+        <segment>
+          <source>Battery</source>
+          <target>Bateria</target>
+        </segment>
+      </unit>
+      <unit id="29170757145919488" name="item_Battery_info" xml:space="preserve">
+        <segment>
+          <source>Power source for various electronic devices.</source>
+          <target>Źródło zasilania dla różnych urządzeń elektronicznych.</target>
+        </segment>
+      </unit>
+      <unit id="29170777530236928" name="item_Fuse Box" xml:space="preserve">
+        <segment>
+          <source>Fuse Box</source>
+          <target>Skrzynka bezpiecznikowa</target>
+        </segment>
+      </unit>
+      <unit id="29170794563305472" name="item_Fuse Box_info" xml:space="preserve">
+        <segment>
+          <source>A central hub for managing and distributing electricity. Connects to batteries and solar panels.</source>
+          <target>Centralny węzeł do zarządzania i dystrybucji energii elektrycznej. Łączy się z bateriami i panelami słonecznymi.</target>
+        </segment>
+      </unit>
+      <unit id="29170813014048768" name="item_Solar Panel" xml:space="preserve">
+        <segment>
+          <source>Solar Panel</source>
+          <target>Panel słoneczny</target>
+        </segment>
+      </unit>
+      <unit id="29170828876906496" name="item_Solar Panel_info" xml:space="preserve">
+        <segment>
+          <source>Converts sunlight into electricity. Provides a sustainable power source for various devices.</source>
+          <target>Przetwarza światło słoneczne na energię elektryczną. Zapewnia zrównoważone źródło zasilania dla różnych urządzeń.</target>
+        </segment>
+      </unit>
+      <unit id="29170862091599872" name="item_Satoshi Miner" xml:space="preserve">
+        <segment>
+          <source>Satoshi Miner</source>
+          <target>Górnik Satoshi</target>
+        </segment>
+      </unit>
+      <unit id="29170910825218048" name="item_Satoshi Miner_info" xml:space="preserve">
+        <segment>
+          <source>Generates cryptocurrency by solving complex algorithms. Requires electricity to operate.</source>
+          <target>Generuje kryptowalutę przez rozwiązywanie skomplikowanych algorytmów. Wymaga elektryczności do działania.</target>
+        </segment>
+      </unit>
+      <unit id="29170934397206528" name="item_Satoshi Mining Rack" xml:space="preserve">
+        <segment>
+          <source>Satoshi Mining Rack</source>
+          <target>Regał do kopania Satoshi</target>
+        </segment>
+      </unit>
+      <unit id="29170958397014016" name="item_Satoshi Mining Rack_info" xml:space="preserve">
+        <segment>
+          <source>Houses multiple Satoshi Miners, increasing cryptocurrency production.</source>
+          <target>Mieszczą multiple Satoshi Miners, zwiększając produkcję kryptowaluty.</target>
+        </segment>
+      </unit>
+      <unit id="29170977481097216" name="item_Planter Box" xml:space="preserve">
+        <segment>
+          <source>Planter Box</source>
+          <target>Skrzynka do sadzenia</target>
+        </segment>
+      </unit>
+      <unit id="29171011278798848" name="item_Planter Box_info" xml:space="preserve">
+        <segment>
+          <source>Used for growing crops and plants. Provides a sustainable food source.</source>
+          <target>Używane do uprawy roślin i plonów. Zapewnia zrównoważone źródło żywności.</target>
+        </segment>
+      </unit>
+      <unit id="29188471633674240" name="item_Industrial Lamp" xml:space="preserve">
+        <segment>
+          <source>Industrial Lamp</source>
+          <target>Lampa przemysłowa</target>
+        </segment>
+      </unit>
+      <unit id="29188491795693568" name="item_Industrial Lamp_info" xml:space="preserve">
+        <segment>
+          <source>Used for growing crops and plants. Provides a sustainable food source. Requires electricity to operate.</source>
+          <target>Używane do uprawy roślin i plonów. Zapewnia zrównoważone źródło pożywienia. Wymaga zasilania elektrycznego do działania.</target>
+        </segment>
+      </unit>
+      <unit id="29188517632606208" name="item_Ceiling Lamp" xml:space="preserve">
+        <segment>
+          <source>Ceiling Lamp</source>
+          <target>Lampa sufitowa</target>
+        </segment>
+      </unit>
+      <unit id="29188527975759872" name="item_Ceiling Lamp_info" xml:space="preserve">
+        <segment>
+          <source>Light source. Requires electricity to operate.</source>
+          <target>Źródło światła. Wymaga zasilania elektrycznego do działania.</target>
+        </segment>
+      </unit>
+      <unit id="29231796533264384" name="item_Advanced Planter Box" xml:space="preserve">
+        <segment>
+          <source>Advanced Planter Box</source>
+          <target>Zaawansowana skrzynka na rośliny</target>
+        </segment>
+      </unit>
+      <unit id="29231925478752256" name="item_Advanced Planter Box_info" xml:space="preserve">
+        <segment>
+          <source>Used for growing crops and plants. Requires electricity to operate.</source>
+          <target>Używany do uprawy roślin i zbóż. Wymaga zasilania elektrycznego.</target>
+        </segment>
+      </unit>
+      <unit id="29695278357610496" name="text_button_turn_all_on" xml:space="preserve">
+        <segment>
+          <source>Turn all on</source>
+          <target>Włącz wszystko</target>
+        </segment>
+      </unit>
+      <unit id="29695359047630848" name="text_button_turn_all_off" xml:space="preserve">
+        <segment>
+          <source>Turn all off</source>
+          <target>Wyłącz wszystko</target>
+        </segment>
+      </unit>
+      <unit id="29699994210729984" name="text_button_label_electric_input" xml:space="preserve">
+        <segment>
+          <source>energy input: &lt;color=#428236&gt;{0}&lt;/color&gt;</source>
+          <target>wejście energii: &lt;color=#428236&gt;{0}&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="29700136125005824" name="text_button_label_electric_output" xml:space="preserve">
+        <segment>
+          <source>energy output: &lt;color=#d94f4f&gt;{0}&lt;/color&gt;</source>
+          <target>wyjście energii &lt;color=#d94f4f&gt;{0}&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="29700322532458496" name="text_button_label_electric_battery" xml:space="preserve">
+        <segment>
+          <source>battery: &lt;color=#a5bbb1&gt;{0}&lt;/color&gt;</source>
+          <target>bateria: &lt;color=#a5bbb1&gt;{0}&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="31889568378847232" name="item_Electronic Scrap" xml:space="preserve">
+        <segment>
+          <source>Electronic Scrap</source>
+          <target>Złom elektroniczny</target>
+        </segment>
+      </unit>
+      <unit id="31889582048083968" name="item_Electronic Scrap_info" xml:space="preserve">
+        <segment>
+          <source>Electronic Scrap used in advanced crafting and construction. Obtained from loot containers.</source>
+          <target>Złom elektroniczny używany w zaawansowanym rzemiośle i budownictwie. Pozyskiwany z pojemników na łupy.</target>
+        </segment>
+      </unit>
+      <unit id="32622647615619072" name="text_menu_help_select_with_mouse" xml:space="preserve">
+        <segment>
+          <source>Select an Interactable Item with the Mouse Cursor</source>
+          <target>Wybierz element interaktywny za pomocą kursora myszy</target>
+        </segment>
+      </unit>
+      <unit id="32875137401552896" name="text_menu_help_select_door_with_mouse" xml:space="preserve">
+        <segment>
+          <source>Select Door with the Mouse Cursor</source>
+          <target>Wybierz drzwi za pomocą kursora myszy</target>
+        </segment>
+      </unit>
+      <unit id="32875234818457600" name="text_menu_help_select_chest_with_mouse" xml:space="preserve">
+        <segment>
+          <source>Select Chest with the Mouse Cursor</source>
+          <target>Wybierz skrzynię za pomocą kursora myszy</target>
+        </segment>
+      </unit>
+      <unit id="32875257241206784" name="text_menu_help_select_vendingmachine_with_mouse" xml:space="preserve">
+        <segment>
+          <source>Select Vendingmachine with the Mouse Cursor</source>
+          <target>Wybierz automat sprzedający za pomocą kursora myszy</target>
+        </segment>
+      </unit>
+      <unit id="33207713861402624" name="text_menu_help_pick_a_hammer" xml:space="preserve">
+        <segment>
+          <source>Select the hammer tool to interact with buildings and items.</source>
+          <target>Wybierz narzędzie młotek, aby wchodzić w interakcje z budynkami i przedmiotami.</target>
+        </segment>
+      </unit>
+      <unit id="33316889056968704" name="text_menu_help_eat_food_1" xml:space="preserve">
+        <segment>
+          <source>To gain more health and calories, eat and cook nutritious food</source>
+          <target>Aby zyskać więcej zdrowia i kalorii, jedz i gotuj pożywne jedzenie</target>
+        </segment>
+      </unit>
+      <unit id="33316952235769856" name="text_menu_help_eat_food_2" xml:space="preserve">
+        <segment>
+          <source>Select the food items from the inventory AND PRESS</source>
+          <target>Wybierz produkty spożywcze z inwentarza I NACIŚNIJ</target>
+        </segment>
+      </unit>
+      <unit id="34288117808824320" name="info_message_43" xml:space="preserve">
+        <segment>
+          <source>Cannot turn on electric, all batteries are empty.</source>
+          <target>Nie można włączyć prądu, wszystkie baterie są rozładowane.</target>
+        </segment>
+      </unit>
+      <unit id="34386819206545408" name="info_message_44" xml:space="preserve">
+        <segment>
+          <source>A Workbench is necessary to control a fuse box.</source>
+          <target>Do kontrolowania skrzynki bezpiecznikowej potrzebny jest stół warsztatowy.</target>
+        </segment>
+      </unit>
+      <unit id="34387705412648960" name="text_menu_label_seed" xml:space="preserve">
+        <segment>
+          <source>Seed</source>
+          <target>Nasiono</target>
+        </segment>
+      </unit>
+      <unit id="36065537535971328" name="text_menu_label_rack_hashrate" xml:space="preserve">
+        <segment>
+          <source>Global Hashrate: {0}</source>
+          <target>Globalna moc haszowania: {0}</target>
+        </segment>
+      </unit>
+      <unit id="36065568523489280" name="text_menu_label_global_hashrate" xml:space="preserve">
+        <segment>
+          <source>Rack Hashrate: {0}</source>
+          <target>Wskaźnik hashowania racka: {0}</target>
+        </segment>
+      </unit>
+      <unit id="36853459911376896" name="text_menu_label_dronepickupstation" xml:space="preserve">
+        <segment>
+          <source>Drone Pickup Station</source>
+          <target>Stacja odbioru dronów</target>
+        </segment>
+      </unit>
+      <unit id="51011593676455936" name="item_Chicken_Egg" xml:space="preserve">
+        <segment>
+          <source>Chicken Egg</source>
+          <target>Jajko kurze</target>
+        </segment>
+      </unit>
+      <unit id="51011813869027328" name="item_Chicken Egg_info" xml:space="preserve">
+        <segment>
+          <source>Edible egg. Good source of protein and nutrition.</source>
+          <target>Jadalne jajko. Dobre źródło białka i wartości odżywczych.</target>
+        </segment>
+      </unit>
+      <unit id="51011859519832064" name="item_Chicken" xml:space="preserve">
+        <segment>
+          <source>Chicken</source>
+          <target>Kurczak</target>
+        </segment>
+      </unit>
+      <unit id="51011911512424448" name="item_Chicken_info" xml:space="preserve">
+        <segment>
+          <source>To produce eggs for food, a chicken coop is required.</source>
+          <target>Aby produkować jajka do jedzenia, potrzebny jest kurnik.</target>
+        </segment>
+      </unit>
+      <unit id="51012086700113920" name="item_Chicken House" xml:space="preserve">
+        <segment>
+          <source>Chicken House</source>
+          <target>Kurnik</target>
+        </segment>
+      </unit>
+      <unit id="51012223568642048" name="item_Chicken House_info" xml:space="preserve">
+        <segment>
+          <source>Shelter for hens and rooster. Provides a safe environment for egg production.</source>
+          <target>Schronienie dla kur i koguta. Zapewnia bezpieczne środowisko do produkcji jaj.</target>
+        </segment>
+      </unit>
+      <unit id="51012248512167936" name="item_Companion" xml:space="preserve">
+        <segment>
+          <source>Companion</source>
+          <target>Towarzysz</target>
+        </segment>
+      </unit>
+      <unit id="51012326366838784" name="item_Companion_info" xml:space="preserve">
+        <segment>
+          <source>A loyal companion that follows you to your base.</source>
+          <target>Lojalny towarzysz, który podąża za tobą do twojej bazy.</target>
+        </segment>
+      </unit>
+      <unit id="51486184102363136" name="text_menu_label_chickens" xml:space="preserve">
+        <segment>
+          <source>Chickens</source>
+          <target>Kury</target>
+        </segment>
+      </unit>
+      <unit id="51735885816987648" name="item_Wild Chicken" xml:space="preserve">
+        <segment>
+          <source>Wild Chicken</source>
+          <target>Dziki kurczak</target>
+        </segment>
+      </unit>
+      <unit id="51735910940868608" name="item_Wild Chicken_info" xml:space="preserve">
+        <segment>
+          <source>Wild chicken. Can be tamed and domesticated for egg production.</source>
+          <target>Dzika kura. Może zostać oswojona i udomowiona do produkcji jaj.</target>
+        </segment>
+      </unit>
+      <unit id="54002195754057728" name="warning_no_workbench" xml:space="preserve">
+        <segment>
+          <source>No Workbench</source>
+          <target>Brak stołu warsztatowego</target>
+        </segment>
+      </unit>
+      <unit id="54002294223732736" name="warning_not_enough_resources" xml:space="preserve">
+        <segment>
+          <source>Insufficient Materials</source>
+          <target>Niewystarczające materiały</target>
+        </segment>
+      </unit>
+      <unit id="54007656448458752" name="warning_landing_permitted" xml:space="preserve">
+        <segment>
+          <source>Landing Denied</source>
+          <target>Lądowanie odrzucone</target>
+        </segment>
+      </unit>
+      <unit id="54009140229636096" name="warning_not_permitted" xml:space="preserve">
+        <segment>
+          <source>Not Permitted</source>
+          <target>Niedozwolone</target>
+        </segment>
+      </unit>
+      <unit id="54197820873441280" name="warning_inventory_full" xml:space="preserve">
+        <segment>
+          <source>Inventory Full</source>
+          <target>Pełny stan magazynu</target>
+        </segment>
+      </unit>
+      <unit id="55288823856431104" name="text_menu_label_skins" xml:space="preserve">
+        <segment>
+          <source>Custom Skins</source>
+          <target>Custom Skins</target>
+        </segment>
+      </unit>
+      <unit id="55289688130519040" name="text_menu_button_clothing" xml:space="preserve">
+        <segment>
+          <source>Clothing</source>
+          <target>Odzież</target>
+        </segment>
+      </unit>
+      <unit id="55289781114044416" name="text_menu_button_weapon_and_tools" xml:space="preserve">
+        <segment>
+          <source>Weapon And Tools</source>
+          <target>Bronie i Narzędzia</target>
+        </segment>
+      </unit>
+      <unit id="55290095741370368" name="text_menu_button_others" xml:space="preserve">
+        <segment>
+          <source>Others</source>
+          <target>Inni</target>
+        </segment>
+      </unit>
+      <unit id="55357687877271552" name="text_menu_label_preview_skin" xml:space="preserve">
+        <segment>
+          <source>Skin Demo</source>
+          <target>Demo Skina</target>
+        </segment>
+      </unit>
+      <unit id="55357788255354880" name="text_menu_label_select_base_item" xml:space="preserve">
+        <segment>
+          <source>Select Item And Choose Skin</source>
+          <target>Wybierz przedmiot i wybierz skórkę</target>
+        </segment>
+      </unit>
+      <unit id="55625548873007104" name="text_menu_label_skin" xml:space="preserve">
+        <segment>
+          <source>Skin</source>
+          <target>Skin</target>
+        </segment>
+      </unit>
+      <unit id="55994273413398528" name="text_menu_button_set_skin_default" xml:space="preserve">
+        <segment>
+          <source>Set Default</source>
+          <target>Ustaw jako domyślne</target>
+        </segment>
+      </unit>
+      <unit id="56082272897662976" name="text_menu_label_select_item_category" xml:space="preserve">
+        <segment>
+          <source>Choose Game Item Category</source>
+          <target>Wybierz kategorię przedmiotów w grze</target>
+        </segment>
+      </unit>
+      <unit id="59684654227324928" name="text_menu_label_enable_server_cheats" xml:space="preserve">
+        <segment>
+          <source>CHEATS ENABLED:</source>
+          <target>OSZUSTWA WŁĄCZONE:</target>
+        </segment>
+      </unit>
+      <unit id="61618430943625216" name="item_Medikit" xml:space="preserve">
+        <segment>
+          <source>Medikit</source>
+          <target>apteczka</target>
+        </segment>
+      </unit>
+      <unit id="61618462132469760" name="item_Medikit_info" xml:space="preserve">
+        <segment>
+          <source>The best health item in the game. Instantly restores full health.</source>
+          <target>Najlepszy przedmiot zdrowotny w grze. Natychmiast przywraca pełne zdrowie.</target>
+        </segment>
+      </unit>
+      <unit id="61807379892862976" name="text_menu_label_news_1" xml:space="preserve">
+        <segment>
+          <source>Buy the dlc now</source>
+          <target>Kup DLC teraz</target>
+        </segment>
+      </unit>
+      <unit id="61807487124439040" name="text_menu_text_news_1" xml:space="preserve">
+        <segment>
+          <source>Enhance your gaming experience with the one and only DLC ever released.</source>
+          <target>Ulepsz swoje wrażenia z gry dzięki jedynemu w swoim rodzaju DLC, jakie kiedykolwiek wydano.</target>
+        </segment>
+      </unit>
+      <unit id="61807596868403200" name="text_menu_label_news_2" xml:space="preserve">
+        <segment>
+          <source>Road to Full Release</source>
+          <target>Droga do pełnego wydania</target>
+        </segment>
+      </unit>
+      <unit id="61807603692535808" name="text_menu_text_news_2" xml:space="preserve">
+        <segment>
+          <source>Discover our plans and what’s coming next.</source>
+          <target>Odkryj nasze plany i to, co nadejdzie dalej.</target>
+        </segment>
+      </unit>
+      <unit id="61807732327645184" name="text_menu_label_news_3" xml:space="preserve">
+        <segment>
+          <source>Join our Community</source>
+          <target>Dołącz do naszej społeczności</target>
+        </segment>
+      </unit>
+      <unit id="61807743027314688" name="text_menu_text_news_3" xml:space="preserve">
+        <segment>
+          <source>Be part of our Discord community and stay connected!</source>
+          <target>Dołącz do naszej społeczności na Discordzie i pozostań w kontakcie!</target>
+        </segment>
+      </unit>
+      <unit id="63793016627281920" name="info_message_45" xml:space="preserve">
+        <segment>
+          <source>was killed by</source>
+          <target>został zabity przez</target>
+        </segment>
+      </unit>
+      <unit id="65116157753098240" name="warning_currently_eating" xml:space="preserve">
+        <segment>
+          <source>Currently Eating...</source>
+          <target>Obecnie jem...</target>
+        </segment>
+      </unit>
+      <unit id="65428377854738432" name="warning_not_possible" xml:space="preserve">
+        <segment>
+          <source>Not Possible</source>
+          <target>Nie możliwe</target>
+        </segment>
+      </unit>
+      <unit id="65431273396699136" name="text_help_rotate_building" xml:space="preserve">
+        <segment>
+          <source>Rotate</source>
+          <target>Obrócić</target>
+        </segment>
+      </unit>
+      <unit id="65432021593423872" name="text_help_destroy" xml:space="preserve">
+        <segment>
+          <source>Destroy</source>
+          <target>Zniszczyć</target>
+        </segment>
+      </unit>
+      <unit id="65432235209326592" name="text_help_paint" xml:space="preserve">
+        <segment>
+          <source>Paint</source>
+          <target>Malować</target>
+        </segment>
+      </unit>
+      <unit id="65823185744101376" name="item_Xmas Tree" xml:space="preserve">
+        <segment>
+          <source>Xmas Tree</source>
+          <target>Choinka</target>
+        </segment>
+      </unit>
+      <unit id="65823220665876480" name="item_Xmas Tree_info" xml:space="preserve">
+        <segment>
+          <source>Festive Xmas tree with lights and ornaments for holiday cheer.</source>
+          <target>Świąteczna choinka z lampkami i ozdobami na radość świąteczną.</target>
+        </segment>
+      </unit>
+      <unit id="66843148546146304" name="text_menu_label_retreiving_inventory" xml:space="preserve">
+        <segment>
+          <source>RETRIEVING INVENTORY...</source>
+          <target>POBIERANIE EKWIPUNKU Steam...</target>
+        </segment>
+      </unit>
+      <unit id="67396407023304704" name="text_menu_popup_msg19" xml:space="preserve">
+        <segment>
+          <source>Failed to connect to the server browser.</source>
+          <target>Nie udało się połączyć z przeglądarką serwera.</target>
+        </segment>
+      </unit>
+      <unit id="68331088845668352" name="text_menu_label_crafting_menu" xml:space="preserve">
+        <segment>
+          <source>CRAFTING MENU</source>
+          <target>MENU KRAFTOWANIA</target>
+        </segment>
+      </unit>
+      <unit id="68358857914777600" name="text_menu_label_crafting_all_items" xml:space="preserve">
+        <segment>
+          <source>ALL ITEMS</source>
+          <target>WSZYSTKIE POZYCJE</target>
+        </segment>
+      </unit>
+      <unit id="68358956778717184" name="text_menu_label_crafting_common_items" xml:space="preserve">
+        <segment>
+          <source>COMMON</source>
+          <target>PRZEDMIOTY OGÓLNE</target>
+        </segment>
+      </unit>
+      <unit id="68358998151331840" name="text_menu_label_crafting_tools_items" xml:space="preserve">
+        <segment>
+          <source>TOOLS</source>
+          <target>Narzędzia</target>
+        </segment>
+      </unit>
+      <unit id="68359042539651072" name="text_menu_label_crafting_weapons_items" xml:space="preserve">
+        <segment>
+          <source>Weapons</source>
+          <target>Bronie</target>
+        </segment>
+      </unit>
+      <unit id="68359105168998400" name="text_menu_label_crafting_clothing_items" xml:space="preserve">
+        <segment>
+          <source>CLOTHING</source>
+          <target>Odzież</target>
+        </segment>
+      </unit>
+      <unit id="68359184663642112" name="text_menu_label_crafting_furniture_items" xml:space="preserve">
+        <segment>
+          <source>FURNITURE</source>
+          <target>Meble</target>
+        </segment>
+      </unit>
+      <unit id="68359268281286656" name="text_menu_label_crafting_electric_items" xml:space="preserve">
+        <segment>
+          <source>ELECTRIC</source>
+          <target>ELEKTRYCZNY</target>
+        </segment>
+      </unit>
+      <unit id="68359518240833536" name="text_menu_label_crafting_no_queue" xml:space="preserve">
+        <segment>
+          <source>NO QUEUE...</source>
+          <target>BRAK KOLEJKI...</target>
+        </segment>
+      </unit>
+      <unit id="68380528193241088" name="text_menu_label_item_name" xml:space="preserve">
+        <segment>
+          <source>Item Name...</source>
+          <target>Nazwa Przedmiotu...</target>
+        </segment>
+      </unit>
+      <unit id="68857948818046976" name="text_menu_message_server_restart" xml:space="preserve">
+        <segment>
+          <source>The server will restart in a moment. Please be prepared.</source>
+          <target>Serwer zostanie zrestartowany za chwilę. Proszę się przygotować.</target>
+        </segment>
+      </unit>
+      <unit id="68860284097462272" name="text_menu_message_server_stop" xml:space="preserve">
+        <segment>
+          <source>The server will stop in a moment. Please be prepared.</source>
+          <target>Serwer zatrzyma się za chwilę. Proszę się przygotować.</target>
+        </segment>
+      </unit>
+      <unit id="79710381135822848" name="text_menu_button_buy_the_dlc" xml:space="preserve">
+        <segment>
+          <source>Buy DLC</source>
+          <target>Kup DLC</target>
+        </segment>
+      </unit>
+      <unit id="81436672205717504" name="warning_hungry" xml:space="preserve">
+        <segment>
+          <source>Hungry</source>
+          <target>Głodny</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

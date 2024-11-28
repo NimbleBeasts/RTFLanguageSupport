@@ -1,0 +1,3880 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="zh-Hans" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="4ef16e20ccb4078418efed374a180d6f" original="Assets/Localization/UI_zh-Hans.asset">
+    <group id="0c76bbff638ab0c4d8f51c6185db31e5" name="UI">
+      <unit id="1660000006" name="text_menu_label_sell" xml:space="preserve">
+        <segment>
+          <source>SELL</source>
+          <target>出售</target>
+        </segment>
+      </unit>
+      <unit id="1660000007" name="text_menu_label_buy" xml:space="preserve">
+        <segment>
+          <source>BUY</source>
+          <target>购买</target>
+        </segment>
+      </unit>
+      <unit id="1660000040" name="text_help_press_to_collect_open_or_use" xml:space="preserve">
+        <segment>
+          <source>PRESS TO ACCESS, COLLECT, OR USE</source>
+          <target>按压以访问、收集或使用</target>
+        </segment>
+      </unit>
+      <unit id="1660000041" name="text_help_press_to_open_inventory" xml:space="preserve">
+        <segment>
+          <source>PRESS TO OPEN INVENTORY</source>
+          <target>按下打开库存</target>
+        </segment>
+      </unit>
+      <unit id="1660000042" name="text_menu_42" xml:space="preserve">
+        <segment>
+          <source>Low</source>
+          <target>低</target>
+        </segment>
+      </unit>
+      <unit id="1660000043" name="text_menu_label_players" xml:space="preserve">
+        <segment>
+          <source>PLAYERS:</source>
+          <target>玩家：</target>
+        </segment>
+      </unit>
+      <unit id="1660000044" name="text_menu_button_join_selected_server" xml:space="preserve">
+        <segment>
+          <source>JOIN SELECTED SERVER</source>
+          <target>加入所选服务器</target>
+        </segment>
+      </unit>
+      <unit id="1660000045" name="text_help_turn_left_or_right" xml:space="preserve">
+        <segment>
+          <source>TURN LEFT OR RIGHT</source>
+          <target>向左转或向右转</target>
+        </segment>
+      </unit>
+      <unit id="1660000046" name="text_menu_button_graphic_settings" xml:space="preserve">
+        <segment>
+          <source>GRAPHIC SETTINGS</source>
+          <target>图形设置</target>
+        </segment>
+      </unit>
+      <unit id="1660000047" name="text_menu_label_set_graphics_quality" xml:space="preserve">
+        <segment>
+          <source>SET GRAPHICS QUALITY:</source>
+          <target>设置图形质量：</target>
+        </segment>
+      </unit>
+      <unit id="1660000048" name="text_menu_label_connect_to_server" xml:space="preserve">
+        <segment>
+          <source>CONNECT TO SERVER</source>
+          <target>连接到服务器</target>
+        </segment>
+      </unit>
+      <unit id="1660000049" name="text_menu_label_show" xml:space="preserve">
+        <segment>
+          <source>SHOW:</source>
+          <target>展示：</target>
+        </segment>
+      </unit>
+      <unit id="1660000050" name="text_help_comfort_zone" xml:space="preserve">
+        <segment>
+          <source>COMFORT ZONE</source>
+          <target>舒适区</target>
+        </segment>
+      </unit>
+      <unit id="1660000051" name="text_menu_label_limit_fps" xml:space="preserve">
+        <segment>
+          <source>LIMIT FRAMES PER SECOND:</source>
+          <target>限制每秒帧数：</target>
+        </segment>
+      </unit>
+      <unit id="1660000052" name="text_menu_52" xml:space="preserve">
+        <segment>
+          <source>NEW GAME</source>
+          <target>新游戏</target>
+        </segment>
+      </unit>
+      <unit id="1660000053" name="text_help_near_workbench" xml:space="preserve">
+        <segment>
+          <source>Near a workbench, you can craft items. You can also upgrade the workbench using a hammer tool</source>
+          <target>在工作台附近，你可以制作物品。你也可以用锤子工具升级工作台。</target>
+        </segment>
+      </unit>
+      <unit id="1660000054" name="text_menu_label_ping" xml:space="preserve">
+        <segment>
+          <source>PING:</source>
+          <target>PING：</target>
+        </segment>
+      </unit>
+      <unit id="1660000055" name="text_menu_55" xml:space="preserve">
+        <segment>
+          <source>This server is password protected, please enter password!</source>
+          <target>此服务器受密码保护，请输入密码！</target>
+        </segment>
+      </unit>
+      <unit id="1660000056" name="text_menu_label_item" xml:space="preserve">
+        <segment>
+          <source>ITEM</source>
+          <target>项目</target>
+        </segment>
+      </unit>
+      <unit id="1660000057" name="text_menu_button_close" xml:space="preserve">
+        <segment>
+          <source>CLOSE</source>
+          <target>关闭</target>
+        </segment>
+      </unit>
+      <unit id="1660000058" name="text_help_click_or_double_click" xml:space="preserve">
+        <segment>
+          <source>CLICK OR DOUBLE CLICK</source>
+          <target>单击或双击</target>
+        </segment>
+      </unit>
+      <unit id="1660000059" name="text_menu_button_invite_friends" xml:space="preserve">
+        <segment>
+          <source>INVITE FRIENDS</source>
+          <target>邀请朋友</target>
+        </segment>
+      </unit>
+      <unit id="1660000060" name="text_help_unload_ammo" xml:space="preserve">
+        <segment>
+          <source>UNLOAD AMMO</source>
+          <target>卸载弹药</target>
+        </segment>
+      </unit>
+      <unit id="1660000061" name="text_menu_label_fuel" xml:space="preserve">
+        <segment>
+          <source>FUEL</source>
+          <target>燃料</target>
+        </segment>
+      </unit>
+      <unit id="1660000062" name="text_menu_label_set_resolution" xml:space="preserve">
+        <segment>
+          <source>SET RESOLUTION:</source>
+          <target>设置分辨率：</target>
+        </segment>
+      </unit>
+      <unit id="1660000063" name="text_help_move_climb" xml:space="preserve">
+        <segment>
+          <source>PRESS TO MOVE AND CLIMB LADDERS UP AND DOWN</source>
+          <target>按压以移动并上下爬梯</target>
+        </segment>
+      </unit>
+      <unit id="1660000064" name="text_help_repair_building" xml:space="preserve">
+        <segment>
+          <source>PRESS TO REPAIR BUILDING</source>
+          <target>按下以修复建筑</target>
+        </segment>
+      </unit>
+      <unit id="1660000065" name="text_menu_label_set_sfx_volume" xml:space="preserve">
+        <segment>
+          <source>SET SFX VOLUME:</source>
+          <target>设置音效音量：</target>
+        </segment>
+      </unit>
+      <unit id="1660000066" name="text_menu_label_inventory" xml:space="preserve">
+        <segment>
+          <source>INVENTORY</source>
+          <target>库存</target>
+        </segment>
+      </unit>
+      <unit id="1660000067" name="text_menu_button_refresh_serverlist" xml:space="preserve">
+        <segment>
+          <source>REFRESH SERVER LIST</source>
+          <target>刷新服务器列表</target>
+        </segment>
+      </unit>
+      <unit id="1660000068" name="text_help_double_click_to_craft" xml:space="preserve">
+        <segment>
+          <source>DOUBLE CLICK TO CRAFT</source>
+          <target>双击进行制作</target>
+        </segment>
+      </unit>
+      <unit id="1660000069" name="text_menu_placeholder_set_maximum_players" xml:space="preserve">
+        <segment>
+          <source>SET MAXIMUM PLAYERS...</source>
+          <target>设置最大玩家数量...</target>
+        </segment>
+      </unit>
+      <unit id="1660000070" name="text_menu_label_equipment" xml:space="preserve">
+        <segment>
+          <source>EQUIPMENT</source>
+          <target>设备</target>
+        </segment>
+      </unit>
+      <unit id="1660000071" name="text_menu_label_search" xml:space="preserve">
+        <segment>
+          <source>SEARCH:</source>
+          <target>搜索：</target>
+        </segment>
+      </unit>
+      <unit id="1660000072" name="text_help_close_inventory" xml:space="preserve">
+        <segment>
+          <source>CLOSE INVENTORY</source>
+          <target>关闭库存</target>
+        </segment>
+      </unit>
+      <unit id="1660000073" name="text_help_navigation_no_bed" xml:space="preserve">
+        <segment>
+          <source>NAVIGATION UNAVAILABLE: YOU MUST DIE OR HAVE A BED FIRST</source>
+          <target>导航不可用：你必须死亡或者先有一张床</target>
+        </segment>
+      </unit>
+      <unit id="1660000074" name="text_menu_label_server_browser" xml:space="preserve">
+        <segment>
+          <source>SERVER BROWSER</source>
+          <target>服务器浏览器</target>
+        </segment>
+      </unit>
+      <unit id="1660000075" name="text_menu_label_camera_shake" xml:space="preserve">
+        <segment>
+          <source>TOGGLE CAMERA SHAKE:</source>
+          <target>切换相机抖动:</target>
+        </segment>
+      </unit>
+      <unit id="1660000077" name="text_menu_77" xml:space="preserve">
+        <segment>
+          <source>ENTER PASSWORD HERE...</source>
+          <target>在此输入密码...</target>
+        </segment>
+      </unit>
+      <unit id="1660000079" name="text_help_reload_weapon" xml:space="preserve">
+        <segment>
+          <source>PRESS TO RELOAD</source>
+          <target>按下以重新加载</target>
+        </segment>
+      </unit>
+      <unit id="1660000080" name="text_menu_80" xml:space="preserve">
+        <segment>
+          <source>FIND GAME</source>
+          <target>查找游戏</target>
+        </segment>
+      </unit>
+      <unit id="1660000081" name="text_menu_placeholder_enter_game_name" xml:space="preserve">
+        <segment>
+          <source>ENTER GAME NAME HERE...</source>
+          <target>在此输入游戏名称...</target>
+        </segment>
+      </unit>
+      <unit id="1660000082" name="text_menu_label_options" xml:space="preserve">
+        <segment>
+          <source>OPTIONS</source>
+          <target>选项</target>
+        </segment>
+      </unit>
+      <unit id="1660000083" name="text_menu_83" xml:space="preserve">
+        <segment>
+          <source>MENU</source>
+          <target>菜单</target>
+        </segment>
+      </unit>
+      <unit id="1660000084" name="text_help_select_or_drag_item" xml:space="preserve">
+        <segment>
+          <source>SELECT OR DRAG ITEM</source>
+          <target>选择或拖动项目</target>
+        </segment>
+      </unit>
+      <unit id="1660000087" name="text_menu_label_manage_clan_on_current_server" xml:space="preserve">
+        <segment>
+          <source>MANAGE CLAN ON CURRENT SERVER</source>
+          <target>管理当前服务器上的部落</target>
+        </segment>
+      </unit>
+      <unit id="1660000088" name="text_menu_label_enter_password" xml:space="preserve">
+        <segment>
+          <source>ENTER PASSWORD</source>
+          <target>输入密码</target>
+        </segment>
+      </unit>
+      <unit id="1660000089" name="text_menu_label_ambient_volume" xml:space="preserve">
+        <segment>
+          <source>SET AMBIENT VOLUME:</source>
+          <target>设置环境音量：</target>
+        </segment>
+      </unit>
+      <unit id="1660000090" name="text_help_scout_for_an_location" xml:space="preserve">
+        <segment>
+          <source>Find a spot packed with loot, with no animals or players around!</source>
+          <target>找到一个满是战利品的地方，没有动物或其他玩家</target>
+        </segment>
+      </unit>
+      <unit id="1660000091" name="text_menu_91" xml:space="preserve">
+        <segment>
+          <source>ITEM</source>
+          <target>项目</target>
+        </segment>
+      </unit>
+      <unit id="1660000092" name="text_help_field_is_frowing_wait" xml:space="preserve">
+        <segment>
+          <source>CROPS GROWING, WAIT TO HARVEST</source>
+          <target>庄稼正在生长，等待收获</target>
+        </segment>
+      </unit>
+      <unit id="1660000093" name="text_help_split_items" xml:space="preserve">
+        <segment>
+          <source>SPLIT ITEMS</source>
+          <target>拆分项目</target>
+        </segment>
+      </unit>
+      <unit id="1660000095" name="text_menu_label_toggle_vsync" xml:space="preserve">
+        <segment>
+          <source>TOGGLE VSYNC:</source>
+          <target>切换垂直同步：</target>
+        </segment>
+      </unit>
+      <unit id="1660000096" name="text_menu_label_something_wrong" xml:space="preserve">
+        <segment>
+          <source>OOOPS SOMETHING WRONG</source>
+          <target>哎呀 出错了</target>
+        </segment>
+      </unit>
+      <unit id="1660000097" name="text_menu_label_oven" xml:space="preserve">
+        <segment>
+          <source>OVEN</source>
+          <target>烤箱</target>
+        </segment>
+      </unit>
+      <unit id="1660000098" name="text_menu_label_output" xml:space="preserve">
+        <segment>
+          <source>OUTPUT</source>
+          <target>输出</target>
+        </segment>
+      </unit>
+      <unit id="1660000100" name="text_menu_label_storage" xml:space="preserve">
+        <segment>
+          <source>STORAGE</source>
+          <target>存储</target>
+        </segment>
+      </unit>
+      <unit id="1660000101" name="text_help_start_your_journey_now" xml:space="preserve">
+        <segment>
+          <source>It’s not the strength of the body that counts, but the strength of the spirit.</source>
+          <target>不是身体的力量重要，而是精神的力量。</target>
+        </segment>
+      </unit>
+      <unit id="1660000102" name="text_menu_label_input" xml:space="preserve">
+        <segment>
+          <source>INPUT</source>
+          <target>输入</target>
+        </segment>
+      </unit>
+      <unit id="1660000103" name="text_help_craft_axe" xml:space="preserve">
+        <segment>
+          <source>CRAFT AN AXE TO CHOP TREES.</source>
+          <target>制作一把斧头来砍树。</target>
+        </segment>
+      </unit>
+      <unit id="1660000105" name="text_menu_label_master_volume" xml:space="preserve">
+        <segment>
+          <source>SET MASTER VOLUME:</source>
+          <target>设置主音量：</target>
+        </segment>
+      </unit>
+      <unit id="1660000107" name="text_menu_label_all_servers" xml:space="preserve">
+        <segment>
+          <source>ALL SERVERS</source>
+          <target>所有服务器</target>
+        </segment>
+      </unit>
+      <unit id="1660000108" name="text_menu_label_campfire" xml:space="preserve">
+        <segment>
+          <source>CAMPFIRE</source>
+          <target>篝火</target>
+        </segment>
+      </unit>
+      <unit id="1660000109" name="text_help_legend" xml:space="preserve">
+        <segment>
+          <source>WOOOWWWW. YOU ARE A LEGEND!</source>
+          <target>哇哦！你真是个传奇！</target>
+        </segment>
+      </unit>
+      <unit id="1660000110" name="text_menu_label_servername" xml:space="preserve">
+        <segment>
+          <source>SERVERNAME:</source>
+          <target>服务器名称：</target>
+        </segment>
+      </unit>
+      <unit id="1660000113" name="text_help_fast_select" xml:space="preserve">
+        <segment>
+          <source>Press to select a tool and then use it to cut down a tree or mine ore</source>
+          <target>按下选择工具，然后用它砍伐树木或开采矿石</target>
+        </segment>
+      </unit>
+      <unit id="1660000114" name="text_menu_label_set_game" xml:space="preserve">
+        <segment>
+          <source>SET GAME NAME:</source>
+          <target>设置游戏名称：</target>
+        </segment>
+      </unit>
+      <unit id="1660000115" name="text_menu_115" xml:space="preserve">
+        <segment>
+          <source>OFF</source>
+          <target>关</target>
+        </segment>
+      </unit>
+      <unit id="1660000116" name="text_help_skip_tutorial" xml:space="preserve">
+        <segment>
+          <source>PRESS TO DISABLE TOOLTIPS</source>
+          <target>按下以禁用工具提示</target>
+        </segment>
+      </unit>
+      <unit id="1660000117" name="text_help_double_click_drop" xml:space="preserve">
+        <segment>
+          <source>DOUBLE CLICK, DROP ITEM</source>
+          <target>双击，放下物品</target>
+        </segment>
+      </unit>
+      <unit id="1660000118" name="text_help_press_to_open_build_menu" xml:space="preserve">
+        <segment>
+          <source>PRESS TO OPEN BUILD MENU</source>
+          <target>按下以打开建造菜单</target>
+        </segment>
+      </unit>
+      <unit id="1660000120" name="text_help_toggle_flashlight" xml:space="preserve">
+        <segment>
+          <source>PRESS TO ACTIVATE FLASHLIGHT</source>
+          <target>按下以激活手电筒</target>
+        </segment>
+      </unit>
+      <unit id="1660000121" name="text_menu_label_enable_password" xml:space="preserve">
+        <segment>
+          <source>ENABLE PASSWORD:</source>
+          <target>启用密码：</target>
+        </segment>
+      </unit>
+      <unit id="1660000122" name="text_menu_label_construction" xml:space="preserve">
+        <segment>
+          <source>Construction Menu</source>
+          <target>建筑菜单</target>
+        </segment>
+      </unit>
+      <unit id="1660000123" name="text_menu_label_items_in_storage" xml:space="preserve">
+        <segment>
+          <source>ITEMS IN STORAGE: {0}</source>
+          <target>储存中的物品: {0}</target>
+        </segment>
+      </unit>
+      <unit id="1660000124" name="text_menu_label_enter_server_name_here" xml:space="preserve">
+        <segment>
+          <source>ENTER SERVER NAME HERE...</source>
+          <target>在此输入服务器名称...</target>
+        </segment>
+      </unit>
+      <unit id="1660000125" name="text_menu_label_load_game" xml:space="preserve">
+        <segment>
+          <source>LOAD GAME</source>
+          <target>加载游戏</target>
+        </segment>
+      </unit>
+      <unit id="1660000126" name="text_menu_label_pw" xml:space="preserve">
+        <segment>
+          <source>PW:</source>
+          <target>密码：</target>
+        </segment>
+      </unit>
+      <unit id="1660000127" name="text_help_press_to_use" xml:space="preserve">
+        <segment>
+          <source>PRESS TO USE</source>
+          <target>按下使用</target>
+        </segment>
+      </unit>
+      <unit id="1660000128" name="text_menu_label_toggle_fullscreen" xml:space="preserve">
+        <segment>
+          <source>TOGGLE FULLSCREEN:</source>
+          <target>切换全屏</target>
+        </segment>
+      </unit>
+      <unit id="1660000129" name="text_menu_label_toggle_tutorial" xml:space="preserve">
+        <segment>
+          <source>TOGGLE TUTORIAL AND TOOLTIPS:</source>
+          <target>切换教程和工具提示：</target>
+        </segment>
+      </unit>
+      <unit id="1660000131" name="text_menu_button_members" xml:space="preserve">
+        <segment>
+          <source>MEMBERS</source>
+          <target>成员</target>
+        </segment>
+      </unit>
+      <unit id="1660000132" name="text_help_press_to_harvest" xml:space="preserve">
+        <segment>
+          <source>TAP TO HARVEST</source>
+          <target>点击收获</target>
+        </segment>
+      </unit>
+      <unit id="1660000133" name="text_menu_label_steamp2p" xml:space="preserve">
+        <segment>
+          <source>STEAM P2P:</source>
+          <target>STEAM P2P:</target>
+        </segment>
+      </unit>
+      <unit id="1660000134" name="text_menu_label_manage_clan" xml:space="preserve">
+        <segment>
+          <source>MANAGE CLAN</source>
+          <target>管理部落</target>
+        </segment>
+      </unit>
+      <unit id="1660000135" name="text_help_close_build_menu" xml:space="preserve">
+        <segment>
+          <source>CLOSE BUILD MENU</source>
+          <target>关闭建造菜单</target>
+        </segment>
+      </unit>
+      <unit id="1660000136" name="text_help_upgrade_item" xml:space="preserve">
+        <segment>
+          <source>PRESS TO UPGRADE BUILDING OR ITEM</source>
+          <target>按下升级建筑或物品</target>
+        </segment>
+      </unit>
+      <unit id="1660000137" name="text_help_press_to_respawn" xml:space="preserve">
+        <segment>
+          <source>PRESS TO RESPAWN</source>
+          <target>按下以重生</target>
+        </segment>
+      </unit>
+      <unit id="1660000138" name="text_menu_label_music_volume" xml:space="preserve">
+        <segment>
+          <source>SET MUSIC VOLUME:</source>
+          <target>设置音乐音量：</target>
+        </segment>
+      </unit>
+      <unit id="1660000139" name="text_menu_139" xml:space="preserve">
+        <segment>
+          <source>Discussions</source>
+          <target>讨论</target>
+        </segment>
+      </unit>
+      <unit id="1660000140" name="text_menu_label_toggle_lights" xml:space="preserve">
+        <segment>
+          <source>TOGGLE 2D LIGHTS:</source>
+          <target>切换2D灯光：</target>
+        </segment>
+      </unit>
+      <unit id="1660000141" name="text_help_press_to_jump" xml:space="preserve">
+        <segment>
+          <source>Press to Jump Over Obstacles or Destroy Them with a Tool</source>
+          <target>按下以跳过障碍或使用工具摧毁它们</target>
+        </segment>
+      </unit>
+      <unit id="1660000143" name="text_menu_143" xml:space="preserve">
+        <segment>
+          <source>HEY THERE!</source>
+          <target>嘿，你好</target>
+        </segment>
+      </unit>
+      <unit id="1660000144" name="text_menu_label_paint_selection" xml:space="preserve">
+        <segment>
+          <source>PAINT SELECTION</source>
+          <target>油漆选择</target>
+        </segment>
+      </unit>
+      <unit id="1660000145" name="text_menu_help_enter_boat" xml:space="preserve">
+        <segment>
+          <source>PRESS TO ENTER BOAT</source>
+          <target>按下进入船</target>
+        </segment>
+      </unit>
+      <unit id="1660000147" name="text_menu_label_address" xml:space="preserve">
+        <segment>
+          <source>ADDRESS:</source>
+          <target>地址：</target>
+        </segment>
+      </unit>
+      <unit id="1660000148" name="text_menu_label_cost" xml:space="preserve">
+        <segment>
+          <source>COST</source>
+          <target>成本</target>
+        </segment>
+      </unit>
+      <unit id="1660000149" name="text_menu_label_custom_skins" xml:space="preserve">
+        <segment>
+          <source>CUSTOM SKINS</source>
+          <target>自定义皮肤</target>
+        </segment>
+      </unit>
+      <unit id="1660000150" name="text_help_drop_item" xml:space="preserve">
+        <segment>
+          <source>PRESS TO DROP ITEM</source>
+          <target>按下以丢弃物品</target>
+        </segment>
+      </unit>
+      <unit id="1660000152" name="text_help_quick_swap" xml:space="preserve">
+        <segment>
+          <source>QUICK SWAP</source>
+          <target>快速交换</target>
+        </segment>
+      </unit>
+      <unit id="1660000153" name="text_help_tap_to_land_drone" xml:space="preserve">
+        <segment>
+          <source>PRESS TO LAND</source>
+          <target>按下着陆</target>
+        </segment>
+      </unit>
+      <unit id="1660000154" name="text_menu_label_toggle_show_ping" xml:space="preserve">
+        <segment>
+          <source>TOGGLE SHOW PING:</source>
+          <target>切换显示延迟：</target>
+        </segment>
+      </unit>
+      <unit id="1660000155" name="text_menu_label_smelter" xml:space="preserve">
+        <segment>
+          <source>SMELTER</source>
+          <target>冶炼厂</target>
+        </segment>
+      </unit>
+      <unit id="1660000157" name="text_menu_label_start_game" xml:space="preserve">
+        <segment>
+          <source>START GAME</source>
+          <target>开始游戏</target>
+        </segment>
+      </unit>
+      <unit id="1660000158" name="text_help_place_foundation" xml:space="preserve">
+        <segment>
+          <source>TRY TO PLACE A FOUNDATION FOR YOUR FORTRESS.</source>
+          <target>为你的堡垒打下一个基础。</target>
+        </segment>
+      </unit>
+      <unit id="1660000159" name="text_menu_label_set_maximum_player" xml:space="preserve">
+        <segment>
+          <source>SET MAXIMUM PLAYERS:</source>
+          <target>设置最大玩家数：</target>
+        </segment>
+      </unit>
+      <unit id="1660000160" name="text_menu_button_controls" xml:space="preserve">
+        <segment>
+          <source>CONTROLS</source>
+          <target>控制</target>
+        </segment>
+      </unit>
+      <unit id="1660000161" name="text_menu_button_general_settings" xml:space="preserve">
+        <segment>
+          <source>GENERAL SETTINGS</source>
+          <target>通用设置</target>
+        </segment>
+      </unit>
+      <unit id="1660000162" name="text_menu_button_invitations" xml:space="preserve">
+        <segment>
+          <source>INVITATIONS</source>
+          <target>邀请函</target>
+        </segment>
+      </unit>
+      <unit id="1660000163" name="text_menu_label_building" xml:space="preserve">
+        <segment>
+          <source>BUILDING:</source>
+          <target>建筑物</target>
+        </segment>
+      </unit>
+      <unit id="1660000165" name="text_menu_label_toggle_display_fps" xml:space="preserve">
+        <segment>
+          <source>SHOW FRAMES PER SECONDS:</source>
+          <target>显示帧率：</target>
+        </segment>
+      </unit>
+      <unit id="1660000166" name="text_menu_166" xml:space="preserve">
+        <segment>
+          <source>SERVER: Current server player count: 1</source>
+          <target>服务器：当前服务器玩家人数：1</target>
+        </segment>
+      </unit>
+      <unit id="1660000167" name="text_menu_button_apply_settings" xml:space="preserve">
+        <segment>
+          <source>APPLY SETTINGS</source>
+          <target>应用设置</target>
+        </segment>
+      </unit>
+      <unit id="1660000168" name="text_help_open_or_close" xml:space="preserve">
+        <segment>
+          <source>OPEN OR CLOSE</source>
+          <target>打开或关闭</target>
+        </segment>
+      </unit>
+      <unit id="1660000169" name="text_menu_button_disconnect" xml:space="preserve">
+        <segment>
+          <source>LEAVE SERVER</source>
+          <target>离开服务器</target>
+        </segment>
+      </unit>
+      <unit id="1660000170" name="" xml:space="preserve">
+        <segment>
+          <source>NIMBLEBEASTS 2024 - VERSION</source>
+        </segment>
+      </unit>
+      <unit id="1660000171" name="text_menu_button_reset_to_defaults" xml:space="preserve">
+        <segment>
+          <source>RESET TO DEFAULTS</source>
+          <target>恢复默认设置</target>
+        </segment>
+      </unit>
+      <unit id="1660000172" name="text_menu_label_vendingmachine" xml:space="preserve">
+        <segment>
+          <source>Vending Machine</source>
+          <target>自动售货机</target>
+        </segment>
+      </unit>
+      <unit id="163828340000001" name="item_Wood" xml:space="preserve">
+        <segment>
+          <source>Wood</source>
+          <target>木头</target>
+        </segment>
+      </unit>
+      <unit id="163828340000002" name="item_Stone" xml:space="preserve">
+        <segment>
+          <source>Stone</source>
+          <target>石头</target>
+        </segment>
+      </unit>
+      <unit id="163828340000003" name="item_Axe" xml:space="preserve">
+        <segment>
+          <source>Axe</source>
+          <target>斧头</target>
+        </segment>
+      </unit>
+      <unit id="163828340000004" name="item_Bow" xml:space="preserve">
+        <segment>
+          <source>Bow</source>
+          <target>弓</target>
+        </segment>
+      </unit>
+      <unit id="163828340000005" name="item_Arrow" xml:space="preserve">
+        <segment>
+          <source>Arrow</source>
+          <target>箭头</target>
+        </segment>
+      </unit>
+      <unit id="163828340000006" name="item_Campfire" xml:space="preserve">
+        <segment>
+          <source>Campfire</source>
+          <target>篝火</target>
+        </segment>
+      </unit>
+      <unit id="163828340000007" name="item_Bed" xml:space="preserve">
+        <segment>
+          <source>Bed</source>
+          <target>床</target>
+        </segment>
+      </unit>
+      <unit id="163828340000008" name="item_Pick Axe" xml:space="preserve">
+        <segment>
+          <source>Pick Axe</source>
+          <target>镐</target>
+        </segment>
+      </unit>
+      <unit id="163828340000009" name="item_Coal" xml:space="preserve">
+        <segment>
+          <source>Coal</source>
+          <target>煤</target>
+        </segment>
+      </unit>
+      <unit id="163828340000010" name="item_Metal Fragments" xml:space="preserve">
+        <segment>
+          <source>Metal Fragments</source>
+          <target>金属碎片</target>
+        </segment>
+      </unit>
+      <unit id="163828340000011" name="item_Raw Meat" xml:space="preserve">
+        <segment>
+          <source>Raw Meat</source>
+          <target>生肉</target>
+        </segment>
+      </unit>
+      <unit id="163828340000012" name="item_Pistol" xml:space="preserve">
+        <segment>
+          <source>Pistol</source>
+          <target>手枪</target>
+        </segment>
+      </unit>
+      <unit id="163828340000013" name="item_Grenade" xml:space="preserve">
+        <segment>
+          <source>Grenade</source>
+          <target>手榴弹</target>
+        </segment>
+      </unit>
+      <unit id="163828340000014" name="item_Bear Rug" xml:space="preserve">
+        <segment>
+          <source>Bear Rug</source>
+          <target>熊皮地毯</target>
+        </segment>
+      </unit>
+      <unit id="163828340000015" name="item_Deer Skull" xml:space="preserve">
+        <segment>
+          <source>Deer Skull</source>
+          <target>鹿头骨</target>
+        </segment>
+      </unit>
+      <unit id="163828340000016" name="item_Wall Rug" xml:space="preserve">
+        <segment>
+          <source>Wall Rug</source>
+          <target>壁挂地毯</target>
+        </segment>
+      </unit>
+      <unit id="163828340000017" name="item_Pistol Bullet" xml:space="preserve">
+        <segment>
+          <source>Pistol Bullet</source>
+          <target>手枪子弹</target>
+        </segment>
+      </unit>
+      <unit id="163828340000018" name="item_Hammer" xml:space="preserve">
+        <segment>
+          <source>Hammer</source>
+          <target>锤子</target>
+        </segment>
+      </unit>
+      <unit id="163828340000019" name="item_Large Wood Box" xml:space="preserve">
+        <segment>
+          <source>Large Wood Box</source>
+          <target>大木箱</target>
+        </segment>
+      </unit>
+      <unit id="163828340000020" name="item_Vending Machine" xml:space="preserve">
+        <segment>
+          <source>Vending Machine</source>
+          <target>自动售货机</target>
+        </segment>
+      </unit>
+      <unit id="163828340000021" name="item_Satoshi" xml:space="preserve">
+        <segment>
+          <source>Satoshi</source>
+          <target>聂鲁达</target>
+        </segment>
+      </unit>
+      <unit id="163828340000022" name="item_Backpack" xml:space="preserve">
+        <segment>
+          <source>Backpack</source>
+          <target>背包</target>
+        </segment>
+      </unit>
+      <unit id="163828340000023" name="item_Iron" xml:space="preserve">
+        <segment>
+          <source>Iron</source>
+          <target>铁</target>
+        </segment>
+      </unit>
+      <unit id="163828340000024" name="item_Grilled Meat" xml:space="preserve">
+        <segment>
+          <source>Grilled Meat</source>
+          <target>烤肉</target>
+        </segment>
+      </unit>
+      <unit id="163828340000025" name="item_Workbench 1" xml:space="preserve">
+        <segment>
+          <source>Workbench 1</source>
+          <target>工作台 1</target>
+        </segment>
+      </unit>
+      <unit id="163828340000026" name="item_Workbench 2" xml:space="preserve">
+        <segment>
+          <source>Workbench 2</source>
+          <target>工作台 2</target>
+        </segment>
+      </unit>
+      <unit id="163828340000027" name="item_Workbench 3" xml:space="preserve">
+        <segment>
+          <source>Workbench 3</source>
+          <target>工作台 3</target>
+        </segment>
+      </unit>
+      <unit id="163828340000028" name="item_Sulfur" xml:space="preserve">
+        <segment>
+          <source>Sulfur</source>
+          <target>硫磺</target>
+        </segment>
+      </unit>
+      <unit id="163828340000029" name="item_Sulfur Powder" xml:space="preserve">
+        <segment>
+          <source>Sulfur Powder</source>
+          <target>硫磺粉</target>
+        </segment>
+      </unit>
+      <unit id="163828340000030" name="item_Hoe" xml:space="preserve">
+        <segment>
+          <source>Hoe</source>
+          <target>锄头</target>
+        </segment>
+      </unit>
+      <unit id="163828340000031" name="item_Flax" xml:space="preserve">
+        <segment>
+          <source>Flax</source>
+          <target>亚麻</target>
+        </segment>
+      </unit>
+      <unit id="163828340000032" name="item_Wheat" xml:space="preserve">
+        <segment>
+          <source>Wheat</source>
+          <target>小麦</target>
+        </segment>
+      </unit>
+      <unit id="163828340000033" name="item_Carrot" xml:space="preserve">
+        <segment>
+          <source>Carrot</source>
+          <target>胡萝卜</target>
+        </segment>
+      </unit>
+      <unit id="163828340000034" name="item_Potato" xml:space="preserve">
+        <segment>
+          <source>Potato</source>
+          <target>土豆</target>
+        </segment>
+      </unit>
+      <unit id="163828340000035" name="item_Flax Seed" xml:space="preserve">
+        <segment>
+          <source>Flax Seed</source>
+          <target>亚麻籽</target>
+        </segment>
+      </unit>
+      <unit id="163828340000036" name="item_Wheat Seed" xml:space="preserve">
+        <segment>
+          <source>Wheat Seed</source>
+          <target>小麦种子</target>
+        </segment>
+      </unit>
+      <unit id="163828340000037" name="item_Carrot Seed" xml:space="preserve">
+        <segment>
+          <source>Carrot Seed</source>
+          <target>胡萝卜籽</target>
+        </segment>
+      </unit>
+      <unit id="163828340000038" name="item_Potato Seed" xml:space="preserve">
+        <segment>
+          <source>Potato Seed</source>
+          <target>马铃薯种子</target>
+        </segment>
+      </unit>
+      <unit id="163828340000039" name="item_Linen" xml:space="preserve">
+        <segment>
+          <source>Linen</source>
+          <target>亚麻布</target>
+        </segment>
+      </unit>
+      <unit id="163828340000040" name="item_Leather" xml:space="preserve">
+        <segment>
+          <source>Leather</source>
+          <target>皮革</target>
+        </segment>
+      </unit>
+      <unit id="163828340000041" name="item_Bread" xml:space="preserve">
+        <segment>
+          <source>Bread</source>
+          <target>面包</target>
+        </segment>
+      </unit>
+      <unit id="163828340000042" name="item_Baked Potato" xml:space="preserve">
+        <segment>
+          <source>Baked Potato</source>
+          <target>烤土豆</target>
+        </segment>
+      </unit>
+      <unit id="163828340000043" name="item_Fish" xml:space="preserve">
+        <segment>
+          <source>Fish</source>
+          <target>鱼</target>
+        </segment>
+      </unit>
+      <unit id="163828340000044" name="item_Fish Dish" xml:space="preserve">
+        <segment>
+          <source>Fish Dish</source>
+          <target>鱼菜</target>
+        </segment>
+      </unit>
+      <unit id="163828340000045" name="item_Ham Sandwich" xml:space="preserve">
+        <segment>
+          <source>Ham Sandwich</source>
+          <target>火腿三明治</target>
+        </segment>
+      </unit>
+      <unit id="163828340000046" name="item_Stew" xml:space="preserve">
+        <segment>
+          <source>Stew</source>
+          <target>炖菜</target>
+        </segment>
+      </unit>
+      <unit id="163828340000047" name="item_Carrot Soup" xml:space="preserve">
+        <segment>
+          <source>Carrot Soup</source>
+          <target>胡萝卜汤</target>
+        </segment>
+      </unit>
+      <unit id="163828340000048" name="item_Oven" xml:space="preserve">
+        <segment>
+          <source>Oven</source>
+          <target>烤箱</target>
+        </segment>
+      </unit>
+      <unit id="163828340000049" name="item_Smelter" xml:space="preserve">
+        <segment>
+          <source>Smelter</source>
+          <target>冶炼厂</target>
+        </segment>
+      </unit>
+      <unit id="163828340000050" name="item_C4" xml:space="preserve">
+        <segment>
+          <source>C4</source>
+          <target>C4</target>
+        </segment>
+      </unit>
+      <unit id="163828340000051" name="item_Bush Shirt" xml:space="preserve">
+        <segment>
+          <source>Bush Shirt</source>
+          <target>布什衫</target>
+        </segment>
+      </unit>
+      <unit id="163828340000052" name="item_Bush Pants" xml:space="preserve">
+        <segment>
+          <source>Bush Pants</source>
+          <target>灌木裤</target>
+        </segment>
+      </unit>
+      <unit id="163828340000053" name="item_Leather Pants" xml:space="preserve">
+        <segment>
+          <source>Leather Pants</source>
+          <target>皮裤</target>
+        </segment>
+      </unit>
+      <unit id="163828340000054" name="item_Leather Shoes" xml:space="preserve">
+        <segment>
+          <source>Leather Shoes</source>
+          <target>皮鞋</target>
+        </segment>
+      </unit>
+      <unit id="163828340000055" name="item_Military Shoes" xml:space="preserve">
+        <segment>
+          <source>Military Shoes</source>
+          <target>军事鞋</target>
+        </segment>
+      </unit>
+      <unit id="163828340000056" name="item_Leather Shirt" xml:space="preserve">
+        <segment>
+          <source>Leather Shirt</source>
+          <target>皮衬衫</target>
+        </segment>
+      </unit>
+      <unit id="163828340000057" name="item_Torch Light" xml:space="preserve">
+        <segment>
+          <source>Torch Light</source>
+          <target>手电筒</target>
+        </segment>
+      </unit>
+      <unit id="163828340000058" name="item_Wooden Cover" xml:space="preserve">
+        <segment>
+          <source>Wooden Cover</source>
+          <target>木制封面</target>
+        </segment>
+      </unit>
+      <unit id="163828340000059" name="item_Red Keycard" xml:space="preserve">
+        <segment>
+          <source>Red Keycard</source>
+          <target>红色钥匙卡</target>
+        </segment>
+      </unit>
+      <unit id="163828340000060" name="item_Blue Keycard" xml:space="preserve">
+        <segment>
+          <source>Blue Keycard</source>
+          <target>蓝色钥匙卡</target>
+        </segment>
+      </unit>
+      <unit id="163828340000061" name="item_Green Keycard" xml:space="preserve">
+        <segment>
+          <source>Green Keycard</source>
+          <target>绿色钥匙卡</target>
+        </segment>
+      </unit>
+      <unit id="163828340000062" name="item_Ak47" xml:space="preserve">
+        <segment>
+          <source>Ak47</source>
+          <target>AK47</target>
+        </segment>
+      </unit>
+      <unit id="163828340000063" name="item_Uzi" xml:space="preserve">
+        <segment>
+          <source>Uzi</source>
+          <target>乌兹</target>
+        </segment>
+      </unit>
+      <unit id="163828340000064" name="item_Shotgun" xml:space="preserve">
+        <segment>
+          <source>Shotgun</source>
+          <target>霰弹枪</target>
+        </segment>
+      </unit>
+      <unit id="163828340000065" name="item_Rifle Bullet" xml:space="preserve">
+        <segment>
+          <source>Rifle Bullet</source>
+          <target>步枪子弹</target>
+        </segment>
+      </unit>
+      <unit id="163828340000066" name="item_Shotgun Bullet" xml:space="preserve">
+        <segment>
+          <source>Shotgun Bullet</source>
+          <target>霰弹枪弹</target>
+        </segment>
+      </unit>
+      <unit id="163828340000067" name="item_Ak47 Body" xml:space="preserve">
+        <segment>
+          <source>Ak47 Body</source>
+          <target>AK47 枪身</target>
+        </segment>
+      </unit>
+      <unit id="163828340000068" name="item_Uzi Body" xml:space="preserve">
+        <segment>
+          <source>Uzi Body</source>
+          <target>乌兹身体</target>
+        </segment>
+      </unit>
+      <unit id="163828340000069" name="item_Shotgun Body" xml:space="preserve">
+        <segment>
+          <source>Shotgun Body</source>
+          <target>霰弹枪身</target>
+        </segment>
+      </unit>
+      <unit id="163828340000070" name="item_Pistol Body" xml:space="preserve">
+        <segment>
+          <source>Pistol Body</source>
+          <target>手枪身</target>
+        </segment>
+      </unit>
+      <unit id="163828340000071" name="item_Gun Powder" xml:space="preserve">
+        <segment>
+          <source>Gun Powder</source>
+          <target>火药</target>
+        </segment>
+      </unit>
+      <unit id="163828340000072" name="item_Lantern" xml:space="preserve">
+        <segment>
+          <source>Lantern</source>
+          <target>灯笼</target>
+        </segment>
+      </unit>
+      <unit id="163828340000073" name="item_Beanie" xml:space="preserve">
+        <segment>
+          <source>Beanie</source>
+          <target>毛线帽</target>
+        </segment>
+      </unit>
+      <unit id="163828340000074" name="item_Emerald Beanie" xml:space="preserve">
+        <segment>
+          <source>Emerald Beanie</source>
+          <target>翡翠色无檐小帽</target>
+        </segment>
+      </unit>
+      <unit id="163828340000075" name="item_Charcoal Beanie" xml:space="preserve">
+        <segment>
+          <source>Charcoal Beanie</source>
+          <target>炭色无檐小帽</target>
+        </segment>
+      </unit>
+      <unit id="163828340000076" name="item_Beret" xml:space="preserve">
+        <segment>
+          <source>Beret</source>
+          <target>贝雷帽</target>
+        </segment>
+      </unit>
+      <unit id="163828340000077" name="item_Olive Beret" xml:space="preserve">
+        <segment>
+          <source>Olive Beret</source>
+          <target>橄榄色贝雷帽</target>
+        </segment>
+      </unit>
+      <unit id="163828340000078" name="item_Base Cap" xml:space="preserve">
+        <segment>
+          <source>Base Cap</source>
+          <target>棒球帽</target>
+        </segment>
+      </unit>
+      <unit id="163828340000079" name="item_Obsidian Cap" xml:space="preserve">
+        <segment>
+          <source>Obsidian Cap</source>
+          <target>黑曜石帽</target>
+        </segment>
+      </unit>
+      <unit id="163828340000080" name="item_Hat" xml:space="preserve">
+        <segment>
+          <source>Hat</source>
+          <target>帽子</target>
+        </segment>
+      </unit>
+      <unit id="163828340000081" name="item_Vintage Hat" xml:space="preserve">
+        <segment>
+          <source>Vintage Hat</source>
+          <target>复古帽</target>
+        </segment>
+      </unit>
+      <unit id="163828340000082" name="item_Military Pants" xml:space="preserve">
+        <segment>
+          <source>Military Pants</source>
+          <target>军事裤</target>
+        </segment>
+      </unit>
+      <unit id="163828340000083" name="item_Military Gloves" xml:space="preserve">
+        <segment>
+          <source>Military Gloves</source>
+          <target>军用手套</target>
+        </segment>
+      </unit>
+      <unit id="163828340000084" name="item_Military Helmet" xml:space="preserve">
+        <segment>
+          <source>Military Helmet</source>
+          <target>军用头盔</target>
+        </segment>
+      </unit>
+      <unit id="163828340000085" name="item_Military Shirt" xml:space="preserve">
+        <segment>
+          <source>Military Shirt</source>
+          <target>军事衬衫</target>
+        </segment>
+      </unit>
+      <unit id="163828340000086" name="item_Camouflage Pants" xml:space="preserve">
+        <segment>
+          <source>Camouflage Pants</source>
+          <target>伪装裤</target>
+        </segment>
+      </unit>
+      <unit id="163828340000087" name="item_Camouflage Shirt" xml:space="preserve">
+        <segment>
+          <source>Camouflage Shirt</source>
+          <target>迷彩衬衫</target>
+        </segment>
+      </unit>
+      <unit id="163828340000088" name="item_Scavenger Vest" xml:space="preserve">
+        <segment>
+          <source>Scavenger Vest</source>
+          <target>清道夫背心</target>
+        </segment>
+      </unit>
+      <unit id="163828340000089" name="item_Rusty Combat Vest" xml:space="preserve">
+        <segment>
+          <source>Rusty Combat Vest</source>
+          <target>生锈的战斗背心</target>
+        </segment>
+      </unit>
+      <unit id="163828340000090" name="item_Urban Guerrilla Vest" xml:space="preserve">
+        <segment>
+          <source>Urban Guerrilla Vest</source>
+          <target>城市游击队背心</target>
+        </segment>
+      </unit>
+      <unit id="163828340000091" name="item_Durable Jeans" xml:space="preserve">
+        <segment>
+          <source>Durable Jeans</source>
+          <target>耐用牛仔裤</target>
+        </segment>
+      </unit>
+      <unit id="163828340000092" name="item_Rugged Shirt" xml:space="preserve">
+        <segment>
+          <source>Rugged Shirt</source>
+          <target>粗犷衬衫</target>
+        </segment>
+      </unit>
+      <unit id="163828340000093" name="item_Tactical Gloves" xml:space="preserve">
+        <segment>
+          <source>Tactical Gloves</source>
+          <target>战术手套</target>
+        </segment>
+      </unit>
+      <unit id="163828340000094" name="item_Leather Gloves" xml:space="preserve">
+        <segment>
+          <source>Leather Gloves</source>
+          <target>皮手套</target>
+        </segment>
+      </unit>
+      <unit id="163828340000095" name="item_Nuke Blueprint" xml:space="preserve">
+        <segment>
+          <source>Nuke Blueprint</source>
+          <target>核弹蓝图</target>
+        </segment>
+      </unit>
+      <unit id="163828340000096" name="item_Nuke Frame" xml:space="preserve">
+        <segment>
+          <source>Nuke Frame</source>
+          <target>核框架</target>
+        </segment>
+      </unit>
+      <unit id="163828340000097" name="item_Nuke Case" xml:space="preserve">
+        <segment>
+          <source>Nuke Case</source>
+          <target>核弹箱</target>
+        </segment>
+      </unit>
+      <unit id="163828340000098" name="item_Nuke Reflector" xml:space="preserve">
+        <segment>
+          <source>Nuke Reflector</source>
+          <target>核反射器</target>
+        </segment>
+      </unit>
+      <unit id="163828340000099" name="item_Nuke Trigger" xml:space="preserve">
+        <segment>
+          <source>Nuke Trigger</source>
+          <target>核弹触发器</target>
+        </segment>
+      </unit>
+      <unit id="163828340000100" name="item_Nuke Timer" xml:space="preserve">
+        <segment>
+          <source>Nuke Timer</source>
+          <target>核弹计时器</target>
+        </segment>
+      </unit>
+      <unit id="163828340000101" name="item_Nuke Core" xml:space="preserve">
+        <segment>
+          <source>Nuke Core</source>
+          <target>核弹芯</target>
+        </segment>
+      </unit>
+      <unit id="163834090000001" name="item_Wood_info" xml:space="preserve">
+        <segment>
+          <source>A basic building material gathered from trees. Essential for crafting and construction.</source>
+          <target>从树木中采集的基本建筑材料。对于制作和建设至关重要。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000002" name="item_Stone_info" xml:space="preserve">
+        <segment>
+          <source>Commonly found resource, useful for crafting tools and building sturdy structures.</source>
+          <target>常见资源，适用于制作工具和建造坚固结构。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000003" name="item_Axe_info" xml:space="preserve">
+        <segment>
+          <source>A tool for chopping wood. Essential for gathering and can be used as a weapon.</source>
+          <target>用于砍伐木头的工具。对于采集至关重要，也可用作武器。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000004" name="item_Bow_info" xml:space="preserve">
+        <segment>
+          <source>A ranged weapon used for hunting wildlife and defending against threats. Requires arrows to use.</source>
+          <target>用于狩猎野生动物和防御威胁的远程武器。使用时需要箭。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000005" name="item_Arrow_info" xml:space="preserve">
+        <segment>
+          <source>Ammunition for bows. Crafted from wood and stone, essential for hunting and combat.</source>
+          <target>弓箭的弹药。由木头和石头制成，对于狩猎和战斗至关重要。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000006" name="item_Campfire_info" xml:space="preserve">
+        <segment>
+          <source>Fundamental source for cooking and smelting. Crucial for enduring survival in extreme conditions.</source>
+          <target>烹饪和熔炼的基本来源。在极端条件下生存至关重要。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000007" name="item_Bed_info" xml:space="preserve">
+        <segment>
+          <source>A place to rest and respawn.</source>
+          <target>一个休息和重生的地方。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000008" name="item_Pick Axe_info" xml:space="preserve">
+        <segment>
+          <source>Tool used for mining resources like stone, sulfur and metal. </source>
+          <target>用于开采石头、硫磺和金属等资源的工具。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000009" name="item_Coal_info" xml:space="preserve">
+        <segment>
+          <source>A valuable resource for crafting. </source>
+          <target>用于制作的宝贵资源。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000010" name="item_Metal Fragments_info" xml:space="preserve">
+        <segment>
+          <source>Refined metal for crafting and building, made by smelting ore.</source>
+          <target>通过熔炼矿石制成的用于工艺和建筑的精炼金属。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000011" name="item_Raw Meat_info" xml:space="preserve">
+        <segment>
+          <source>Basic food from hunting wildlife. Needs cooking for safe eating.</source>
+          <target>来自狩猎野生动物的基本食物。需要烹饪才能安全食用。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000012" name="item_Pistol_info" xml:space="preserve">
+        <segment>
+          <source>Handheld firearm, useful for self-defense and hunting. Requires bullets.</source>
+          <target>手持火器，适用于自卫和狩猎。需要子弹。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000013" name="item_Grenade_info" xml:space="preserve">
+        <segment>
+          <source>Explosive device used for enemy damage.</source>
+          <target>用于敌人伤害的爆炸装置。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000014" name="item_Bear Rug_info" xml:space="preserve">
+        <segment>
+          <source>Decorative item crafted from leather. Charges health when placed in your home.</source>
+          <target>由皮革制成的装饰品。放置在你家中时可以充能健康。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000015" name="item_Deer Skull_info" xml:space="preserve">
+        <segment>
+          <source>Decorative item crafted from leather. Charges health when placed in your home.</source>
+          <target>由皮革制成的装饰品。放置在您家中时可充能健康。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000016" name="item_Wall Rug_info" xml:space="preserve">
+        <segment>
+          <source>Decorative item crafted from leather. Charges health when placed in your home.</source>
+          <target>由皮革制成的装饰品。放置在您家中时可充能健康。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000017" name="item_Pistol Bullet_info" xml:space="preserve">
+        <segment>
+          <source>Ammunition for pistols.</source>
+          <target>手枪弹药。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000018" name="item_Hammer_info" xml:space="preserve">
+        <segment>
+          <source>Used for upgrading and repairing structures. Essential for base maintenance and upgrading the workbench.</source>
+          <target>用于升级和修理结构。 对于基地维护和升级工作台至关重要。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000019" name="item_Large Wood Box_info" xml:space="preserve">
+        <segment>
+          <source>Storage unit for holding items. Crucial for organizing and protecting resources.</source>
+          <target>用于存放物品的存储单元。 对于组织和保护资源至关重要。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000020" name="item_Vending Machine_info" xml:space="preserve">
+        <segment>
+          <source>Automated trade unit. Can be used to buy and sell items with other players.</source>
+          <target>自动化交易单元。可用于与其他玩家购买和出售物品。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000021" name="item_Satoshi_info" xml:space="preserve">
+        <segment>
+          <source>In-game currency for trading and purchasing items. Acquired through various means.</source>
+          <target>用于交易和购买物品的游戏内货币。可以通过各种方式获得。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000022" name="item_Backpack_info" xml:space="preserve">
+        <segment>
+          <source>Item storage of deceased player.</source>
+          <target>已故玩家的物品存储</target>
+        </segment>
+      </unit>
+      <unit id="163834090000023" name="item_Iron_info" xml:space="preserve">
+        <segment>
+          <source>A raw metal resource, used in crafting and building. Requires smelting to purify.</source>
+          <target>一种未加工的金属资源，用于制作和建造。需要熔炼以提纯。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000024" name="item_Grilled Meat_info" xml:space="preserve">
+        <segment>
+          <source>Cooked meat, safe to eat. Provides better nourishment than raw meat.</source>
+          <target>熟肉，安全食用。比生肉提供更好的营养。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000025" name="item_Workbench 1_info" xml:space="preserve">
+        <segment>
+          <source>Basic workbench for crafting items. It helps prevent building decay and can be upgraded using a Hammer.</source>
+          <target>基础工作台，用于制作物品。它有助于防止建筑衰败，可以使用锤子进行升级。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000026" name="item_Workbench 2_info" xml:space="preserve">
+        <segment>
+          <source>Upgraded workbench for crafting items. It helps prevent building decay and can be upgraded using a Hammer.</source>
+          <target>升级工作台用于制作物品。它有助于防止建筑衰败，并且可以使用锤子进行升级。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000027" name="item_Workbench 3_info" xml:space="preserve">
+        <segment>
+          <source>Advanced workbench for crafting items. It helps prevent building decay and can be upgraded using a Hammer.</source>
+          <target>用于制作物品的高级工作台。它有助于防止建筑物衰败，可以使用锤子进行升级。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000028" name="item_Sulfur_info" xml:space="preserve">
+        <segment>
+          <source>Resource for crafting gunpowder and explosives. Gathered from mining.</source>
+          <target>用于制作火药和爆炸物的资源。通过采矿获得。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000029" name="item_Sulfur Powder_info" xml:space="preserve">
+        <segment>
+          <source>Refined sulfur, a key ingredient in making gunpowder. Obtained by processing sulfur.</source>
+          <target>精炼硫磺，是制造火药的关键成分。通过加工硫磺获得。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000030" name="item_Hoe_info" xml:space="preserve">
+        <segment>
+          <source>Farming tool used for planting and harvesting crops. Essential for sustainable food production.</source>
+          <target>用于种植和收获作物的农具。对可持续食物生产至关重要。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000031" name="item_Flax_info" xml:space="preserve">
+        <segment>
+          <source>A plant resource. Used in crafting textiles and other items.</source>
+          <target>植物资源。用于制作纺织品和其他物品。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000032" name="item_Wheat_info" xml:space="preserve">
+        <segment>
+          <source>A crop used for making food items like bread. Grown from seeds.</source>
+          <target>用于制作面包等食品的作物。从种子中种植。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000033" name="item_Carrot_info" xml:space="preserve">
+        <segment>
+          <source>A nutritious vegetable, can be eaten raw or cooked. Grown from seeds.</source>
+          <target>一种营养的蔬菜，可以生吃或煮熟食用。由种子种植而成。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000034" name="item_Potato_info" xml:space="preserve">
+        <segment>
+          <source>Versatile crop, can be eaten raw, cooked, or used to make other food items. Grown from seeds.</source>
+          <target>多功能作物，可以生吃、煮熟或用来制作其他食品。由种子种植。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000035" name="item_Flax Seed_info" xml:space="preserve">
+        <segment>
+          <source>Seeds for growing flax plants. Used in sustainable resource farming.</source>
+          <target>用于种植亚麻植物的种子。用于可持续资源农业。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000036" name="item_Wheat Seed_info" xml:space="preserve">
+        <segment>
+          <source>Seeds for growing wheat. Essential for farming and food production.</source>
+          <target>种植小麦的种子。对农业和食品生产至关重要。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000037" name="item_Carrot Seed_info" xml:space="preserve">
+        <segment>
+          <source>Seeds for growing carrots. Essential for farming and food production.</source>
+          <target>种植小麦的种子。对农业和食品生产至关重要。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000038" name="item_Potato Seed_info" xml:space="preserve">
+        <segment>
+          <source>Seeds for growing potatoes. Vital for diverse crop production.</source>
+          <target>种植马铃薯的种子。对多样化作物生产至关重要。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000039" name="item_Linen_info" xml:space="preserve">
+        <segment>
+          <source>Textile made from flax. Used in crafting clothing and other fabric items.</source>
+          <target>由亚麻制成的纺织品。用于制作服装和其他织物物品。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000040" name="item_Leather_info" xml:space="preserve">
+        <segment>
+          <source>Durable material obtained from animal hides. Used in crafting armor and clothing.</source>
+          <target>从动物皮毛中获得的耐用材料。用于制作盔甲和衣物。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000041" name="item_Bread_info" xml:space="preserve">
+        <segment>
+          <source>Food item made from wheat. Good source of nourishment.</source>
+          <target>由小麦制成的食品。良好的营养来源。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000042" name="item_Baked Potato_info" xml:space="preserve">
+        <segment>
+          <source>Cooked potato. A simple and filling food item.</source>
+          <target>煮土豆。一个简单而且能填饱肚子的食物。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000043" name="item_Fish_info" xml:space="preserve">
+        <segment>
+          <source>Source of food obtained from loot container. Can be cooked for better nourishment.</source>
+          <target>从战利品容器中获得的食物来源。可以烹饪以获得更好的营养。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000044" name="item_Fish Dish_info" xml:space="preserve">
+        <segment>
+          <source>Provides high nourishment and health recovery.</source>
+          <target>提供高营养和健康恢复。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000045" name="item_Ham Sandwich_info" xml:space="preserve">
+        <segment>
+          <source>Tasty food item combining bread and meat. Good for quick nourishment.</source>
+          <target>美味的食物，结合了面包和肉类。适合快速营养。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000046" name="item_Stew_info" xml:space="preserve">
+        <segment>
+          <source>Hearty meal made from various ingredients. Excellent for health and hunger recovery.</source>
+          <target>由各种食材制成的丰盛美食。对健康和恢复饥饿非常有益。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000047" name="item_Carrot Soup_info" xml:space="preserve">
+        <segment>
+          <source>Nutritious soup made from carrots. Good for health and hydration.</source>
+          <target>由胡萝卜制成的营养汤。有益健康和保持水分。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000048" name="item_Oven_info" xml:space="preserve">
+        <segment>
+          <source>Advanced cooking appliance. Allows for the preparation of complex meals.</source>
+          <target>先进的烹饪设备。允许准备复杂的餐点。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000049" name="item_Smelter_info" xml:space="preserve">
+        <segment>
+          <source>Used for refining raw ores into usable metals. Essential for advanced crafting.</source>
+          <target>用于将原矿炼制成可用的金属。对于高级制作至关重要。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000050" name="item_C4_info" xml:space="preserve">
+        <segment>
+          <source>High-powered explosive. Used for breaching and demolition. Handle with extreme caution.</source>
+          <target>高能炸药。用于爆破和拆除。需极度小心处理。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000051" name="item_Bush Shirt_info" xml:space="preserve">
+        <segment>
+          <source>Camouflage clothing, useful for stealth and protection in wilderness.</source>
+          <target>伪装服，适用于在野外隐身和保护。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000052" name="item_Bush Pants_info" xml:space="preserve">
+        <segment>
+          <source>Camouflage pants, pairs with bush shirt for complete stealth outfit.</source>
+          <target>迷彩裤，与灌木衬衫搭配，形成完整的隐形装备。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000053" name="item_Leather Pants_info" xml:space="preserve">
+        <segment>
+          <source>Durable clothing made from leather. Offers protection.</source>
+          <target>由皮革制成的耐用服装。提供保护。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000054" name="item_Leather Shoes_info" xml:space="preserve">
+        <segment>
+          <source>Sturdy footwear made from leather. Essential for travel and protection.</source>
+          <target>由皮革制成的结实鞋履。旅行和保护的必需品。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000055" name="item_Military Shoes_info" xml:space="preserve">
+        <segment>
+          <source>High-quality tactical footwear. Provides enhanced mobility and protection in rough terrain.</source>
+          <target>高质量战术靴。在崎岖地形中提供增强的机动性和保护。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000056" name="item_Leather Shirt_info" xml:space="preserve">
+        <segment>
+          <source>Tough upper body clothing made from leather. Offers good protection and durability.</source>
+          <target>由皮革制成的坚韧上身服装。提供良好的保护和耐用性。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000057" name="item_Torch Light_info" xml:space="preserve">
+        <segment>
+          <source>Portable light source. Essential for visibility during nighttime. Can be turned on and off.</source>
+          <target>便携式光源。夜间必备以保持能见度。可开启和关闭</target>
+        </segment>
+      </unit>
+      <unit id="163834090000058" name="item_Wooden Cover_info" xml:space="preserve">
+        <segment>
+          <source>Basic defensive structure component. Used for fortifying against enemies while gathering resources.</source>
+          <target>基本防御结构组件。用于在收集资源时加强对敌人的防御。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000059" name="item_Red Keycard_info" xml:space="preserve">
+        <segment>
+          <source>Used to unlock high-security areas.</source>
+          <target>用于解锁高安全区域。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000060" name="item_Blue Keycard_info" xml:space="preserve">
+        <segment>
+          <source>Grants entry to restricted areas with valuable resources.</source>
+          <target>允许进入拥有宝贵资源的限制区域。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000061" name="item_Green Keycard_info" xml:space="preserve">
+        <segment>
+          <source>Opens specific doors and containers in the game world.</source>
+          <target>在游戏世界中打开特定的门和容器。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000062" name="item_Ak47_info" xml:space="preserve">
+        <segment>
+          <source>Powerful automatic rifle. Effective in combat situations. Requires rifle bullets.</source>
+          <target>强大的自动步枪。在战斗情况下有效。需要步枪子弹。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000063" name="item_Uzi_info" xml:space="preserve">
+        <segment>
+          <source>Compact submachine gun. Good for close-quarters combat. Uses pistol bullets.</source>
+          <target>紧凑型冲锋枪。适合近战。使用手枪子弹。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000064" name="item_Shotgun_info" xml:space="preserve">
+        <segment>
+          <source>Short-range firearm. Highly effective for defense and hunting. Uses shotgun bullets.</source>
+          <target>短程火器。用于防御和打猎非常有效。使用霰弹枪子弹。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000065" name="item_Rifle Bullet_info" xml:space="preserve">
+        <segment>
+          <source>Ammunition for rifles. Crafted from metal fragments and gunpowder.</source>
+          <target>步枪弹药。由金属碎片和火药制成。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000066" name="item_Shotgun Bullet_info" xml:space="preserve">
+        <segment>
+          <source>Ammunition for shotguns. Effective for close-range combat.</source>
+          <target>霰弹枪的弹药。适用于近距离战斗。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000067" name="item_Ak47 Body_info" xml:space="preserve">
+        <segment>
+          <source>Main component for crafting an Ak47. Requires additional parts and materials.</source>
+          <target>制作AK47的主要部件。 需要额外的零件和材料。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000068" name="item_Uzi Body_info" xml:space="preserve">
+        <segment>
+          <source>Essential part for assembling an Uzi. Combine with other components for a complete weapon.</source>
+          <target>组装乌兹冲锋枪的基本部件。与其他组件结合以形成一件完整的武器。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000069" name="item_Shotgun Body_info" xml:space="preserve">
+        <segment>
+          <source>Base component for building a shotgun. Necessary for weapon crafting.</source>
+          <target>制造霰弹枪的基本组件。制造武器所必需的。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000070" name="item_Pistol Body_info" xml:space="preserve">
+        <segment>
+          <source>Fundamental part of a pistol. Combine with other parts to craft a handgun.</source>
+          <target>手枪的基本部分。与其他部件组合以制造一把手枪。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000071" name="item_Gun Powder_info" xml:space="preserve">
+        <segment>
+          <source>Essential ingredient for crafting ammunition. Made from sulfur and charcoal.</source>
+          <target>制作弹药的必需成分。由硫磺和木炭制成。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000072" name="item_Lantern_info" xml:space="preserve">
+        <segment>
+          <source>Steady light source. Useful for illuminating areas.</source>
+          <target>稳定的光源。 适用于照明区域。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000073" name="item_Beanie_info" xml:space="preserve">
+        <segment>
+          <source>Stylish headwear. Offers minimal protection.</source>
+          <target>时尚头饰。提供最低限度的保护。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000074" name="item_Emerald Beanie_info" xml:space="preserve">
+        <segment>
+          <source>Stylish headwear. Offers minimal protection.</source>
+          <target>时尚头饰。提供最低限度的保护。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000075" name="item_Charcoal Beanie_info" xml:space="preserve">
+        <segment>
+          <source>Cozy and trendy beanie. Offers minimal protection.</source>
+          <target>舒适时尚的无檐小帽。提供最低限度的保护。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000076" name="item_Beret_info" xml:space="preserve">
+        <segment>
+          <source>Military-style headgear. Offers a blend of style and a bit of protection.</source>
+          <target>军事风格的头饰。提供了风格与少许保护的结合。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000077" name="item_Olive Beret_info" xml:space="preserve">
+        <segment>
+          <source>Durable and stylish military beret. Suitable for various environments.</source>
+          <target>耐用且时尚的军用贝雷帽。适合各种环境。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000078" name="item_Base Cap_info" xml:space="preserve">
+        <segment>
+          <source>Casual headwear. Offers minimal protection for your head.</source>
+          <target>休闲头饰。为您的头部提供最低限度的保护。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000079" name="item_Obsidian Cap_info" xml:space="preserve">
+        <segment>
+          <source>Dark-colored cap. Offers minimal protection for your head.</source>
+          <target>深色帽子。为您的头部提供最低限度的保护。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000080" name="item_Hat_info" xml:space="preserve">
+        <segment>
+          <source>Stylish headwear. Offers minimal protection for your head.</source>
+          <target>时尚头饰。为您的头部提供最低限度的保护。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000081" name="item_Vintage Hat_info" xml:space="preserve">
+        <segment>
+          <source>Stylish headwear. Offers minimal protection for your head.</source>
+          <target>时尚头饰。为您的头部提供最低限度的保护。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000082" name="item_Military Pants_info" xml:space="preserve">
+        <segment>
+          <source>Durable trousers with good protection. Suitable for combat situations.</source>
+          <target>耐用的裤子，具有良好的保护性。适合战斗情况。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000083" name="item_Military Gloves_info" xml:space="preserve">
+        <segment>
+          <source>Protective handwear. Essential for handling weapons and tools safely.</source>
+          <target>防护手套。用于安全操作武器和工具的必需品。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000084" name="item_Military Helmet_info" xml:space="preserve">
+        <segment>
+          <source>Offers head protection in combat scenarios. Essential for safety in battle.</source>
+          <target>在战斗场景中提供头部保护。 在战斗中保障安全至关重要。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000085" name="item_Military Shirt_info" xml:space="preserve">
+        <segment>
+          <source>Tough upper body clothing. Provides protection in combat situations.</source>
+          <target>坚韧的上身衣物。在战斗情况下提供保护。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000086" name="item_Camouflage Pants_info" xml:space="preserve">
+        <segment>
+          <source>Durable trousers with good protection. Suitable for combat situations.</source>
+          <target>耐用的裤子，具有良好的保护性。适合战斗情况。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000087" name="item_Camouflage Shirt_info" xml:space="preserve">
+        <segment>
+          <source>Durable shirt with good protection. Suitable for combat situations.</source>
+          <target>耐用的衬衫，提供良好保护。适合战斗情况。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000088" name="item_Scavenger Vest_info" xml:space="preserve">
+        <segment>
+          <source>Upper body armor. Provides decent protection in combat situations.</source>
+          <target>上身护甲。在战斗情况下提供相当不错的保护。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000089" name="item_Rusty Combat Vest_info" xml:space="preserve">
+        <segment>
+          <source>Durable upper body armor. Provides good protection in combat situations.</source>
+          <target>耐用的上身护甲。在战斗情况下提供良好的保护。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000090" name="item_Urban Guerrilla Vest_info" xml:space="preserve">
+        <segment>
+          <source>Ultra-durable armor for superior combat defense</source>
+          <target>超耐用装甲，用于卓越的战斗防御</target>
+        </segment>
+      </unit>
+      <unit id="163834090000091" name="item_Durable Jeans_info" xml:space="preserve">
+        <segment>
+          <source>Durable trousers with good protection.</source>
+          <target>耐用的裤子，保护性好。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000092" name="item_Rugged Shirt_info" xml:space="preserve">
+        <segment>
+          <source>Durable shirt with good protection.</source>
+          <target>耐用的衬衫，保护性好。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000093" name="item_Tactical Gloves_info" xml:space="preserve">
+        <segment>
+          <source>Protective handwear. Essential for handling weapons and tools safely. Less recoil and better accuracy.</source>
+          <target>防护手套。用于安全操作武器和工具的必需品。减少后坐力，提高精度。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000094" name="item_Leather Gloves_info" xml:space="preserve">
+        <segment>
+          <source>Protective handwear. Essential for handling weapons and tools safely. Less recoil and better accuracy.</source>
+          <target>防护手套。对于安全地操作武器和工具至关重要。减少后坐力，提高精度。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000095" name="item_Nuke Blueprint_info" xml:space="preserve">
+        <segment>
+          <source>Main component for crafting the frame of a nuke. Requires additional parts and materials.</source>
+          <target>制作核弹框架的主要组件。 需要额外的零件和材料。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000096" name="item_Nuke Frame_info" xml:space="preserve">
+        <segment>
+          <source>The nuke's framework securely contains the core, case, reflector, trigger, and timer, forming its essential architecture.</source>
+          <target>核弹的框架牢固地包含了核心、壳体、反射器、引爆器和定时器，构成了其基本结构。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000097" name="item_Nuke Case_info" xml:space="preserve">
+        <segment>
+          <source>The heart of the nuke, generating the explosive energy.</source>
+          <target>核心部分产生爆炸能量。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000098" name="item_Nuke Reflector_info" xml:space="preserve">
+        <segment>
+          <source>Enhances the explosion's efficiency by reflecting neutrons back into the core.</source>
+          <target>通过将中子反射回核心来提高爆炸的效率。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000099" name="item_Nuke Trigger_info" xml:space="preserve">
+        <segment>
+          <source>Initiates the nuclear reaction at the precise moment needed.</source>
+          <target>在需要的精确时刻启动核反应。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000100" name="item_Nuke Timer_info" xml:space="preserve">
+        <segment>
+          <source>Controls the detonation timing, ensuring precise activation.</source>
+          <target>控制爆炸时机，确保精确激活。</target>
+        </segment>
+      </unit>
+      <unit id="163834090000101" name="item_Nuke Core_info" xml:space="preserve">
+        <segment>
+          <source>The protective shell that encases the nuke's vital components.</source>
+          <target>包裹着核武器重要部件的保护壳。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000001" name="info_message_1" xml:space="preserve">
+        <segment>
+          <source>Insufficient resources for construction.</source>
+          <target>建设资源不足。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000002" name="info_message_2" xml:space="preserve">
+        <segment>
+          <source>This item is limited to one placement per player.</source>
+          <target>每位玩家限放置一件物品。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000003" name="info_message_3" xml:space="preserve">
+        <segment>
+          <source>Crafting queue is currently full.</source>
+          <target>制作队列目前已满。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000004" name="info_message_4" xml:space="preserve">
+        <segment>
+          <source>Lacking resources to craft this item.</source>
+          <target>缺乏制作这个物品的资源。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000005" name="info_message_5" xml:space="preserve">
+        <segment>
+          <source>Exit from this location is not possible.</source>
+          <target>无法从这个位置退出。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000006" name="info_message_6" xml:space="preserve">
+        <segment>
+          <source>Inventory full. Please manage your items.</source>
+          <target>库存已满。请管理您的物品。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000007" name="info_message_7" xml:space="preserve">
+        <segment>
+          <source>A Workbench 1 is required for crafting.</source>
+          <target>需要工作台 1 来进行制作。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000008" name="info_message_8" xml:space="preserve">
+        <segment>
+          <source>Crafting in progress. Item cannot be removed from the queue.</source>
+          <target>制作中。物品无法从队列中移除。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000009" name="info_message_9" xml:space="preserve">
+        <segment>
+          <source>Storage capacity reached. Please organize.</source>
+          <target>存储容量已满。请整理。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000010" name="info_message_10" xml:space="preserve">
+        <segment>
+          <source>This item is temporarily out of stock. Please check again later.</source>
+          <target>该商品暂时缺货。请稍后再检查。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000011" name="info_message_11" xml:space="preserve">
+        <segment>
+          <source>You do not have enough funds to buy this item.</source>
+          <target>您没有足够的资金购买此物品。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000012" name="info_message_12" xml:space="preserve">
+        <segment>
+          <source>This item is not in your possession.</source>
+          <target>这个物品不在你的手上。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000013" name="info_message_13" xml:space="preserve">
+        <segment>
+          <source>Current server player count: </source>
+          <target>当前服务器玩家人数：</target>
+        </segment>
+      </unit>
+      <unit id="164000000000014" name="info_message_14" xml:space="preserve">
+        <segment>
+          <source>This field is already sown with seeds.</source>
+          <target>这片土地已经播下了种子。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000015" name="info_message_15" xml:space="preserve">
+        <segment>
+          <source>Plowing is necessary before planting.</source>
+          <target>犁地是种植之前必须进行的。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000016" name="info_message_16" xml:space="preserve">
+        <segment>
+          <source>Harvest is not yet ready. Patience is required.</source>
+          <target>收获还没准备好。需要耐心。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000017" name="info_message_17" xml:space="preserve">
+        <segment>
+          <source>Insufficient resources to upgrade the building.</source>
+          <target>资源不足以升级建筑。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000018" name="info_message_18" xml:space="preserve">
+        <segment>
+          <source>Insufficient resources for item upgrade.</source>
+          <target>资源不足，无法升级物品。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000019" name="info_message_19" xml:space="preserve">
+        <segment>
+          <source>Hungry! Search for something to eat.</source>
+          <target>饿了！搜索一些东西吃。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000020" name="info_message_20" xml:space="preserve">
+        <segment>
+          <source>Landing at this location is prohibited.</source>
+          <target>禁止在此地点着陆。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000021" name="info_message_21" xml:space="preserve">
+        <segment>
+          <source>This container is currently in use.</source>
+          <target>这个容器目前正在使用中。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000022" name="info_message_22" xml:space="preserve">
+        <segment>
+          <source>Lack a torch light? Consider crafting one.</source>
+          <target>没有手电筒？考虑自制一个。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000023" name="info_message_23" xml:space="preserve">
+        <segment>
+          <source>A Workbench 2 is needed for crafting.</source>
+          <target>需要工作台2来进行制作。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000024" name="info_message_24" xml:space="preserve">
+        <segment>
+          <source>Crafting requires the presence of a Workbench 3.</source>
+          <target>制作需要一个3级工作台。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000025" name="info_message_25" xml:space="preserve">
+        <segment>
+          <source>Plowing cannot be done here.</source>
+          <target>这里不能耕地。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000026" name="info_message_26" xml:space="preserve">
+        <segment>
+          <source>A Workbench is necessary to build further.</source>
+          <target>需要工作台才能进一步建造。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000027" name="info_message_27" xml:space="preserve">
+        <segment>
+          <source>The nuke is not ready yet, parts are missing.</source>
+          <target>核弹还没有准备好，部件缺失。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000028" name="info_message_28" xml:space="preserve">
+        <segment>
+          <source>Unable to place here as it intersects with another building or item.</source>
+          <target>无法放置在此处，因为它与另一个建筑物或物品相交。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000029" name="info_message_29" xml:space="preserve">
+        <segment>
+          <source>You are too far away to place this.</source>
+          <target>你离得太远，无法放置这个。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000030" name="info_message_30" xml:space="preserve">
+        <segment>
+          <source>Placement not possible: too close to another building component.</source>
+          <target>无法放置：与其他建筑组件太近。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000031" name="info_message_31" xml:space="preserve">
+        <segment>
+          <source>Item has to be placed on a back wall, you can paint one.</source>
+          <target>物品必须放在后墙上，你可以给墙壁涂漆。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000032" name="info_message_32" xml:space="preserve">
+        <segment>
+          <source>Placement not possible in this location.</source>
+          <target>无法在此位置放置。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000033" name="info_message_33" xml:space="preserve">
+        <segment>
+          <source>Placement not possible. Adjust the vertical position up or down.</source>
+          <target>无法放置。请上移或下移垂直位置。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000034" name="info_message_34" xml:space="preserve">
+        <segment>
+          <source>Placement failed, too close to another building or item.</source>
+          <target>放置失败，距离其他建筑或物品太近。</target>
+        </segment>
+      </unit>
+      <unit id="164000000000035" name="info_message_35" xml:space="preserve">
+        <segment>
+          <source>Upgrade unavailable: You must be the item or building's owner to proceed.</source>
+          <target>升级不可用：您必须是物品或建筑的所有者才能继续。</target>
+        </segment>
+      </unit>
+      <unit id="265061569675264" name="text_menu_173" xml:space="preserve">
+        <segment>
+          <source>EXIT GAME</source>
+          <target>退出游戏</target>
+        </segment>
+      </unit>
+      <unit id="358491402551296" name="text_menu_label_set_language" xml:space="preserve">
+        <segment>
+          <source>SET LANGUAGE:</source>
+          <target>设置语言：</target>
+        </segment>
+      </unit>
+      <unit id="358690959147008" name="language_en" xml:space="preserve">
+        <segment>
+          <source>English (en)</source>
+          <target>英语 (en)</target>
+        </segment>
+      </unit>
+      <unit id="358889949511680" name="language_fr" xml:space="preserve">
+        <segment>
+          <source>French (fr)</source>
+          <target>法语 (fr)</target>
+        </segment>
+      </unit>
+      <unit id="358962922012672" name="language_de" xml:space="preserve">
+        <segment>
+          <source>German (de)</source>
+          <target>德语 (de)</target>
+        </segment>
+      </unit>
+      <unit id="359067049803776" name="language_ja" xml:space="preserve">
+        <segment>
+          <source>Japanese (ja)</source>
+          <target>日本 (ja)</target>
+        </segment>
+      </unit>
+      <unit id="359109034786816" name="language_pt" xml:space="preserve">
+        <segment>
+          <source>Portuguese (pt)</source>
+          <target>葡萄牙文（pt）</target>
+        </segment>
+      </unit>
+      <unit id="359198805475328" name="language_ru" xml:space="preserve">
+        <segment>
+          <source>Russian (ru)</source>
+          <target>俄语 (ru)</target>
+        </segment>
+      </unit>
+      <unit id="359245697794048" name="language_es" xml:space="preserve">
+        <segment>
+          <source>Spanish (es)</source>
+          <target>西班牙语 (es)</target>
+        </segment>
+      </unit>
+      <unit id="359295509348352" name="language_th" xml:space="preserve">
+        <segment>
+          <source>Thai (th)</source>
+          <target>泰语 (th)</target>
+        </segment>
+      </unit>
+      <unit id="359347606798336" name="language_zh-hans" xml:space="preserve">
+        <segment>
+          <source>Chinese (zh-Hans)</source>
+          <target>中文 (zh-Hans)</target>
+        </segment>
+      </unit>
+      <unit id="546689911111680" name="text_menu_label_information" xml:space="preserve">
+        <segment>
+          <source>INFORMATION</source>
+          <target>信息</target>
+        </segment>
+      </unit>
+      <unit id="557511341260800" name="text_menu_label_set_password" xml:space="preserve">
+        <segment>
+          <source>PASSWORD:</source>
+          <target>密码：</target>
+        </segment>
+      </unit>
+      <unit id="562978763325440" name="text_menu_label_crafting_queue" xml:space="preserve">
+        <segment>
+          <source>CRAFTING QUEUE</source>
+          <target>制作队列</target>
+        </segment>
+      </unit>
+      <unit id="707852871417856" name="text_menu_label_command_console" xml:space="preserve">
+        <segment>
+          <source>CONSOLE</source>
+          <target>控制台</target>
+        </segment>
+      </unit>
+      <unit id="892555641503744" name="text_menu_information_demo" xml:space="preserve">
+        <segment>
+          <source>The demo's more than a sneak peek. 
+It's our way to tweak improve and
+ensuring everything from gameplay 
+to performance is top-notch. 
+Plus, we're continuously adding 
+cool new items. 
+
+Your support means the world
+to us as we gear up for 
+the big launch. 
+
+By adding our game to your 
+wishlist, you're providing 
+immense support. </source>
+          <target>这个演示不仅仅是
+一个小窥视。
+这是我们调整改进的方式，
+确保从游戏玩法到性能的
+一切都是顶尖的。另外，
+我们还在不断添加酷炫的新物品。
+
+你们的支持对我们来说意义重大
+，因为我们为大型发布做准备。
+
+通过将我们的游戏添加到您的愿望清单，
+您正在提供巨大的支持。</target>
+        </segment>
+      </unit>
+      <unit id="893352798339072" name="text_menu_loading" xml:space="preserve">
+        <segment>
+          <source>LOADING...</source>
+          <target>加载中...</target>
+        </segment>
+      </unit>
+      <unit id="904954956234752" name="text_menu_button_add_to_wishlist" xml:space="preserve">
+        <segment>
+          <source>ADD TO WISHLIST</source>
+          <target>愿望清单</target>
+        </segment>
+      </unit>
+      <unit id="963162844446720" name="text_menu_dropdown_graphic_quality_low" xml:space="preserve">
+        <segment>
+          <source>Low</source>
+          <target>低</target>
+        </segment>
+      </unit>
+      <unit id="963356008923136" name="text_menu_dropdown_graphic_quality_medium" xml:space="preserve">
+        <segment>
+          <source>Medium</source>
+          <target>中等</target>
+        </segment>
+      </unit>
+      <unit id="963380692402176" name="text_menu_dropdown_graphic_quality_high" xml:space="preserve">
+        <segment>
+          <source>High</source>
+          <target>高</target>
+        </segment>
+      </unit>
+      <unit id="979348080574464" name="input_moveup" xml:space="preserve">
+        <segment>
+          <source>Move Up</source>
+          <target>上移</target>
+        </segment>
+      </unit>
+      <unit id="979416841994240" name="input_movedown" xml:space="preserve">
+        <segment>
+          <source>Move Down</source>
+          <target>下移</target>
+        </segment>
+      </unit>
+      <unit id="979759076229120" name="input_moveleft" xml:space="preserve">
+        <segment>
+          <source>Move Left</source>
+          <target>向左移</target>
+        </segment>
+      </unit>
+      <unit id="980416986365952" name="input_moveright" xml:space="preserve">
+        <segment>
+          <source>Move Right</source>
+          <target>向右移</target>
+        </segment>
+      </unit>
+      <unit id="981182211964928" name="input_jump" xml:space="preserve">
+        <segment>
+          <source>Jump</source>
+          <target>跳</target>
+        </segment>
+      </unit>
+      <unit id="981186897002496" name="input_attackandselect" xml:space="preserve">
+        <segment>
+          <source>Attack And Select</source>
+          <target>攻击并选择</target>
+        </segment>
+      </unit>
+      <unit id="981191141638144" name="input_fastmoveiventoryordeselect" xml:space="preserve">
+        <segment>
+          <source>Fast Move Iventory Or Deselect</source>
+          <target>快速移动库存或取消选择</target>
+        </segment>
+      </unit>
+      <unit id="981194899734528" name="input_splitorunload" xml:space="preserve">
+        <segment>
+          <source>Split Or Unload</source>
+          <target>分拆或卸载</target>
+        </segment>
+      </unit>
+      <unit id="981197470842880" name="input_dropitem" xml:space="preserve">
+        <segment>
+          <source>Drop Item</source>
+          <target>丢弃物品</target>
+        </segment>
+      </unit>
+      <unit id="981199601549312" name="input_inventory" xml:space="preserve">
+        <segment>
+          <source>Inventory</source>
+          <target>库存</target>
+        </segment>
+      </unit>
+      <unit id="981201627398144" name="input_build" xml:space="preserve">
+        <segment>
+          <source>Build</source>
+          <target>建造</target>
+        </segment>
+      </unit>
+      <unit id="981203732938752" name="input_rotatebuilding" xml:space="preserve">
+        <segment>
+          <source>Rotate Building</source>
+          <target>旋转大楼</target>
+        </segment>
+      </unit>
+      <unit id="981205825896448" name="input_use" xml:space="preserve">
+        <segment>
+          <source>Use</source>
+          <target>使用</target>
+        </segment>
+      </unit>
+      <unit id="981207818190848" name="input_reload" xml:space="preserve">
+        <segment>
+          <source>Reload</source>
+          <target>重新加载</target>
+        </segment>
+      </unit>
+      <unit id="981494662447104" name="input_torchlight" xml:space="preserve">
+        <segment>
+          <source>Torchlight</source>
+          <target>手电筒</target>
+        </segment>
+      </unit>
+      <unit id="981496877039616" name="input_chatorconfirm" xml:space="preserve">
+        <segment>
+          <source>Chat Or Confirm</source>
+          <target>聊天或确认</target>
+        </segment>
+      </unit>
+      <unit id="981499007746048" name="input_navigation" xml:space="preserve">
+        <segment>
+          <source>Navigation</source>
+          <target>导航</target>
+        </segment>
+      </unit>
+      <unit id="981501260087296" name="input_displayusernames" xml:space="preserve">
+        <segment>
+          <source>Display Usernames</source>
+          <target>显示用户名</target>
+        </segment>
+      </unit>
+      <unit id="981560374607872" name="input_canceltutorial" xml:space="preserve">
+        <segment>
+          <source>Cancel Tutorial</source>
+          <target>取消教程</target>
+        </segment>
+      </unit>
+      <unit id="981562882801664" name="input_console" xml:space="preserve">
+        <segment>
+          <source>Console</source>
+          <target>控制台</target>
+        </segment>
+      </unit>
+      <unit id="981565240000512" name="input_fastselectslot1" xml:space="preserve">
+        <segment>
+          <source>Fast Select Slot 1</source>
+          <target>快速选择插槽 1</target>
+        </segment>
+      </unit>
+      <unit id="981629119250432" name="input_fastselectslot2" xml:space="preserve">
+        <segment>
+          <source>Fast Select Slot 2</source>
+          <target>快速选择插槽2</target>
+        </segment>
+      </unit>
+      <unit id="981631417729024" name="input_fastselectslot3" xml:space="preserve">
+        <segment>
+          <source>Fast Select Slot 3</source>
+          <target>快速选择插槽3</target>
+        </segment>
+      </unit>
+      <unit id="981707489820672" name="input_fastselectslot4" xml:space="preserve">
+        <segment>
+          <source>Fast Select Slot 4</source>
+          <target>快速选择槽 4</target>
+        </segment>
+      </unit>
+      <unit id="981715442221056" name="input_fastselectslot5" xml:space="preserve">
+        <segment>
+          <source>Fast Select Slot 5</source>
+          <target>快速选择槽 5</target>
+        </segment>
+      </unit>
+      <unit id="981719644913664" name="input_fastselectslot6" xml:space="preserve">
+        <segment>
+          <source>Fast Select Slot 6</source>
+          <target>快速选择槽 6</target>
+        </segment>
+      </unit>
+      <unit id="981724686467072" name="input_exitorclose" xml:space="preserve">
+        <segment>
+          <source>Exit Or Close</source>
+          <target>退出或关闭</target>
+        </segment>
+      </unit>
+      <unit id="1000843901157376" name="text_menu_label_community_servers" xml:space="preserve">
+        <segment>
+          <source>COMMUNITY SERVERS</source>
+          <target>社区服务器</target>
+        </segment>
+      </unit>
+      <unit id="1000924318547968" name="text_menu_label_official_servers" xml:space="preserve">
+        <segment>
+          <source>OFFICIAL SERVERS</source>
+          <target>官方服务器</target>
+        </segment>
+      </unit>
+      <unit id="1098921429712896" name="text_menu_label_cloth_slot_body" xml:space="preserve">
+        <segment>
+          <source>Body</source>
+          <target>身体</target>
+        </segment>
+      </unit>
+      <unit id="1099124522106880" name="text_menu_label_cloth_slot_head" xml:space="preserve">
+        <segment>
+          <source>Head</source>
+          <target>头</target>
+        </segment>
+      </unit>
+      <unit id="1099129467191296" name="text_menu_label_cloth_slot_armor" xml:space="preserve">
+        <segment>
+          <source>Armor</source>
+          <target>盔甲</target>
+        </segment>
+      </unit>
+      <unit id="1099132260597760" name="text_menu_label_cloth_slot_pants" xml:space="preserve">
+        <segment>
+          <source>Pants</source>
+          <target>裤子</target>
+        </segment>
+      </unit>
+      <unit id="1099134772985856" name="text_menu_label_cloth_slot_gloves" xml:space="preserve">
+        <segment>
+          <source>Gloves</source>
+          <target>手套</target>
+        </segment>
+      </unit>
+      <unit id="1099463946158080" name="text_menu_label_cloth_slot_shoes" xml:space="preserve">
+        <segment>
+          <source>Shoes</source>
+          <target>鞋</target>
+        </segment>
+      </unit>
+      <unit id="1106784034242560" name="text_menu_label_active_build" xml:space="preserve">
+        <segment>
+          <source>Time</source>
+          <target>时间</target>
+        </segment>
+      </unit>
+      <unit id="1107606986047488" name="text_menu_label_total_queue_time" xml:space="preserve">
+        <segment>
+          <source>TOTAL QUEUE TIME</source>
+          <target>总排队时间</target>
+        </segment>
+      </unit>
+      <unit id="1107656562720768" name="text_menu_label_no_item_crafting" xml:space="preserve">
+        <segment>
+          <source>NOT ACTIVE</source>
+          <target>未激活</target>
+        </segment>
+      </unit>
+      <unit id="1107682663874560" name="text_menu_label_no_queue" xml:space="preserve">
+        <segment>
+          <source>NO QUEUE</source>
+          <target>无队列</target>
+        </segment>
+      </unit>
+      <unit id="1110308348510208" name="text_menu_label_time_left" xml:space="preserve">
+        <segment>
+          <source>TIME LEFT:</source>
+          <target>剩余时间：</target>
+        </segment>
+      </unit>
+      <unit id="1110347833688064" name="text_menu_label_total_time_left" xml:space="preserve">
+        <segment>
+          <source>TOTAL TIME:</source>
+          <target>总时间：</target>
+        </segment>
+      </unit>
+      <unit id="1266377322414080" name="text_menu_welcome" xml:space="preserve">
+        <segment>
+          <source>Welcome to Ruins To Fortress!</source>
+          <target>欢迎来到废墟要塞！</target>
+        </segment>
+      </unit>
+      <unit id="1275135633145856" name="text_menu_message_player" xml:space="preserve">
+        <segment>
+          <source>Player</source>
+          <target>玩家</target>
+        </segment>
+      </unit>
+      <unit id="1275201328529408" name="text_menu_message_joined_the_game" xml:space="preserve">
+        <segment>
+          <source>joined the game.</source>
+          <target>加入了游戏。</target>
+        </segment>
+      </unit>
+      <unit id="1275325672865792" name="text_menu_message_left_the_game" xml:space="preserve">
+        <segment>
+          <source>left the game.</source>
+          <target>离开了游戏。</target>
+        </segment>
+      </unit>
+      <unit id="1278509078298624" name="text_menu_label_master" xml:space="preserve">
+        <segment>
+          <source>Captain</source>
+          <target>船长</target>
+        </segment>
+      </unit>
+      <unit id="1278574689796096" name="text_menu_label_member" xml:space="preserve">
+        <segment>
+          <source>Member</source>
+          <target>成员</target>
+        </segment>
+      </unit>
+      <unit id="1279688558526464" name="text_menu_label_invite_to_clan" xml:space="preserve">
+        <segment>
+          <source>INVITE</source>
+          <target>邀请</target>
+        </segment>
+      </unit>
+      <unit id="1280056126357504" name="text_menu_label_remove_from_clan" xml:space="preserve">
+        <segment>
+          <source>REMOVE</source>
+          <target>删除</target>
+        </segment>
+      </unit>
+      <unit id="1280169175433216" name="text_menu_label_leave_from_clan" xml:space="preserve">
+        <segment>
+          <source>LEAVE</source>
+          <target>离开</target>
+        </segment>
+      </unit>
+      <unit id="1280655362375680" name="text_menu_label_accept_clan" xml:space="preserve">
+        <segment>
+          <source>ACCEPT</source>
+          <target>接受</target>
+        </segment>
+      </unit>
+      <unit id="1283324105736192" name="text_menu_label_amount" xml:space="preserve">
+        <segment>
+          <source>AMOUNT</source>
+          <target>金额</target>
+        </segment>
+      </unit>
+      <unit id="1283384742789120" name="text_menu_label_item_type" xml:space="preserve">
+        <segment>
+          <source>TYPE</source>
+          <target>类型</target>
+        </segment>
+      </unit>
+      <unit id="1287330546860032" name="text_menu_label_crafting" xml:space="preserve">
+        <segment>
+          <source>CRAFTING</source>
+          <target>制造</target>
+        </segment>
+      </unit>
+      <unit id="1312326472187904" name="text_menu_label_enter_message" xml:space="preserve">
+        <segment>
+          <source>Enter Message...</source>
+          <target>输入消息...</target>
+        </segment>
+      </unit>
+      <unit id="1314322436603904" name="text_menu_label_reloading" xml:space="preserve">
+        <segment>
+          <source>RELOADING...</source>
+          <target>重新加载...</target>
+        </segment>
+      </unit>
+      <unit id="1314393983041536" name="text_menu_label_bullets" xml:space="preserve">
+        <segment>
+          <source>BULLETS</source>
+          <target>子弹</target>
+        </segment>
+      </unit>
+      <unit id="1314531010953216" name="text_menu_label_drawing" xml:space="preserve">
+        <segment>
+          <source>DRAWING...</source>
+          <target>拉弓...</target>
+        </segment>
+      </unit>
+      <unit id="1314625529593856" name="text_menu_label_arrows" xml:space="preserve">
+        <segment>
+          <source>ARROWS</source>
+          <target>箭头</target>
+        </segment>
+      </unit>
+      <unit id="1316707317858304" name="text_menu_label_pick_up_placed_item" xml:space="preserve">
+        <segment>
+          <source>PICKUP PLACED ITEM</source>
+          <target>拾取放置的物品</target>
+        </segment>
+      </unit>
+      <unit id="1320823402283008" name="text_menu_label_items_in_nuke_frame" xml:space="preserve">
+        <segment>
+          <source>ITEMS PLACED: {0}</source>
+          <target>物品已放置: {0}</target>
+        </segment>
+      </unit>
+      <unit id="1321510802571264" name="text_menu_label_items_nuclear_bomb" xml:space="preserve">
+        <segment>
+          <source>NUCLEAR BOMB</source>
+          <target>核弹</target>
+        </segment>
+      </unit>
+      <unit id="1321578834182144" name="text_menu_label_items_loot_storage" xml:space="preserve">
+        <segment>
+          <source>LOOT</source>
+          <target>战利品</target>
+        </segment>
+      </unit>
+      <unit id="1321993625681920" name="text_menu_label_items_storage" xml:space="preserve">
+        <segment>
+          <source>STORAGE</source>
+          <target>存储</target>
+        </segment>
+      </unit>
+      <unit id="1323568939155456" name="text_menu_label_3d_printer" xml:space="preserve">
+        <segment>
+          <source>3D PRINTER</source>
+          <target>3D 打印机</target>
+        </segment>
+      </unit>
+      <unit id="1324791457136640" name="text_menu_label_open_door" xml:space="preserve">
+        <segment>
+          <source>OPEN DOOR</source>
+          <target>打开门</target>
+        </segment>
+      </unit>
+      <unit id="1324823224795136" name="text_menu_label_close_door" xml:space="preserve">
+        <segment>
+          <source>CLOSE DOOR</source>
+          <target>关门</target>
+        </segment>
+      </unit>
+      <unit id="1325252285317120" name="text_menu_label_help_plant_seed" xml:space="preserve">
+        <segment>
+          <source>CLICK TO PLANT SEED</source>
+          <target>点击播种</target>
+        </segment>
+      </unit>
+      <unit id="1325594863484928" name="text_menu_label_help_field_is_growing_with_plant" xml:space="preserve">
+        <segment>
+          <source>FIELD IS GROWING </source>
+          <target>领域正在发展</target>
+        </segment>
+      </unit>
+      <unit id="1325956005642240" name="text_menu_label_help_press_to_harvest" xml:space="preserve">
+        <segment>
+          <source>PRESS USE TO HARVEST</source>
+          <target>按下使用以收获</target>
+        </segment>
+      </unit>
+      <unit id="1326285992509440" name="text_menu_label_help_press_to_craft_item" xml:space="preserve">
+        <segment>
+          <source>PRESS TO CRAFT ITEMS</source>
+          <target>按下以制作物品</target>
+        </segment>
+      </unit>
+      <unit id="1328565047279616" name="text_menu_label_upgrade_costs" xml:space="preserve">
+        <segment>
+          <source>UPGRADE COSTS:</source>
+          <target>升级成本：</target>
+        </segment>
+      </unit>
+      <unit id="1329206180200448" name="text_menu_label_repair_costs" xml:space="preserve">
+        <segment>
+          <source>REPAIR COSTS:</source>
+          <target>维修费用：</target>
+        </segment>
+      </unit>
+      <unit id="1334279346077696" name="text_menu_label_respawn_in" xml:space="preserve">
+        <segment>
+          <source>You will respawn in</source>
+          <target>你将在此处重生</target>
+        </segment>
+      </unit>
+      <unit id="1334289575985152" name="text_menu_label_you_will_respawn_now" xml:space="preserve">
+        <segment>
+          <source>You will respawn now!</source>
+          <target>你现在将重生！</target>
+        </segment>
+      </unit>
+      <unit id="1334414264254464" name="text_menu_label_current_survival_time" xml:space="preserve">
+        <segment>
+          <source>Current survival time</source>
+          <target>当前生存时间</target>
+        </segment>
+      </unit>
+      <unit id="1334749347201024" name="text_menu_label_and_you_died" xml:space="preserve">
+        <segment>
+          <source>and you died</source>
+          <target>你死了</target>
+        </segment>
+      </unit>
+      <unit id="1339405800587264" name="building_1" xml:space="preserve">
+        <segment>
+          <source>Foundation</source>
+          <target>基础</target>
+        </segment>
+      </unit>
+      <unit id="1339408686268416" name="building_2" xml:space="preserve">
+        <segment>
+          <source>Wall</source>
+          <target>墙</target>
+        </segment>
+      </unit>
+      <unit id="1339410510790656" name="building_3" xml:space="preserve">
+        <segment>
+          <source>Ceiling</source>
+          <target>天花板</target>
+        </segment>
+      </unit>
+      <unit id="1339412045905920" name="building_4" xml:space="preserve">
+        <segment>
+          <source>Door</source>
+          <target>门</target>
+        </segment>
+      </unit>
+      <unit id="1339413409054720" name="building_5" xml:space="preserve">
+        <segment>
+          <source>Roof</source>
+          <target>屋顶</target>
+        </segment>
+      </unit>
+      <unit id="1339416701583360" name="building_6" xml:space="preserve">
+        <segment>
+          <source>Ladder</source>
+          <target>梯子</target>
+        </segment>
+      </unit>
+      <unit id="1339418714849280" name="building_7" xml:space="preserve">
+        <segment>
+          <source>Block</source>
+          <target>块</target>
+        </segment>
+      </unit>
+      <unit id="1339882088972288" name="building_8" xml:space="preserve">
+        <segment>
+          <source>Pole</source>
+          <target>杆</target>
+        </segment>
+      </unit>
+      <unit id="1339886191001600" name="building_9" xml:space="preserve">
+        <segment>
+          <source>Wooden High Wall</source>
+          <target>木制高墙</target>
+        </segment>
+      </unit>
+      <unit id="1339888111992832" name="building_10" xml:space="preserve">
+        <segment>
+          <source>Fence</source>
+          <target>篱笆</target>
+        </segment>
+      </unit>
+      <unit id="1340428325765120" name="building_11" xml:space="preserve">
+        <segment>
+          <source>Destroy Building</source>
+          <target>摧毁建筑</target>
+        </segment>
+      </unit>
+      <unit id="1340430578106368" name="building_12" xml:space="preserve">
+        <segment>
+          <source>Retrieve Furniture</source>
+          <target>取回家具</target>
+        </segment>
+      </unit>
+      <unit id="1340432163553280" name="building_13" xml:space="preserve">
+        <segment>
+          <source>Paint the back wall</source>
+          <target>粉刷后墙</target>
+        </segment>
+      </unit>
+      <unit id="1342880190054400" name="building_1_info" xml:space="preserve">
+        <segment>
+          <source>The Foundation forms the stable base of your house.</source>
+          <target>基金会构成了你房子的稳定基础。</target>
+        </segment>
+      </unit>
+      <unit id="1342883839098880" name="building_2_info" xml:space="preserve">
+        <segment>
+          <source>Walls are essential for enclosing and protecting your base.</source>
+          <target>墙壁对于围绕和保护你的基地是必不可少的。</target>
+        </segment>
+      </unit>
+      <unit id="1342885072224256" name="building_3_info" xml:space="preserve">
+        <segment>
+          <source>The ceiling completes the enclosure of your living space.</source>
+          <target>天花板完成了你的起居空间的封闭。</target>
+        </segment>
+      </unit>
+      <unit id="1342886171131904" name="building_4_info" xml:space="preserve">
+        <segment>
+          <source>Doors grant access to and from rooms, providing security while allowing passage.</source>
+          <target>门允许人们进出房间，提供安全性的同时允许通过。</target>
+        </segment>
+      </unit>
+      <unit id="1342887202930688" name="building_5_info" xml:space="preserve">
+        <segment>
+          <source>The roof ensuring your house is covered from above. Can be used as a ramp.</source>
+          <target>屋顶确保您的房子从上方得到覆盖。可以用作坡道。</target>
+        </segment>
+      </unit>
+      <unit id="1342887991459840" name="building_6_info" xml:space="preserve">
+        <segment>
+          <source>The Ladder allowing access to higher or lower levels easily.</source>
+          <target>梯子允许轻松地到达更高或更低的层次。</target>
+        </segment>
+      </unit>
+      <unit id="1342890461904896" name="building_7_info" xml:space="preserve">
+        <segment>
+          <source>Blocks can be used for creating partitions within the house.</source>
+          <target>砖块可以用来在房屋内创造隔断。</target>
+        </segment>
+      </unit>
+      <unit id="1342892110266368" name="building_8_info" xml:space="preserve">
+        <segment>
+          <source>Poles are used for structural support, often for holding up other building parts like ceilings.</source>
+          <target>杆子通常用于结构支撑，经常用于支撑天花板等建筑部分。</target>
+        </segment>
+      </unit>
+      <unit id="1342893192396800" name="building_9_info" xml:space="preserve">
+        <segment>
+          <source>The wooden high wall provides enhanced security outside your base.</source>
+          <target>木制的高墙为您的基地外提供了加强的安全保障。</target>
+        </segment>
+      </unit>
+      <unit id="1343089922031616" name="building_10_info" xml:space="preserve">
+        <segment>
+          <source>Fences mark boundaries and make your garden look nice.</source>
+          <target>围栏标志着界限，让你的花园看起来更漂亮。</target>
+        </segment>
+      </unit>
+      <unit id="1343091729776640" name="building_11_info" xml:space="preserve">
+        <segment>
+          <source>This option allows for the dismantling or demolition of a building part.</source>
+          <target>此选项允许拆除或拆毁建筑物的一部分。</target>
+        </segment>
+      </unit>
+      <unit id="1343092954513408" name="building_12_info" xml:space="preserve">
+        <segment>
+          <source>Select this to retrieve a placed item.</source>
+          <target>选择此项以取回放置的物品。</target>
+        </segment>
+      </unit>
+      <unit id="1343094430908416" name="building_13_info" xml:space="preserve">
+        <segment>
+          <source>Use this to add a layer of paint to your base back wall.</source>
+          <target>使用这个在你的基底背墙上添加一层油漆。</target>
+        </segment>
+      </unit>
+      <unit id="1346551518871552" name="text_menu_label_place_item" xml:space="preserve">
+        <segment>
+          <source>PLACE ITEM</source>
+          <target>放置物品</target>
+        </segment>
+      </unit>
+      <unit id="1346554429718528" name="text_menu_label_pickup_item" xml:space="preserve">
+        <segment>
+          <source>PICK UP ITEM</source>
+          <target>拾取物品</target>
+        </segment>
+      </unit>
+      <unit id="1346556610756608" name="text_menu_label_destroy_building" xml:space="preserve">
+        <segment>
+          <source>DESTROY BUILDING PART</source>
+          <target>摧毁建筑部分</target>
+        </segment>
+      </unit>
+      <unit id="1346559307694080" name="text_menu_label_place_building" xml:space="preserve">
+        <segment>
+          <source>PLACE BUILDING</source>
+          <target>建筑地点</target>
+        </segment>
+      </unit>
+      <unit id="1346561581006848" name="text_menu_label_paint_back_wall" xml:space="preserve">
+        <segment>
+          <source>PAINT BACK WALL</source>
+          <target>粉刷后墙</target>
+        </segment>
+      </unit>
+      <unit id="1349767937671168" name="text_menu_info_can_not_build_here" xml:space="preserve">
+        <segment>
+          <source>Building in this area is not permitted.</source>
+          <target>在这个区域建筑是不被允许的。</target>
+        </segment>
+      </unit>
+      <unit id="1359423196119040" name="text_menu_info_world_recovered" xml:space="preserve">
+        <segment>
+          <source>The world has recovered from the nuke.</source>
+          <target>世界已从核爆中恢复过来。</target>
+        </segment>
+      </unit>
+      <unit id="1359549104930816" name="text_menu_info_has_detonated_a_nuke" xml:space="preserve">
+        <segment>
+          <source>has detonated a nuke, turning the world into a wasteland.</source>
+          <target>已引爆一颗核弹，将世界变成了废土。</target>
+        </segment>
+      </unit>
+      <unit id="1359550832984064" name="text_menu_info_world_will_recover_shortly" xml:space="preserve">
+        <segment>
+          <source>The world will recover shortly...</source>
+          <target>世界将很快恢复……</target>
+        </segment>
+      </unit>
+      <unit id="1360635672936448" name="text_menu_info_the_world_will_recover_in" xml:space="preserve">
+        <segment>
+          <source>The world will recover in</source>
+          <target>世界将会复苏</target>
+        </segment>
+      </unit>
+      <unit id="1363140750360576" name="text_menu_button_detonate" xml:space="preserve">
+        <segment>
+          <source>DETONATE NUKE</source>
+          <target>引爆核弹</target>
+        </segment>
+      </unit>
+      <unit id="1433146137788416" name="text_menu_label_retreiving_servers" xml:space="preserve">
+        <segment>
+          <source>RETRIEVING SERVERS...</source>
+          <target>检索服务器...</target>
+        </segment>
+      </unit>
+      <unit id="1433477793988608" name="text_menu_label_password_protected_enter_password" xml:space="preserve">
+        <segment>
+          <source>This server is password protected please enter password!</source>
+          <target>此服务器受密码保护，请输入密码！</target>
+        </segment>
+      </unit>
+      <unit id="1435930719436800" name="text_menu_label_incorrect_password" xml:space="preserve">
+        <segment>
+          <source>Password is incorrect...</source>
+          <target>密码错误...</target>
+        </segment>
+      </unit>
+      <unit id="1435945173008384" name="text_menu_label_game_version_different" xml:space="preserve">
+        <segment>
+          <source>Game version is not the same as server version...</source>
+          <target>游戏版本与服务器版本不同...</target>
+        </segment>
+      </unit>
+      <unit id="1437216844038144" name="text_menu_popup_msg1" xml:space="preserve">
+        <segment>
+          <source>You already sent an invitation to this player.</source>
+          <target>你已经向这位玩家发送了邀请。</target>
+        </segment>
+      </unit>
+      <unit id="1437220853792768" name="text_menu_popup_msg2" xml:space="preserve">
+        <segment>
+          <source>You currently can't join a clan. Each player or clan is restricted to having only one workbench. You can remove or destroy your current workbench to join a clan.</source>
+          <target>你目前无法加入一个部落。每个玩家或部落仅限拥有一个工作台。你可以移除或摧毁你当前的工作台以加入一个部落。</target>
+        </segment>
+      </unit>
+      <unit id="1437223856914432" name="text_menu_popup_msg3" xml:space="preserve">
+        <segment>
+          <source>You are already in a clan. Leave your current clan to join a new one.</source>
+          <target>你已经在一个部落中。离开你当前的部落才能加入新的部落。</target>
+        </segment>
+      </unit>
+      <unit id="1437226981670912" name="text_menu_popup_msg4" xml:space="preserve">
+        <segment>
+          <source>No server selected...</source>
+          <target>未选择服务器...</target>
+        </segment>
+      </unit>
+      <unit id="1437229129154560" name="text_menu_popup_msg5" xml:space="preserve">
+        <segment>
+          <source>Server is full...</source>
+          <target>服务器已满...</target>
+        </segment>
+      </unit>
+      <unit id="1437232086138880" name="text_menu_popup_msg6" xml:space="preserve">
+        <segment>
+          <source>You are already connected to this server, try to disconnect first...</source>
+          <target>您已经连接到这个服务器，请先尝试断开连接...</target>
+        </segment>
+      </unit>
+      <unit id="1437249731575808" name="text_menu_popup_msg7" xml:space="preserve">
+        <segment>
+          <source>Connection Failed...</source>
+          <target>连接失败...</target>
+        </segment>
+      </unit>
+      <unit id="1438454998384640" name="text_menu_popup_msg8" xml:space="preserve">
+        <segment>
+          <source>Steam is not running...</source>
+          <target>Steam未在运行...</target>
+        </segment>
+      </unit>
+      <unit id="1439494896369664" name="text_menu_popup_msg9" xml:space="preserve">
+        <segment>
+          <source>Retrieve server list not possible. No internet connection.</source>
+          <target>无法检索服务器列表。没有互联网连接。</target>
+        </segment>
+      </unit>
+      <unit id="1439564752502784" name="text_menu_popup_msg10" xml:space="preserve">
+        <segment>
+          <source>Register server not possible. No internet connection.</source>
+          <target>无法注册服务器。没有互联网连接。</target>
+        </segment>
+      </unit>
+      <unit id="1439580388868096" name="text_menu_popup_msg11" xml:space="preserve">
+        <segment>
+          <source>Update server not possible. No internet connection.</source>
+          <target>无法更新服务器。没有互联网连接。</target>
+        </segment>
+      </unit>
+      <unit id="1439593647063040" name="text_menu_popup_msg12" xml:space="preserve">
+        <segment>
+          <source>Deregistering the server is not possible. No internet connection.</source>
+          <target>无法注销服务器。没有互联网连接。</target>
+        </segment>
+      </unit>
+      <unit id="1832226315845632" name="language_pl" xml:space="preserve">
+        <segment>
+          <source>Polish (pl)</source>
+          <target>波兰语 (pl)</target>
+        </segment>
+      </unit>
+      <unit id="2052016884170752" name="text_menu_label_day_night_cycle" xml:space="preserve">
+        <segment>
+          <source>ENABLE DAY AND NIGHT CYCLE:</source>
+          <target>启用昼夜循环：</target>
+        </segment>
+      </unit>
+      <unit id="2052022332571648" name="text_menu_label_enable_npcs" xml:space="preserve">
+        <segment>
+          <source>ENABLE OUTLAW NPCS:</source>
+          <target>启用非法NPC：</target>
+        </segment>
+      </unit>
+      <unit id="2355291487485952" name="text_menu_popup_msg13" xml:space="preserve">
+        <segment>
+          <source>No internet connection.</source>
+          <target>无法连接到互联网。</target>
+        </segment>
+      </unit>
+      <unit id="4522694876004352" name="info_message_36" xml:space="preserve">
+        <segment>
+          <source>is broken!</source>
+          <target>坏了！</target>
+        </segment>
+      </unit>
+      <unit id="4572255229247488" name="info_message_37" xml:space="preserve">
+        <segment>
+          <source>You're out of ammunition.</source>
+          <target>你的弹药用完了。</target>
+        </segment>
+      </unit>
+      <unit id="4573959236550656" name="info_message_38" xml:space="preserve">
+        <segment>
+          <source>No ammunition in magazine.</source>
+          <target>弹匣中没有弹药。</target>
+        </segment>
+      </unit>
+      <unit id="4576249838239744" name="text_menu_label_leader" xml:space="preserve">
+        <segment>
+          <source>Captain</source>
+          <target>船长</target>
+        </segment>
+      </unit>
+      <unit id="4615422188126208" name="text_menu_label_items_refill_time" xml:space="preserve">
+        <segment>
+          <source>RESTOCK TIME: {0}</source>
+          <target>补货时间：{0}</target>
+        </segment>
+      </unit>
+      <unit id="5249989626494976" name="text_menu_label_kicked_from_the_server" xml:space="preserve">
+        <segment>
+          <source>You have been kicked from the server.</source>
+          <target>你已被踢出服务器。</target>
+        </segment>
+      </unit>
+      <unit id="5250106261700608" name="text_menu_label_banned_from_the_server" xml:space="preserve">
+        <segment>
+          <source>You have been banned from the server.</source>
+          <target>您已被禁止进入服务器。</target>
+        </segment>
+      </unit>
+      <unit id="7127614770839552" name="text_menu_label_select" xml:space="preserve">
+        <segment>
+          <source>CONFIRM</source>
+          <target>确认</target>
+        </segment>
+      </unit>
+      <unit id="7128453988155392" name="text_menu_label_select_game" xml:space="preserve">
+        <segment>
+          <source>SELECT GAME</source>
+          <target>选择游戏</target>
+        </segment>
+      </unit>
+      <unit id="7136835918823424" name="text_menu_label_deselect" xml:space="preserve">
+        <segment>
+          <source>DESELECT</source>
+          <target>取消选择</target>
+        </segment>
+      </unit>
+      <unit id="7152122361741312" name="text_menu_label_save_game" xml:space="preserve">
+        <segment>
+          <source>SAVE GAME</source>
+          <target>保存游戏</target>
+        </segment>
+      </unit>
+      <unit id="7155540820164608" name="info_message_40" xml:space="preserve">
+        <segment>
+          <source>GAME IS SAVING...</source>
+          <target>游戏保存中...</target>
+        </segment>
+      </unit>
+      <unit id="7155736501223424" name="info_message_41" xml:space="preserve">
+        <segment>
+          <source>GAME SAVED!</source>
+          <target>游戏已保存！</target>
+        </segment>
+      </unit>
+      <unit id="8220293523431424" name="text_menu_popup_msg14" xml:space="preserve">
+        <segment>
+          <source>You can not connect to a game hosted by yourself.</source>
+          <target>你不能连接到你自己托管的游戏。</target>
+        </segment>
+      </unit>
+      <unit id="11066478136852480" name="text_menu_label_info" xml:space="preserve">
+        <segment>
+          <source>INFO:</source>
+          <target>信息：</target>
+        </segment>
+      </unit>
+      <unit id="11067338413768704" name="text_menu_label_day" xml:space="preserve">
+        <segment>
+          <source>DAY</source>
+          <target>日</target>
+        </segment>
+      </unit>
+      <unit id="11102730630397952" name="text_menu_label_game_mode" xml:space="preserve">
+        <segment>
+          <source>GAME MODE:</source>
+          <target>游戏模式：</target>
+        </segment>
+      </unit>
+      <unit id="14390310734069760" name="input_greetings" xml:space="preserve">
+        <segment>
+          <source>Greetings:</source>
+          <target>问候：</target>
+        </segment>
+      </unit>
+      <unit id="14503492643389440" name="info_message_42" xml:space="preserve">
+        <segment>
+          <source>This item must be positioned on either a foundation or a ceiling.</source>
+          <target>此物品必须放置在地基或者天花板上。</target>
+        </segment>
+      </unit>
+      <unit id="17403467220058112" name="item_Wooden Club" xml:space="preserve">
+        <segment>
+          <source>Wooden Club</source>
+          <target>木棒</target>
+        </segment>
+      </unit>
+      <unit id="17403483779170304" name="item_Wooden Club_info" xml:space="preserve">
+        <segment>
+          <source>A weak but versatile tool. Cuts wood, mines ore, and loots containers.</source>
+          <target>一个脆弱但多功能的工具。能切割木头，开采矿石，以及洗劫容器。</target>
+        </segment>
+      </unit>
+      <unit id="17579030308126720" name="text_help_attack" xml:space="preserve">
+        <segment>
+          <source>Press the left mouse button to use a weapon or tool.</source>
+          <target>按左键使用武器或工具。</target>
+        </segment>
+      </unit>
+      <unit id="17580393268183040" name="text_console_tutorial_finished1" xml:space="preserve">
+        <segment>
+          <source>Tutorial complete! You're on your own now.</source>
+          <target>教程完成！现在你独自一人了。</target>
+        </segment>
+      </unit>
+      <unit id="17582658087485440" name="text_console_tutorial_finished2" xml:space="preserve">
+        <segment>
+          <source>Find a boat to float past obstacles!</source>
+          <target>找一艘船漂过障碍物！</target>
+        </segment>
+      </unit>
+      <unit id="17582799741714432" name="text_console_tutorial_finished3" xml:space="preserve">
+        <segment>
+          <source>Good Luck!</source>
+          <target>祝你好运!</target>
+        </segment>
+      </unit>
+      <unit id="18354536729214976" name="item_Headlamp" xml:space="preserve">
+        <segment>
+          <source>Headlamp</source>
+          <target>头灯</target>
+        </segment>
+      </unit>
+      <unit id="18354579687276544" name="item_Headlamp_info" xml:space="preserve">
+        <segment>
+          <source>Hands-free light for night exploration. Can be turned on and off.</source>
+          <target>无需用手操作的夜间探索灯，可开启和关闭。</target>
+        </segment>
+      </unit>
+      <unit id="20574206429429760" name="disclaimer_label" xml:space="preserve">
+        <segment>
+          <source>This game is still in development</source>
+          <target>这款游戏仍在开发中</target>
+        </segment>
+      </unit>
+      <unit id="20574250926800896" name="disclaimer_info_text" xml:space="preserve">
+        <segment>
+          <source>Ruins to Fortress is an indie passion project, and the game is still in Early Access. Many things may change before the final release.
+
+Certain game or platform features aren't available yet, and you will probably encounter bugs. Feel free to drop feedback on our Discord channel where we try to respond every day.
+
+Thank you for understanding as we continue work on the game.
+
+Simon and Markus, 
+
+Ruins to Fortress devs</source>
+          <target>Ruins to Fortress 是一个独立的热情项目，目前游戏仍处于抢先体验阶段。许多事情可能会在最终发布前发生变化。
+
+某些游戏或平台功能尚不可用，您可能会遇到一些错误。欢迎随时在我们的 Discord 频道上提供反馈，我们每天都会尽量回复。
+
+感谢您的理解，我们会继续努力完善游戏。
+
+Simon 和 Markus，
+
+Ruins to Fortress 开发者</target>
+        </segment>
+      </unit>
+      <unit id="20628166091669504" name="text_menu_label_continue" xml:space="preserve">
+        <segment>
+          <source>continue</source>
+          <target>继续</target>
+        </segment>
+      </unit>
+      <unit id="25019591025688576" name="text_menu_label_comfortzone" xml:space="preserve">
+        <segment>
+          <source>COMFORT ZONE</source>
+          <target>舒适区</target>
+        </segment>
+      </unit>
+      <unit id="29170667392008192" name="item_Knife" xml:space="preserve">
+        <segment>
+          <source>Knife</source>
+          <target>刀</target>
+        </segment>
+      </unit>
+      <unit id="29170702376697856" name="item_Knife_info" xml:space="preserve">
+        <segment>
+          <source>NPC Knife</source>
+          <target>NPC刀</target>
+        </segment>
+      </unit>
+      <unit id="29170735587196928" name="item_Battery" xml:space="preserve">
+        <segment>
+          <source>Battery</source>
+          <target>电池</target>
+        </segment>
+      </unit>
+      <unit id="29170757145919488" name="item_Battery_info" xml:space="preserve">
+        <segment>
+          <source>Power source for various electronic devices.</source>
+          <target>各种电子设备的电源。</target>
+        </segment>
+      </unit>
+      <unit id="29170777530236928" name="item_Fuse Box" xml:space="preserve">
+        <segment>
+          <source>Fuse Box</source>
+          <target>配电箱</target>
+        </segment>
+      </unit>
+      <unit id="29170794563305472" name="item_Fuse Box_info" xml:space="preserve">
+        <segment>
+          <source>A central hub for managing and distributing electricity. Connects to batteries and solar panels.</source>
+          <target>用于管理和分配电力的中央枢纽。可连接到电池和太阳能板。</target>
+        </segment>
+      </unit>
+      <unit id="29170813014048768" name="item_Solar Panel" xml:space="preserve">
+        <segment>
+          <source>Solar Panel</source>
+          <target>太阳能板</target>
+        </segment>
+      </unit>
+      <unit id="29170828876906496" name="item_Solar Panel_info" xml:space="preserve">
+        <segment>
+          <source>Converts sunlight into electricity. Provides a sustainable power source for various devices.</source>
+          <target>将阳光转换为电能。为各种设备提供可持续的电力来源。</target>
+        </segment>
+      </unit>
+      <unit id="29170862091599872" name="item_Satoshi Miner" xml:space="preserve">
+        <segment>
+          <source>Satoshi Miner</source>
+          <target>比特币矿工</target>
+        </segment>
+      </unit>
+      <unit id="29170910825218048" name="item_Satoshi Miner_info" xml:space="preserve">
+        <segment>
+          <source>Generates cryptocurrency by solving complex algorithms. Requires electricity to operate.</source>
+          <target>通过解决复杂算法来生成加密货币。 需要电力来运行。</target>
+        </segment>
+      </unit>
+      <unit id="29170934397206528" name="item_Satoshi Mining Rack" xml:space="preserve">
+        <segment>
+          <source>Satoshi Mining Rack</source>
+          <target>聪币挖矿架</target>
+        </segment>
+      </unit>
+      <unit id="29170958397014016" name="item_Satoshi Mining Rack_info" xml:space="preserve">
+        <segment>
+          <source>Houses multiple Satoshi Miners, increasing cryptocurrency production.</source>
+          <target>容纳多个Satoshi Miner，增加加密货币产量。</target>
+        </segment>
+      </unit>
+      <unit id="29170977481097216" name="item_Planter Box" xml:space="preserve">
+        <segment>
+          <source>Planter Box</source>
+          <target>种植箱</target>
+        </segment>
+      </unit>
+      <unit id="29171011278798848" name="item_Planter Box_info" xml:space="preserve">
+        <segment>
+          <source>Used for growing crops and plants. Provides a sustainable food source.</source>
+          <target>用于种植农作物和植物。提供可持续的食物来源。</target>
+        </segment>
+      </unit>
+      <unit id="29188471633674240" name="item_Industrial Lamp" xml:space="preserve">
+        <segment>
+          <source>Industrial Lamp</source>
+          <target>工业灯</target>
+        </segment>
+      </unit>
+      <unit id="29188491795693568" name="item_Industrial Lamp_info" xml:space="preserve">
+        <segment>
+          <source>Used for growing crops and plants. Provides a sustainable food source. Requires electricity to operate.</source>
+          <target>用于种植农作物和植物。提供可持续的食物来源。需要电力才能操作。</target>
+        </segment>
+      </unit>
+      <unit id="29188517632606208" name="item_Ceiling Lamp" xml:space="preserve">
+        <segment>
+          <source>Ceiling Lamp</source>
+          <target>吊灯</target>
+        </segment>
+      </unit>
+      <unit id="29188527975759872" name="item_Ceiling Lamp_info" xml:space="preserve">
+        <segment>
+          <source>Light source. Requires electricity to operate.</source>
+          <target>光源。需要电力才能运行。</target>
+        </segment>
+      </unit>
+      <unit id="29231796533264384" name="item_Advanced Planter Box" xml:space="preserve">
+        <segment>
+          <source>Advanced Planter Box</source>
+          <target>高级花坛</target>
+        </segment>
+      </unit>
+      <unit id="29231925478752256" name="item_Advanced Planter Box_info" xml:space="preserve">
+        <segment>
+          <source>Used for growing crops and plants. Requires electricity to operate.</source>
+          <target>用于种植作物和植物。需要电力才能操作。</target>
+        </segment>
+      </unit>
+      <unit id="29695278357610496" name="text_button_turn_all_on" xml:space="preserve">
+        <segment>
+          <source>Turn all on</source>
+          <target>全部打开</target>
+        </segment>
+      </unit>
+      <unit id="29695359047630848" name="text_button_turn_all_off" xml:space="preserve">
+        <segment>
+          <source>Turn all off</source>
+          <target>全部关闭</target>
+        </segment>
+      </unit>
+      <unit id="29699994210729984" name="text_button_label_electric_input" xml:space="preserve">
+        <segment>
+          <source>energy input: &lt;color=#428236&gt;{0}&lt;/color&gt;</source>
+          <target>能量输入: &lt;color=#428236&gt;{0}&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="29700136125005824" name="text_button_label_electric_output" xml:space="preserve">
+        <segment>
+          <source>energy output: &lt;color=#d94f4f&gt;{0}&lt;/color&gt;</source>
+          <target>能量输出: &lt;color=#d94f4f&gt;{0}&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="29700322532458496" name="text_button_label_electric_battery" xml:space="preserve">
+        <segment>
+          <source>battery: &lt;color=#a5bbb1&gt;{0}&lt;/color&gt;</source>
+          <target>电池: &lt;color=#a5bbb1&gt;{0}&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="31889568378847232" name="item_Electronic Scrap" xml:space="preserve">
+        <segment>
+          <source>Electronic Scrap</source>
+          <target>电子废料</target>
+        </segment>
+      </unit>
+      <unit id="31889582048083968" name="item_Electronic Scrap_info" xml:space="preserve">
+        <segment>
+          <source>Electronic Scrap used in advanced crafting and construction. Obtained from loot containers.</source>
+          <target>用于高级制作和建造的电子废料。从战利品容器中获得。</target>
+        </segment>
+      </unit>
+      <unit id="32622647615619072" name="text_menu_help_select_with_mouse" xml:space="preserve">
+        <segment>
+          <source>Select an Interactable Item with the Mouse Cursor</source>
+          <target>用鼠标光标选择一个可互动的项目</target>
+        </segment>
+      </unit>
+      <unit id="32875137401552896" name="text_menu_help_select_door_with_mouse" xml:space="preserve">
+        <segment>
+          <source>Select Door with the Mouse Cursor</source>
+          <target>用鼠标光标选择门</target>
+        </segment>
+      </unit>
+      <unit id="32875234818457600" name="text_menu_help_select_chest_with_mouse" xml:space="preserve">
+        <segment>
+          <source>Select Chest with the Mouse Cursor</source>
+          <target>用鼠标光标选择箱子</target>
+        </segment>
+      </unit>
+      <unit id="32875257241206784" name="text_menu_help_select_vendingmachine_with_mouse" xml:space="preserve">
+        <segment>
+          <source>Select Vendingmachine with the Mouse Cursor</source>
+          <target>用鼠标光标选择自动售货机</target>
+        </segment>
+      </unit>
+      <unit id="33207713861402624" name="text_menu_help_pick_a_hammer" xml:space="preserve">
+        <segment>
+          <source>Select the hammer tool to interact with buildings and items.</source>
+          <target>选择锤子工具与建筑和物品互动。</target>
+        </segment>
+      </unit>
+      <unit id="33316889056968704" name="text_menu_help_eat_food_1" xml:space="preserve">
+        <segment>
+          <source>To gain more health and calories, eat and cook nutritious food</source>
+          <target>为了获得更多的健康和热量，吃和烹饪营养丰富的食物</target>
+        </segment>
+      </unit>
+      <unit id="33316952235769856" name="text_menu_help_eat_food_2" xml:space="preserve">
+        <segment>
+          <source>Select the food items from the inventory AND PRESS</source>
+          <target>从库存中选择食物并按</target>
+        </segment>
+      </unit>
+      <unit id="34288117808824320" name="info_message_43" xml:space="preserve">
+        <segment>
+          <source>Cannot turn on electric, all batteries are empty.</source>
+          <target>无法开电，所有电池都没电了。</target>
+        </segment>
+      </unit>
+      <unit id="34386819206545408" name="info_message_44" xml:space="preserve">
+        <segment>
+          <source>A Workbench is necessary to control a fuse box.</source>
+          <target>工作台是控制配电箱的必要工具。</target>
+        </segment>
+      </unit>
+      <unit id="34387705412648960" name="text_menu_label_seed" xml:space="preserve">
+        <segment>
+          <source>Seed</source>
+          <target>种子</target>
+        </segment>
+      </unit>
+      <unit id="36065537535971328" name="text_menu_label_rack_hashrate" xml:space="preserve">
+        <segment>
+          <source>Global Hashrate: {0}</source>
+          <target>全球算力: {0}</target>
+        </segment>
+      </unit>
+      <unit id="36065568523489280" name="text_menu_label_global_hashrate" xml:space="preserve">
+        <segment>
+          <source>Rack Hashrate: {0}</source>
+          <target>架子哈希率: {0}</target>
+        </segment>
+      </unit>
+      <unit id="36853459911376896" name="text_menu_label_dronepickupstation" xml:space="preserve">
+        <segment>
+          <source>Drone Pickup Station</source>
+          <target>无人机取货站</target>
+        </segment>
+      </unit>
+      <unit id="51011593676455936" name="item_Chicken_Egg" xml:space="preserve">
+        <segment>
+          <source>Chicken Egg</source>
+          <target>鸡蛋</target>
+        </segment>
+      </unit>
+      <unit id="51011813869027328" name="item_Chicken Egg_info" xml:space="preserve">
+        <segment>
+          <source>Edible egg. Good source of protein and nutrition.</source>
+          <target>可食用的鸡蛋。良好的蛋白质和营养来源。</target>
+        </segment>
+      </unit>
+      <unit id="51011859519832064" name="item_Chicken" xml:space="preserve">
+        <segment>
+          <source>Chicken</source>
+          <target>鸡肉</target>
+        </segment>
+      </unit>
+      <unit id="51011911512424448" name="item_Chicken_info" xml:space="preserve">
+        <segment>
+          <source>To produce eggs for food, a chicken coop is required.</source>
+          <target>为了生产食用鸡蛋，需要一个鸡舍。</target>
+        </segment>
+      </unit>
+      <unit id="51012086700113920" name="item_Chicken House" xml:space="preserve">
+        <segment>
+          <source>Chicken House</source>
+          <target>鸡舍</target>
+        </segment>
+      </unit>
+      <unit id="51012223568642048" name="item_Chicken House_info" xml:space="preserve">
+        <segment>
+          <source>Shelter for hens and rooster. Provides a safe environment for egg production.</source>
+          <target>鸡舍。为产卵提供安全的环境。</target>
+        </segment>
+      </unit>
+      <unit id="51012248512167936" name="item_Companion" xml:space="preserve">
+        <segment>
+          <source>Companion</source>
+          <target>伙伴</target>
+        </segment>
+      </unit>
+      <unit id="51012326366838784" name="item_Companion_info" xml:space="preserve">
+        <segment>
+          <source>A loyal companion that follows you to your base.</source>
+          <target>一个忠诚的伙伴，会跟随你到你的基地。</target>
+        </segment>
+      </unit>
+      <unit id="51486184102363136" name="text_menu_label_chickens" xml:space="preserve">
+        <segment>
+          <source>Chickens</source>
+          <target>鸡</target>
+        </segment>
+      </unit>
+      <unit id="51735885816987648" name="item_Wild Chicken" xml:space="preserve">
+        <segment>
+          <source>Wild Chicken</source>
+          <target>野鸡</target>
+        </segment>
+      </unit>
+      <unit id="51735910940868608" name="item_Wild Chicken_info" xml:space="preserve">
+        <segment>
+          <source>Wild chicken. Can be tamed and domesticated for egg production.</source>
+          <target>野鸡。可以驯化和圈养用于产蛋。</target>
+        </segment>
+      </unit>
+      <unit id="54002195754057728" name="warning_no_workbench" xml:space="preserve">
+        <segment>
+          <source>No Workbench</source>
+          <target>没有工作台</target>
+        </segment>
+      </unit>
+      <unit id="54002294223732736" name="warning_not_enough_resources" xml:space="preserve">
+        <segment>
+          <source>Insufficient Materials</source>
+          <target>材料不足</target>
+        </segment>
+      </unit>
+      <unit id="54007656448458752" name="warning_landing_permitted" xml:space="preserve">
+        <segment>
+          <source>Landing Denied</source>
+          <target>着陆被拒绝</target>
+        </segment>
+      </unit>
+      <unit id="54009140229636096" name="warning_not_permitted" xml:space="preserve">
+        <segment>
+          <source>Not Permitted</source>
+          <target>不允许</target>
+        </segment>
+      </unit>
+      <unit id="54197820873441280" name="warning_inventory_full" xml:space="preserve">
+        <segment>
+          <source>Inventory Full</source>
+          <target>库存已满</target>
+        </segment>
+      </unit>
+      <unit id="55288823856431104" name="text_menu_label_skins" xml:space="preserve">
+        <segment>
+          <source>Custom Skins</source>
+          <target>自定义皮肤</target>
+        </segment>
+      </unit>
+      <unit id="55289688130519040" name="text_menu_button_clothing" xml:space="preserve">
+        <segment>
+          <source>Clothing</source>
+          <target>服装</target>
+        </segment>
+      </unit>
+      <unit id="55289781114044416" name="text_menu_button_weapon_and_tools" xml:space="preserve">
+        <segment>
+          <source>Weapon And Tools</source>
+          <target>武器和工具</target>
+        </segment>
+      </unit>
+      <unit id="55290095741370368" name="text_menu_button_others" xml:space="preserve">
+        <segment>
+          <source>Others</source>
+          <target>其他</target>
+        </segment>
+      </unit>
+      <unit id="55357687877271552" name="text_menu_label_preview_skin" xml:space="preserve">
+        <segment>
+          <source>Skin Demo</source>
+          <target>皮肤演示</target>
+        </segment>
+      </unit>
+      <unit id="55357788255354880" name="text_menu_label_select_base_item" xml:space="preserve">
+        <segment>
+          <source>Select Item And Choose Skin</source>
+          <target>选择物品并选择皮肤</target>
+        </segment>
+      </unit>
+      <unit id="55625548873007104" name="text_menu_label_skin" xml:space="preserve">
+        <segment>
+          <source>Skin</source>
+          <target>皮肤 </target>
+        </segment>
+      </unit>
+      <unit id="55994273413398528" name="text_menu_button_set_skin_default" xml:space="preserve">
+        <segment>
+          <source>Set Default</source>
+          <target>设为默认</target>
+        </segment>
+      </unit>
+      <unit id="56082272897662976" name="text_menu_label_select_item_category" xml:space="preserve">
+        <segment>
+          <source>Choose Game Item Category</source>
+          <target>选择游戏物品类别</target>
+        </segment>
+      </unit>
+      <unit id="59684654227324928" name="text_menu_label_enable_server_cheats" xml:space="preserve">
+        <segment>
+          <source>CHEATS ENABLED:</source>
+          <target>作弊启用：</target>
+        </segment>
+      </unit>
+      <unit id="61618430943625216" name="item_Medikit" xml:space="preserve">
+        <segment>
+          <source>Medikit</source>
+          <target>医疗包</target>
+        </segment>
+      </unit>
+      <unit id="61618462132469760" name="item_Medikit_info" xml:space="preserve">
+        <segment>
+          <source>The best health item in the game. Instantly restores full health.</source>
+          <target>游戏中最好的健康物品。瞬间恢复全部健康。</target>
+        </segment>
+      </unit>
+      <unit id="61807379892862976" name="text_menu_label_news_1" xml:space="preserve">
+        <segment>
+          <source>Buy the dlc now</source>
+          <target>立即购买DLC</target>
+        </segment>
+      </unit>
+      <unit id="61807487124439040" name="text_menu_text_news_1" xml:space="preserve">
+        <segment>
+          <source>Enhance your gaming experience with the one and only DLC ever released.</source>
+          <target>通过有史以来发布的唯一DLC增强您的游戏体验。</target>
+        </segment>
+      </unit>
+      <unit id="61807596868403200" name="text_menu_label_news_2" xml:space="preserve">
+        <segment>
+          <source>Road to Full Release</source>
+          <target>全面发布之路</target>
+        </segment>
+      </unit>
+      <unit id="61807603692535808" name="text_menu_text_news_2" xml:space="preserve">
+        <segment>
+          <source>Discover our plans and what’s coming next.</source>
+          <target>发现我们的计划和接下来的内容。</target>
+        </segment>
+      </unit>
+      <unit id="61807732327645184" name="text_menu_label_news_3" xml:space="preserve">
+        <segment>
+          <source>Join our Community</source>
+          <target>加入我们的社区</target>
+        </segment>
+      </unit>
+      <unit id="61807743027314688" name="text_menu_text_news_3" xml:space="preserve">
+        <segment>
+          <source>Be part of our Discord community and stay connected!</source>
+          <target>加入我们的Discord社区，保持联系！</target>
+        </segment>
+      </unit>
+      <unit id="63793016627281920" name="info_message_45" xml:space="preserve">
+        <segment>
+          <source>was killed by</source>
+          <target>被杀</target>
+        </segment>
+      </unit>
+      <unit id="65116157753098240" name="warning_currently_eating" xml:space="preserve">
+        <segment>
+          <source>Currently Eating...</source>
+          <target>正在吃...</target>
+        </segment>
+      </unit>
+      <unit id="65428377854738432" name="warning_not_possible" xml:space="preserve">
+        <segment>
+          <source>Not Possible</source>
+          <target>不可能</target>
+        </segment>
+      </unit>
+      <unit id="65431273396699136" name="text_help_rotate_building" xml:space="preserve">
+        <segment>
+          <source>Rotate</source>
+          <target>旋转</target>
+        </segment>
+      </unit>
+      <unit id="65432021593423872" name="text_help_destroy" xml:space="preserve">
+        <segment>
+          <source>Destroy</source>
+          <target>摧毁</target>
+        </segment>
+      </unit>
+      <unit id="65432235209326592" name="text_help_paint" xml:space="preserve">
+        <segment>
+          <source>Paint</source>
+          <target>油漆</target>
+        </segment>
+      </unit>
+      <unit id="65823185744101376" name="item_Xmas Tree" xml:space="preserve">
+        <segment>
+          <source>Xmas Tree</source>
+          <target>圣诞树</target>
+        </segment>
+      </unit>
+      <unit id="65823220665876480" name="item_Xmas Tree_info" xml:space="preserve">
+        <segment>
+          <source>Festive Xmas tree with lights and ornaments for holiday cheer.</source>
+          <target>节日圣诞树装饰着灯光和饰品，带来节日的欢喜。</target>
+        </segment>
+      </unit>
+      <unit id="66843148546146304" name="text_menu_label_retreiving_inventory" xml:space="preserve">
+        <segment>
+          <source>RETRIEVING INVENTORY...</source>
+          <target>正在检索 Steam 库存...</target>
+        </segment>
+      </unit>
+      <unit id="67396407023304704" name="text_menu_popup_msg19" xml:space="preserve">
+        <segment>
+          <source>Failed to connect to the server browser.</source>
+          <target>无法连接到服务器浏览器。</target>
+        </segment>
+      </unit>
+      <unit id="68331088845668352" name="text_menu_label_crafting_menu" xml:space="preserve">
+        <segment>
+          <source>CRAFTING MENU</source>
+          <target>制作菜单</target>
+        </segment>
+      </unit>
+      <unit id="68358857914777600" name="text_menu_label_crafting_all_items" xml:space="preserve">
+        <segment>
+          <source>ALL ITEMS</source>
+          <target>所有项目</target>
+        </segment>
+      </unit>
+      <unit id="68358956778717184" name="text_menu_label_crafting_common_items" xml:space="preserve">
+        <segment>
+          <source>COMMON</source>
+          <target>常见物品</target>
+        </segment>
+      </unit>
+      <unit id="68358998151331840" name="text_menu_label_crafting_tools_items" xml:space="preserve">
+        <segment>
+          <source>TOOLS</source>
+          <target>工具</target>
+        </segment>
+      </unit>
+      <unit id="68359042539651072" name="text_menu_label_crafting_weapons_items" xml:space="preserve">
+        <segment>
+          <source>Weapons</source>
+          <target>武器</target>
+        </segment>
+      </unit>
+      <unit id="68359105168998400" name="text_menu_label_crafting_clothing_items" xml:space="preserve">
+        <segment>
+          <source>CLOTHING</source>
+          <target>服装</target>
+        </segment>
+      </unit>
+      <unit id="68359184663642112" name="text_menu_label_crafting_furniture_items" xml:space="preserve">
+        <segment>
+          <source>FURNITURE</source>
+          <target>家具</target>
+        </segment>
+      </unit>
+      <unit id="68359268281286656" name="text_menu_label_crafting_electric_items" xml:space="preserve">
+        <segment>
+          <source>ELECTRIC</source>
+          <target>电动的</target>
+        </segment>
+      </unit>
+      <unit id="68359518240833536" name="text_menu_label_crafting_no_queue" xml:space="preserve">
+        <segment>
+          <source>NO QUEUE...</source>
+          <target>没有排队...</target>
+        </segment>
+      </unit>
+      <unit id="68380528193241088" name="text_menu_label_item_name" xml:space="preserve">
+        <segment>
+          <source>Item Name...</source>
+          <target>物品名称...</target>
+        </segment>
+      </unit>
+      <unit id="68857948818046976" name="text_menu_message_server_restart" xml:space="preserve">
+        <segment>
+          <source>The server will restart in a moment. Please be prepared.</source>
+          <target>服务器将在片刻后重启。请做好准备。</target>
+        </segment>
+      </unit>
+      <unit id="68860284097462272" name="text_menu_message_server_stop" xml:space="preserve">
+        <segment>
+          <source>The server will stop in a moment. Please be prepared.</source>
+          <target>服务器即将停止。请做好准备。</target>
+        </segment>
+      </unit>
+      <unit id="79710381135822848" name="text_menu_button_buy_the_dlc" xml:space="preserve">
+        <segment>
+          <source>Buy DLC</source>
+          <target>购买DLC</target>
+        </segment>
+      </unit>
+      <unit id="81436672205717504" name="warning_hungry" xml:space="preserve">
+        <segment>
+          <source>Hungry</source>
+          <target>饿</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>
