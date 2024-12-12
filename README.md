@@ -34,6 +34,8 @@ The following languages are currently supported:
 ## Contributor List
 If you have contributed corrections or added translations, your name (or preferred handle) can be added to this file. Aeel free to update this file with your details or request to be added in your PR description.
 
+- **Scpk** (`pl`)
+
 ---
 
 Thank you for helping us make *Ruins To Fortress* better for players worldwide!

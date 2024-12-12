@@ -35,7 +35,7 @@
       <unit id="1660000043" name="text_menu_label_players" xml:space="preserve">
         <segment>
           <source>PLAYERS:</source>
-          <target>Gracz:</target>
+          <target>Gracze:</target>
         </segment>
       </unit>
       <unit id="1660000044" name="text_menu_button_join_selected_server" xml:space="preserve">
@@ -83,7 +83,7 @@
       <unit id="1660000051" name="text_menu_label_limit_fps" xml:space="preserve">
         <segment>
           <source>LIMIT FRAMES PER SECOND:</source>
-          <target>Ograniczenie liczby klatek na sekundę:</target>
+          <target>Ograniczenie klatek na sekundę:</target>
         </segment>
       </unit>
       <unit id="1660000052" name="text_menu_52" xml:space="preserve">
@@ -125,19 +125,19 @@
       <unit id="1660000058" name="text_help_click_or_double_click" xml:space="preserve">
         <segment>
           <source>CLICK OR DOUBLE CLICK</source>
-          <target>Kliknij lub kliknij dwukrotnie</target>
+          <target>Kliknij raz lub dwukrotnie</target>
         </segment>
       </unit>
       <unit id="1660000059" name="text_menu_button_invite_friends" xml:space="preserve">
         <segment>
           <source>INVITE FRIENDS</source>
-          <target>Zaproszenie przyjaciela</target>
+          <target>Zaproś znajomych</target>
         </segment>
       </unit>
       <unit id="1660000060" name="text_help_unload_ammo" xml:space="preserve">
         <segment>
           <source>UNLOAD AMMO</source>
-          <target>rozładować</target>
+          <target>Rozładuj</target>
         </segment>
       </unit>
       <unit id="1660000061" name="text_menu_label_fuel" xml:space="preserve">
@@ -155,7 +155,7 @@
       <unit id="1660000063" name="text_help_move_climb" xml:space="preserve">
         <segment>
           <source>PRESS TO MOVE AND CLIMB LADDERS UP AND DOWN</source>
-          <target>Naciśnij, aby się przesunąć i wspinać się po drabinie w górę i w dół</target>
+          <target>Naciśnij, aby się poruszać i wspinać po drabinach</target>
         </segment>
       </unit>
       <unit id="1660000064" name="text_help_repair_building" xml:space="preserve">
@@ -167,7 +167,7 @@
       <unit id="1660000065" name="text_menu_label_set_sfx_volume" xml:space="preserve">
         <segment>
           <source>SET SFX VOLUME:</source>
-          <target>Ustaw głośność efektów dźwiękowych:</target>
+          <target>Ustaw głośność efektów:</target>
         </segment>
       </unit>
       <unit id="1660000066" name="text_menu_label_inventory" xml:space="preserve">
@@ -197,7 +197,7 @@
       <unit id="1660000070" name="text_menu_label_equipment" xml:space="preserve">
         <segment>
           <source>EQUIPMENT</source>
-          <target>Urządzenie</target>
+          <target>Wyposażenie</target>
         </segment>
       </unit>
       <unit id="1660000071" name="text_menu_label_search" xml:space="preserve">
@@ -215,13 +215,13 @@
       <unit id="1660000073" name="text_help_navigation_no_bed" xml:space="preserve">
         <segment>
           <source>NAVIGATION UNAVAILABLE: YOU MUST DIE OR HAVE A BED FIRST</source>
-          <target>Nawigacja niedostępna: musisz umrzeć albo najpierw mieć łóżko</target>
+          <target>Nawigacja niedostępna: musisz najpierw umrzeć albo mieć łóżko</target>
         </segment>
       </unit>
       <unit id="1660000074" name="text_menu_label_server_browser" xml:space="preserve">
         <segment>
           <source>SERVER BROWSER</source>
-          <target>Przeglądarka serwera</target>
+          <target>Przeglądarka serwerów</target>
         </segment>
       </unit>
       <unit id="1660000075" name="text_menu_label_camera_shake" xml:space="preserve">
@@ -305,13 +305,13 @@
       <unit id="1660000092" name="text_help_field_is_frowing_wait" xml:space="preserve">
         <segment>
           <source>CROPS GROWING, WAIT TO HARVEST</source>
-          <target>Zboża rosną, czekając na zbiór</target>
+          <target>Zboża rosną, poczekaj na zbiór</target>
         </segment>
       </unit>
       <unit id="1660000093" name="text_help_split_items" xml:space="preserve">
         <segment>
           <source>SPLIT ITEMS</source>
-          <target>Podzielić</target>
+          <target>Podziel przedmioty</target>
         </segment>
       </unit>
       <unit id="1660000095" name="text_menu_label_toggle_vsync" xml:space="preserve">
@@ -323,13 +323,13 @@
       <unit id="1660000096" name="text_menu_label_something_wrong" xml:space="preserve">
         <segment>
           <source>OOOPS SOMETHING WRONG</source>
-          <target>UPS, COŚ POSZŁO NIE TAK"</target>
+          <target>UPS, COŚ POSZŁO NIE TAK</target>
         </segment>
       </unit>
       <unit id="1660000097" name="text_menu_label_oven" xml:space="preserve">
         <segment>
           <source>OVEN</source>
-          <target>piekarnik</target>
+          <target>Piekarnik</target>
         </segment>
       </unit>
       <unit id="1660000098" name="text_menu_label_output" xml:space="preserve">
@@ -377,7 +377,7 @@
       <unit id="1660000108" name="text_menu_label_campfire" xml:space="preserve">
         <segment>
           <source>CAMPFIRE</source>
-          <target>ognisko</target>
+          <target>Ognisko</target>
         </segment>
       </unit>
       <unit id="1660000109" name="text_help_legend" xml:space="preserve">
@@ -461,7 +461,7 @@
       <unit id="1660000125" name="text_menu_label_load_game" xml:space="preserve">
         <segment>
           <source>LOAD GAME</source>
-          <target>Ładowanie gry</target>
+          <target>Wczytaj grę</target>
         </segment>
       </unit>
       <unit id="1660000126" name="text_menu_label_pw" xml:space="preserve">
@@ -587,7 +587,7 @@
       <unit id="1660000149" name="text_menu_label_custom_skins" xml:space="preserve">
         <segment>
           <source>CUSTOM SKINS</source>
-          <target>Niestandardowa skórka</target>
+          <target>Niestandardowe skórki</target>
         </segment>
       </unit>
       <unit id="1660000150" name="text_help_drop_item" xml:space="preserve">
@@ -617,7 +617,7 @@
       <unit id="1660000155" name="text_menu_label_smelter" xml:space="preserve">
         <segment>
           <source>SMELTER</source>
-          <target>huta</target>
+          <target>Huta</target>
         </segment>
       </unit>
       <unit id="1660000157" name="text_menu_label_start_game" xml:space="preserve">
@@ -641,7 +641,7 @@
       <unit id="1660000160" name="text_menu_button_controls" xml:space="preserve">
         <segment>
           <source>CONTROLS</source>
-          <target>kontrola</target>
+          <target>Sterowanie</target>
         </segment>
       </unit>
       <unit id="1660000161" name="text_menu_button_general_settings" xml:space="preserve">
@@ -3280,7 +3280,7 @@ Twórcy Ruins to Fortress</target>
       <unit id="20628166091669504" name="text_menu_label_continue" xml:space="preserve">
         <segment>
           <source>continue</source>
-          <target>kontynuować</target>
+          <target>kontynuuj</target>
         </segment>
       </unit>
       <unit id="25019591025688576" name="text_menu_label_comfortzone" xml:space="preserve">
@@ -3316,7 +3316,7 @@ Twórcy Ruins to Fortress</target>
       <unit id="29170777530236928" name="item_Fuse Box" xml:space="preserve">
         <segment>
           <source>Fuse Box</source>
-          <target>Skrzynka bezpiecznikowa</target>
+          <target>Skrzynka rozdzielcza</target>
         </segment>
       </unit>
       <unit id="29170794563305472" name="item_Fuse Box_info" xml:space="preserve">
@@ -3340,7 +3340,7 @@ Twórcy Ruins to Fortress</target>
       <unit id="29170862091599872" name="item_Satoshi Miner" xml:space="preserve">
         <segment>
           <source>Satoshi Miner</source>
-          <target>Górnik Satoshi</target>
+          <target>Koparka Satoshi</target>
         </segment>
       </unit>
       <unit id="29170910825218048" name="item_Satoshi Miner_info" xml:space="preserve">
@@ -3358,7 +3358,7 @@ Twórcy Ruins to Fortress</target>
       <unit id="29170958397014016" name="item_Satoshi Mining Rack_info" xml:space="preserve">
         <segment>
           <source>Houses multiple Satoshi Miners, increasing cryptocurrency production.</source>
-          <target>Mieszczą multiple Satoshi Miners, zwiększając produkcję kryptowaluty.</target>
+          <target>Mieszczą wiele koparek satoshi, zwiększając produkcję kryptowaluty.</target>
         </segment>
       </unit>
       <unit id="29170977481097216" name="item_Planter Box" xml:space="preserve">
@@ -3628,7 +3628,7 @@ Twórcy Ruins to Fortress</target>
       <unit id="55288823856431104" name="text_menu_label_skins" xml:space="preserve">
         <segment>
           <source>Custom Skins</source>
-          <target>Custom Skins</target>
+          <target>Niestandardowe skórki</target>
         </segment>
       </unit>
       <unit id="55289688130519040" name="text_menu_button_clothing" xml:space="preserve">
@@ -3646,31 +3646,31 @@ Twórcy Ruins to Fortress</target>
       <unit id="55290095741370368" name="text_menu_button_others" xml:space="preserve">
         <segment>
           <source>Others</source>
-          <target>Inni</target>
+          <target>Inne</target>
         </segment>
       </unit>
       <unit id="55357687877271552" name="text_menu_label_preview_skin" xml:space="preserve">
         <segment>
           <source>Skin Demo</source>
-          <target>Demo Skina</target>
+          <target>Podgląd</target>
         </segment>
       </unit>
       <unit id="55357788255354880" name="text_menu_label_select_base_item" xml:space="preserve">
         <segment>
           <source>Select Item And Choose Skin</source>
-          <target>Wybierz przedmiot i wybierz skórkę</target>
+          <target>Wybierz przedmiot i skórkę</target>
         </segment>
       </unit>
       <unit id="55625548873007104" name="text_menu_label_skin" xml:space="preserve">
         <segment>
           <source>Skin</source>
-          <target>Skin</target>
+          <target>Skórka</target>
         </segment>
       </unit>
       <unit id="55994273413398528" name="text_menu_button_set_skin_default" xml:space="preserve">
         <segment>
           <source>Set Default</source>
-          <target>Ustaw jako domyślne</target>
+          <target>Przywróć domyślne</target>
         </segment>
       </unit>
       <unit id="56082272897662976" name="text_menu_label_select_item_category" xml:space="preserve">
@@ -3796,19 +3796,19 @@ Twórcy Ruins to Fortress</target>
       <unit id="68331088845668352" name="text_menu_label_crafting_menu" xml:space="preserve">
         <segment>
           <source>CRAFTING MENU</source>
-          <target>MENU KRAFTOWANIA</target>
+          <target>MENU WYTWARZANIA</target>
         </segment>
       </unit>
       <unit id="68358857914777600" name="text_menu_label_crafting_all_items" xml:space="preserve">
         <segment>
           <source>ALL ITEMS</source>
-          <target>WSZYSTKIE POZYCJE</target>
+          <target>WSZYSTKO</target>
         </segment>
       </unit>
       <unit id="68358956778717184" name="text_menu_label_crafting_common_items" xml:space="preserve">
         <segment>
           <source>COMMON</source>
-          <target>PRZEDMIOTY OGÓLNE</target>
+          <target>OGÓLNE</target>
         </segment>
       </unit>
       <unit id="68358998151331840" name="text_menu_label_crafting_tools_items" xml:space="preserve">
